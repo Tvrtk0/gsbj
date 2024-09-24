@@ -3,18 +3,22 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro check && astro build",
+    "dev": "tinacms dev -c 'astro dev'",
+    "start": "tinacms build && astro dev",
+    "build": "tinacms build && astro build",
+    "check": "astro check",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.3",
     "astro": "^4.15.9",
+    "tinacms": "^2.2.5",
     "typescript": "^5.6.2"
   },
   "devDependencies": {
+    "@tinacms/cli": "^1.6.5",
+    "@types/node": "^22.6.1",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.14.1"
   }
