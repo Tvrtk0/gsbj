@@ -1,0 +1,47 @@
+---
+import '../styles/global.css';
+import MobileNav from '../components/MobileNav.astro';
+import SEO from '../components/SEO.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  type?: 'website' | 'product';
+  jsonLd?: Record<string, unknown>;
+}
+
+const { title, description, image, type, jsonLd } = Astro.props;
+---
+
+<!doctype html>
+<html lang="hr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <SEO title={title} description={description} image={image} type={type} jsonLd={jsonLd} />
+  </head>
+  <body class="min-h-screen flex flex-col bg-background text-foreground">
+    <header class="sticky top-0 z-50 bg-card/95 backdrop-blur border-b border-border">
+      <MobileNav />
+    </header>
+
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <footer class="border-t border-border bg-card py-8 px-4 md:px-8">
+      <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+        <p class="text-sm text-muted-foreground">
+          &copy; {new Date().getFullYear()} Gift Shop Bjelovar. Sva prava pridržana.
+        </p>
+        <nav class="flex gap-4">
+          <a href="/" class="text-sm text-muted-foreground hover:text-primary transition-colors">Početna</a>
+          <a href="/products" class="text-sm text-muted-foreground hover:text-primary transition-colors">Proizvodi</a>
+          <a href="/contact" class="text-sm text-muted-foreground hover:text-primary transition-colors">Kontakt</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

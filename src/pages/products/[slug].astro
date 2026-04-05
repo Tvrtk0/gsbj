@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products', ({ data }) => !data.archive);
+  return products.map((product) => ({
+    params: { slug: product.id },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const { data } = product;
+const { Content } = await render(product);
+
+const categories = await getCollection('categories');
+const category = categories.find((c) => c.data.slug === data.category);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: data.name,
+  description: product.body?.trim() || data.name,
+  image: new URL(data.image, Astro.site).href,
+  offers: {
+    '@type': 'Offer',
+    price: data.price.toFixed(2),
+    priceCurrency: 'EUR',
+    availability: 'https://schema.org/InStock',
+  },
+};
+---
+
+<BaseLayout
+  title={data.name}
+  description={product.body?.trim() || data.name}
+  image={data.image}
+  type="product"
+  jsonLd={jsonLd}
+>
+  <section class="py-10 px-4 md:px-8" data-pagefind-body>
+    <div class="max-w-4xl mx-auto">
+      <a href="/products" class="text-sm text-muted-foreground hover:text-primary transition-colors mb-4 inline-block" data-pagefind-ignore>
+        &larr; Natrag na proizvode
+      </a>
+
+      <div class="grid md:grid-cols-2 gap-8 mt-4">
+        <div class="aspect-square overflow-hidden rounded-lg border border-border bg-muted">
+          <img
+            src={data.image}
+            alt={data.name}
+            class="w-full h-full object-cover"
+          />
+        </div>
+
+        <div>
+          {category && (
+            <a
+              href={`/products?category=${data.category}`}
+              class="text-xs font-medium text-primary bg-primary/10 px-2 py-0.5 rounded-sm hover:bg-primary/20 transition-colors"
+            >
+              {category.data.name}
+            </a>
+          )}
+
+          <h1 class="text-2xl md:text-3xl font-bold mt-3">{data.name}</h1>
+
+          <p class="text-2xl font-semibold text-primary mt-4">
+            {data.price.toFixed(2)} &euro;
+          </p>
+
+          <div class="mt-6 text-muted-foreground whitespace-pre-line">
+            <Content />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

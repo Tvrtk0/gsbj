@@ -1,0 +1,38 @@
+---
+interface Props {
+  name: string;
+  slug: string;
+  price: number;
+  image: string;
+  category: string;
+  categoryName?: string;
+}
+
+const { name, slug, price, image, category, categoryName } = Astro.props;
+---
+
+<a
+  href={`/products/${slug}`}
+  class="group block bg-card rounded-lg border border-border overflow-hidden transition-shadow hover:shadow-md"
+  data-category={category}
+>
+  <div class="aspect-square overflow-hidden bg-muted">
+    <img
+      src={image}
+      alt={name}
+      class="w-full h-full object-cover transition-transform group-hover:scale-105"
+      loading="lazy"
+    />
+  </div>
+  <div class="p-4">
+    {categoryName && (
+      <span class="text-xs font-medium text-primary bg-primary/10 px-2 py-0.5 rounded-sm">
+        {categoryName}
+      </span>
+    )}
+    <h3 class="mt-2 font-medium text-card-foreground line-clamp-2">{name}</h3>
+    <p class="mt-1 text-lg font-semibold text-primary">
+      {price.toFixed(2)} &euro;
+    </p>
+  </div>
+</a>

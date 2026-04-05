@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #b5838d;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #6d6875;
+  --color-secondary-foreground: #ffffff;
+  --color-background: #fafaf9;
+  --color-foreground: #1c1917;
+  --color-muted: #e7e5e4;
+  --color-muted-foreground: #78716c;
+  --color-accent: #e8b4b8;
+  --color-border: #d6d3d1;
+  --color-card: #ffffff;
+  --color-card-foreground: #292524;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}

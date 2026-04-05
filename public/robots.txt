@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giftshopbjelovar.hr/sitemap-index.xml

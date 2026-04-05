@@ -24,3 +24,6 @@ pnpm-debug.log*
 .idea/
 
 node_modules
+
+gsbj-db-backup.json
+gsbj-db-backup-2.json

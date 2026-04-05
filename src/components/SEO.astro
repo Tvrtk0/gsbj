@@ -1,0 +1,35 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  url?: string;
+  type?: 'website' | 'product';
+  jsonLd?: Record<string, unknown>;
+}
+
+const {
+  title,
+  description,
+  image = '/og-default.jpg',
+  url = Astro.url.href,
+  type = 'website',
+  jsonLd,
+} = Astro.props;
+
+const siteName = 'Gift Shop Bjelovar';
+const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+---
+
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={new URL(image, Astro.site).href} />
+<meta property="og:url" content={url} />
+<meta property="og:type" content={type} />
+<meta property="og:site_name" content={siteName} />
+<meta name="twitter:card" content="summary_large_image" />
+{jsonLd && (
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+)}

@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: owner/gsbj
+  branch: main
+
+media_folder: 'src/content/products/images'
+public_folder: '/src/content/products/images'
+
+collections:
+  - name: 'products'
+    label: 'Proizvodi'
+    folder: 'src/content/products'
+    create: true
+    slug: '{{slug}}'
+    extension: 'md'
+    fields:
+      - { label: 'Naziv', name: 'name', widget: 'string', required: true }
+      - { label: 'Cijena (EUR)', name: 'price', widget: 'number', value_type: 'float', required: true }
+      - { label: 'Slika', name: 'image', widget: 'image', required: true }
+      - label: 'Kategorija'
+        name: 'category'
+        widget: 'relation'
+        collection: 'categories'
+        search_fields: ['name']
+        value_field: 'slug'
+        display_fields: ['name']
+        required: true
+      - { label: 'Arhivirano', name: 'archive', widget: 'boolean', default: false }
+      - { label: 'Opis', name: 'body', widget: 'text' }
+
+  - name: 'categories'
+    label: 'Kategorije'
+    folder: 'src/content/categories'
+    create: true
+    slug: '{{slug}}'
+    extension: 'yaml'
+    format: 'yaml'
+    fields:
+      - { label: 'Naziv', name: 'name', widget: 'string', required: true }
+      - { label: 'Slug', name: 'slug', widget: 'string', required: true }
+
+  - name: 'info'
+    label: 'Poslovne informacije'
+    files:
+      - label: 'Opće informacije'
+        name: 'general'
+        file: 'src/content/info/general.yaml'
+        fields:
+          - { label: 'Naziv tvrtke', name: 'businessName', widget: 'string' }
+          - { label: 'Telefon', name: 'phone', widget: 'string' }
+          - { label: 'Email', name: 'email', widget: 'string' }
+          - { label: 'Adresa', name: 'address', widget: 'string' }
+          - label: 'Radno vrijeme'
+            name: 'workingHours'
+            widget: 'list'
+            fields:
+              - { label: 'Dan', name: 'day', widget: 'string' }
+              - { label: 'Sati', name: 'hours', widget: 'string' }
+          - { label: 'Google Maps Embed URL', name: 'googleMapsEmbedUrl', widget: 'string' }
+          - label: 'Društvene mreže'
+            name: 'social'
+            widget: 'object'
+            fields:
+              - { label: 'Facebook', name: 'facebook', widget: 'string', required: false }
+              - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
+          - { label: 'O nama', name: 'aboutText', widget: 'text' }

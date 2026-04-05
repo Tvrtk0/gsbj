@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CategoryFilter from '../../components/CategoryFilter.astro';
+import ProductGrid from '../../components/ProductGrid.astro';
+import { getCollection } from 'astro:content';
+
+const allProducts = await getCollection('products', ({ data }) => !data.archive);
+const categories = await getCollection('categories');
+
+const categoryMap = new Map(categories.map((c) => [c.data.slug, c.data.name]));
+const categoryList = categories.map((c) => ({ slug: c.data.slug, name: c.data.name }));
+---
+
+<BaseLayout title="Proizvodi" description="Pregledajte našu ponudu poklona, suvenira i drugih proizvoda.">
+  <section class="py-10 px-4 md:px-8">
+    <div class="max-w-6xl mx-auto">
+      <h1 class="text-3xl font-bold mb-6">Proizvodi</h1>
+
+      <div id="search" class="mb-6"></div>
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+      <script is:inline src="/pagefind/pagefind-ui.js"></script>
+      <script is:inline>
+        window.addEventListener('DOMContentLoaded', () => {
+          new PagefindUI({ element: '#search', showSubResults: false });
+        });
+      </script>
+
+      <CategoryFilter categories={categoryList} />
+      <ProductGrid products={allProducts} categoryMap={categoryMap} />
+
+      {allProducts.length === 0 && (
+        <p class="text-center text-muted-foreground py-12">Nema proizvoda za prikaz.</p>
+      )}
+    </div>
+  </section>
+</BaseLayout>

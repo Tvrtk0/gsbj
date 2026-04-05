@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import WorkingHours from '../components/WorkingHours.astro';
+import MapEmbed from '../components/MapEmbed.astro';
+import SocialLinks from '../components/SocialLinks.astro';
+import { getCollection } from 'astro:content';
+
+const [info] = await getCollection('info');
+const { data } = info;
+---
+
+<BaseLayout title="Kontakt" description={`Kontaktirajte ${data.businessName} — ${data.address}`}>
+  <section class="py-10 px-4 md:px-8">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-3xl font-bold mb-8">Kontakt</h1>
+
+      <div class="grid md:grid-cols-2 gap-8">
+        <div class="space-y-6">
+          {/* Address */}
+          <div>
+            <h2 class="text-lg font-semibold mb-2">Adresa</h2>
+            <p class="text-muted-foreground">{data.address}</p>
+          </div>
+
+          {/* Phone & Email */}
+          <div>
+            <h2 class="text-lg font-semibold mb-2">Kontakt podaci</h2>
+            <p>
+              <a href={`tel:${data.phone}`} class="text-primary hover:underline">{data.phone}</a>
+            </p>
+            <p>
+              <a href={`mailto:${data.email}`} class="text-primary hover:underline">{data.email}</a>
+            </p>
+          </div>
+
+          {/* Working Hours */}
+          <div>
+            <h2 class="text-lg font-semibold mb-2">Radno vrijeme</h2>
+            <WorkingHours hours={data.workingHours} />
+          </div>
+
+          {/* Social */}
+          <div>
+            <h2 class="text-lg font-semibold mb-2">Pratite nas</h2>
+            <SocialLinks facebook={data.social.facebook} instagram={data.social.instagram} />
+          </div>
+        </div>
+
+        {/* Map */}
+        <div>
+          <MapEmbed url={data.googleMapsEmbedUrl} />
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

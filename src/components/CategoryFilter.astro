@@ -1,0 +1,55 @@
+---
+interface Category {
+  slug: string;
+  name: string;
+}
+
+interface Props {
+  categories: Category[];
+}
+
+const { categories } = Astro.props;
+---
+
+<div class="flex flex-wrap gap-2 mb-6" id="category-filter">
+  <button
+    class="filter-btn px-3 py-1.5 text-sm font-medium rounded-md border border-primary bg-primary text-primary-foreground transition-colors"
+    data-category="all"
+  >
+    Sve
+  </button>
+  {categories.map((cat) => (
+    <button
+      class="filter-btn px-3 py-1.5 text-sm font-medium rounded-md border border-border bg-card text-card-foreground hover:border-primary hover:text-primary transition-colors"
+      data-category={cat.slug}
+    >
+      {cat.name}
+    </button>
+  ))}
+</div>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+  const cards = document.querySelectorAll<HTMLElement>('#product-grid > a');
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const category = btn.dataset.category!;
+
+      buttons.forEach((b) => {
+        const isActive = b === btn;
+        b.classList.toggle('bg-primary', isActive);
+        b.classList.toggle('text-primary-foreground', isActive);
+        b.classList.toggle('border-primary', isActive);
+        b.classList.toggle('bg-card', !isActive);
+        b.classList.toggle('text-card-foreground', !isActive);
+        b.classList.toggle('border-border', !isActive);
+      });
+
+      cards.forEach((card) => {
+        const show = category === 'all' || card.dataset.category === category;
+        card.classList.toggle('hidden', !show);
+      });
+    });
+  });
+</script>
