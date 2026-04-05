@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://tvrtk0.github.io',
-  base: '/gsbj',
+  base: '/gsbj/',
   output: 'static',
   integrations: [sitemap()],
   vite: {
