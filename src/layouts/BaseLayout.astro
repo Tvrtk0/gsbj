@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import MobileNav from '../components/MobileNav.astro';
+import AgeGate from '../components/AgeGate.astro';
 import SEO from '../components/SEO.astro';
 
 interface Props {
@@ -28,6 +29,8 @@ const base = import.meta.env.BASE_URL;
       <MobileNav />
     </header>
 
+    <AgeGate />
+
     <main class="flex-1">
       <slot />
     </main>
@@ -41,6 +44,7 @@ const base = import.meta.env.BASE_URL;
           <a href={base} class="text-sm text-muted-foreground hover:text-primary transition-colors">Početna</a>
           <a href={`${base}products`} class="text-sm text-muted-foreground hover:text-primary transition-colors">Proizvodi</a>
           <a href={`${base}contact`} class="text-sm text-muted-foreground hover:text-primary transition-colors">Kontakt</a>
+          <a href={`${base}policy`} class="text-sm text-muted-foreground hover:text-primary transition-colors">Pravila</a>
         </nav>
       </div>
     </footer>

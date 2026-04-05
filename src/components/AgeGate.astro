@@ -1,0 +1,66 @@
+---
+---
+
+<div id="age-gate" class="fixed inset-0 z-[100] bg-black/70 backdrop-blur-sm flex items-center justify-center p-4 hidden">
+  <div class="bg-card rounded-xl border border-border shadow-2xl max-w-md w-full p-8 text-center">
+    <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-primary/10 flex items-center justify-center">
+      <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z" />
+      </svg>
+    </div>
+    <h2 class="text-xl font-bold text-card-foreground mb-2">Dobna provjera</h2>
+    <p class="text-muted-foreground text-sm mb-6">
+      Ova stranica prikazuje proizvode namijenjene osobama starijima od 18 godina, uključujući duhanske proizvode i elektronske cigarete.
+    </p>
+    <p class="text-foreground font-medium mb-6">Imate li 18 ili više godina?</p>
+    <div class="flex gap-3">
+      <button
+        id="age-gate-no"
+        class="flex-1 px-6 py-3 border-2 border-border text-muted-foreground font-medium rounded-lg hover:border-red-400 hover:text-red-500 transition-colors"
+      >
+        Ne
+      </button>
+      <button
+        id="age-gate-yes"
+        class="flex-1 px-6 py-3 bg-primary text-primary-foreground font-medium rounded-lg hover:opacity-90 transition-opacity"
+      >
+        Da, imam 18+
+      </button>
+    </div>
+    <p class="text-xs text-muted-foreground mt-4">
+      Sukladno Zakonu o ograničavanju uporabe duhanskih i srodnih proizvoda (NN 45/17).
+    </p>
+  </div>
+</div>
+
+<div id="age-gate-denied" class="fixed inset-0 z-[100] bg-black/90 flex items-center justify-center p-4 hidden">
+  <div class="bg-card rounded-xl border border-border shadow-2xl max-w-md w-full p-8 text-center">
+    <h2 class="text-xl font-bold text-card-foreground mb-4">Pristup nije dozvoljen</h2>
+    <p class="text-muted-foreground text-sm">
+      Morate imati najmanje 18 godina za pristup ovoj stranici.
+    </p>
+  </div>
+</div>
+
+<script>
+  const gate = document.getElementById('age-gate')!;
+  const denied = document.getElementById('age-gate-denied')!;
+  const btnYes = document.getElementById('age-gate-yes')!;
+  const btnNo = document.getElementById('age-gate-no')!;
+
+  if (!localStorage.getItem('age-verified')) {
+    gate.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  }
+
+  btnYes.addEventListener('click', () => {
+    localStorage.setItem('age-verified', 'true');
+    gate.classList.add('hidden');
+    document.body.style.overflow = '';
+  });
+
+  btnNo.addEventListener('click', () => {
+    gate.classList.add('hidden');
+    denied.classList.remove('hidden');
+  });
+</script>
