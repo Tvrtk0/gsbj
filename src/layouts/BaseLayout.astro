@@ -12,6 +12,7 @@ interface Props {
 }
 
 const { title, description, image, type, jsonLd } = Astro.props;
+const base = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -19,7 +20,7 @@ const { title, description, image, type, jsonLd } = Astro.props;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href={`${base}favicon.ico`} />
     <SEO title={title} description={description} image={image} type={type} jsonLd={jsonLd} />
   </head>
   <body class="min-h-screen flex flex-col bg-background text-foreground">
@@ -37,9 +38,9 @@ const { title, description, image, type, jsonLd } = Astro.props;
           &copy; {new Date().getFullYear()} Gift Shop Bjelovar. Sva prava pridržana.
         </p>
         <nav class="flex gap-4">
-          <a href="/" class="text-sm text-muted-foreground hover:text-primary transition-colors">Početna</a>
-          <a href="/products" class="text-sm text-muted-foreground hover:text-primary transition-colors">Proizvodi</a>
-          <a href="/contact" class="text-sm text-muted-foreground hover:text-primary transition-colors">Kontakt</a>
+          <a href={base} class="text-sm text-muted-foreground hover:text-primary transition-colors">Početna</a>
+          <a href={`${base}products`} class="text-sm text-muted-foreground hover:text-primary transition-colors">Proizvodi</a>
+          <a href={`${base}contact`} class="text-sm text-muted-foreground hover:text-primary transition-colors">Kontakt</a>
         </nav>
       </div>
     </footer>
