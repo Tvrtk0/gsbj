@@ -1,7 +1,7 @@
 ---
 name: 'EONKO Classic Benz 300SL Bluetooth zvučnik'
 price: 29
-image: './images/eonko-classic-benz-300sl-bluetooth-zvucnik.jpg'
+image: '/gsbj/images/eonko-classic-benz-300sl-bluetooth-zvucnik.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

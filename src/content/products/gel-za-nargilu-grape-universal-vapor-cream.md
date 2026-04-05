@@ -1,7 +1,7 @@
 ---
 name: 'Gel za nargilu GRAPE  Universal Vapor Cream'
 price: 11.81
-image: './images/gel-za-nargilu-grape-universal-vapor-cream.jpg'
+image: '/gsbj/images/gel-za-nargilu-grape-universal-vapor-cream.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

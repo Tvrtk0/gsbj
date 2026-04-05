@@ -1,7 +1,7 @@
 ---
 name: ' GRIJAČ ASPIRE BVC'
 price: 2.65
-image: './images/grijac-aspire-bvc.jpg'
+image: '/gsbj/images/grijac-aspire-bvc.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---

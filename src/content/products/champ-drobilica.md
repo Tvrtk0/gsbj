@@ -1,7 +1,7 @@
 ---
 name: 'CHAMP DROBILICA'
 price: 22.43
-image: './images/champ-drobilica.jpg'
+image: '/gsbj/images/champ-drobilica.jpg'
 category: 'ostalo'
 archive: false
 ---

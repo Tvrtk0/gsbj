@@ -1,7 +1,7 @@
 ---
 name: 'White Shark SLUŠALICE GH-1946 JAGUAR-7.1'
 price: 30.39
-image: './images/white-shark-slusalice-gh-1946-jaguar-71.jpg'
+image: '/gsbj/images/white-shark-slusalice-gh-1946-jaguar-71.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

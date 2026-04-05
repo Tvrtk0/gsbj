@@ -1,7 +1,7 @@
 ---
 name: 'Stroj za nabijanje cigareta TOP-O-MATIC'
 price: 52.96
-image: './images/stroj-za-nabijanje-cigareta-top-o-matic.jpg'
+image: '/gsbj/images/stroj-za-nabijanje-cigareta-top-o-matic.jpg'
 category: 'pusacki-pribor'
 archive: true
 ---

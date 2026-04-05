@@ -1,7 +1,7 @@
 ---
 name: 'Zidni sat'
 price: 7.96
-image: './images/zidni-sat-2.jpg'
+image: '/gsbj/images/zidni-sat-2.jpg'
 category: 'satovi-i-nakit'
 archive: true
 ---

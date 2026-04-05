@@ -1,7 +1,7 @@
 ---
 name: 'Nož vojni'
 price: 13
-image: './images/noz-vojni.jpg'
+image: '/gsbj/images/noz-vojni.jpg'
 category: 'nozevi'
 archive: false
 ---

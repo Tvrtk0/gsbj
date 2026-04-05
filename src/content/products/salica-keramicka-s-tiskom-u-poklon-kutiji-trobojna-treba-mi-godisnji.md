@@ -1,7 +1,7 @@
 ---
 name: 'ŠALICA KERAMIČKA S TISKOM U POKLON KUTIJI TROBOJNA - Treba mi godišnji'
 price: 5.5
-image: './images/salica-keramicka-s-tiskom-u-poklon-kutiji-trobojna-treba-mi-godisnji.jpg'
+image: '/gsbj/images/salica-keramicka-s-tiskom-u-poklon-kutiji-trobojna-treba-mi-godisnji.jpg'
 category: 'salice'
 archive: false
 ---

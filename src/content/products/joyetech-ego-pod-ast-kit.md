@@ -1,7 +1,7 @@
 ---
 name: ' JOYETECH EGO POD AST KIT'
 price: 20
-image: './images/joyetech-ego-pod-ast-kit.jpg'
+image: '/gsbj/images/joyetech-ego-pod-ast-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

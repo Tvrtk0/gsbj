@@ -1,7 +1,7 @@
 ---
 name: 'SWISSTEN držač za mobitel, za ventilaciju'
 price: 13.14
-image: './images/swissten-drzac-za-mobitel-za-ventilaciju.jpg'
+image: '/gsbj/images/swissten-drzac-za-mobitel-za-ventilaciju.jpg'
 category: 'ostalo'
 archive: false
 ---

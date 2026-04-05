@@ -1,7 +1,7 @@
 ---
 name: 'Sunčane naočale ženske Polarized'
 price: 12
-image: './images/suncane-naocale-zenske-polarized.jpg'
+image: '/gsbj/images/suncane-naocale-zenske-polarized.jpg'
 category: 'suncane-naocale'
 archive: false
 ---

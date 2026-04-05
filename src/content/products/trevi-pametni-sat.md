@@ -1,7 +1,7 @@
 ---
 name: 'TREVI pametni sat'
 price: 53
-image: './images/trevi-pametni-sat.jpg'
+image: '/gsbj/images/trevi-pametni-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

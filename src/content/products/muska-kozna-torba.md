@@ -1,7 +1,7 @@
 ---
 name: 'Muška kožna torba'
 price: 26
-image: './images/muska-kozna-torba.jpg'
+image: '/gsbj/images/muska-kozna-torba.jpg'
 category: 'novcanici-i-torbe'
 archive: false
 ---

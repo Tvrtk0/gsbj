@@ -1,7 +1,7 @@
 ---
 name: 'FITWATCH X Smart Watch'
 price: 99
-image: './images/fitwatch-x-smart-watch-2.jpg'
+image: '/gsbj/images/fitwatch-x-smart-watch-2.jpg'
 category: 'satovi-i-nakit'
 archive: true
 ---

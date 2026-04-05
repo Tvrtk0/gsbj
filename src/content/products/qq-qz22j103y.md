@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q QZ22J103Y'
 price: 29.07
-image: './images/qq-qz22j103y.jpg'
+image: '/gsbj/images/qq-qz22j103y.jpg'
 category: 'satovi-i-nakit'
 archive: true
 ---

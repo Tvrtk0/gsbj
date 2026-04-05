@@ -1,7 +1,7 @@
 ---
 name: 'DROBILICA POKER CHIPS'
 price: 8
-image: './images/drobilica-poker-chips.jpg'
+image: '/gsbj/images/drobilica-poker-chips.jpg'
 category: 'ostalo'
 archive: false
 ---

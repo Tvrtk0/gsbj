@@ -1,7 +1,7 @@
 ---
 name: 'WS-233 Benz Bluetooth zvučnik u obliku automobila s TF USB FM AUX handsfree LED svjetlom'
 price: 22.43
-image: './images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg'
+image: '/gsbj/images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Jamara Mercedes AMG GT'
 price: 50.3
-image: './images/jamara-mercedes-amg-gt.jpg'
+image: '/gsbj/images/jamara-mercedes-amg-gt.jpg'
 category: 'igracke'
 archive: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Zidni sat - suvenir grada Bjelovara'
 price: 19.78
-image: './images/zidni-sat-suvenir-grada-bjelovara.jpg'
+image: '/gsbj/images/zidni-sat-suvenir-grada-bjelovara.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

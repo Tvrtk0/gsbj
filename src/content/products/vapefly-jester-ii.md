@@ -1,7 +1,7 @@
 ---
 name: 'Vapefly Jester II'
 price: 22
-image: './images/vapefly-jester-ii.jpg'
+image: '/gsbj/images/vapefly-jester-ii.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

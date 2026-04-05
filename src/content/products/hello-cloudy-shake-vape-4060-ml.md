@@ -1,7 +1,7 @@
 ---
 name: 'HELLO CLOUDY Shake & Vape 40/60 ML '
 price: 6.64
-image: './images/hello-cloudy-shake-vape-4060-ml.jpg'
+image: '/gsbj/images/hello-cloudy-shake-vape-4060-ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

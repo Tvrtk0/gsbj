@@ -1,7 +1,7 @@
 ---
 name: 'Ogledalo srce sa porukom'
 price: 6.5
-image: './images/ogledalo-srce-sa-porukom.jpg'
+image: '/gsbj/images/ogledalo-srce-sa-porukom.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

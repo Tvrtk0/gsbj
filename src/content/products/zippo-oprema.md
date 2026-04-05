@@ -1,7 +1,7 @@
 ---
 name: 'Zippo oprema'
 price: 2.5
-image: './images/zippo-oprema.jpg'
+image: '/gsbj/images/zippo-oprema.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

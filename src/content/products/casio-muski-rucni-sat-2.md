@@ -1,7 +1,7 @@
 ---
 name: 'CASIO muški ručni sat'
 price: 46.32
-image: './images/casio-muski-rucni-sat-2.jpg'
+image: '/gsbj/images/casio-muski-rucni-sat-2.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

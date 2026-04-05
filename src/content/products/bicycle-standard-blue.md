@@ -1,7 +1,7 @@
 ---
 name: 'Bicycle Standard Blue'
 price: 9
-image: './images/bicycle-standard-blue.jpg'
+image: '/gsbj/images/bicycle-standard-blue.jpg'
 category: 'igracke'
 archive: false
 ---

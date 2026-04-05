@@ -1,7 +1,7 @@
 ---
 name: 'VOYE V009A BEŽIČNO ZVONO'
 price: 9.16
-image: './images/voye-v009a-bezicno-zvono.jpg'
+image: '/gsbj/images/voye-v009a-bezicno-zvono.jpg'
 category: 'ostalo'
 archive: false
 ---

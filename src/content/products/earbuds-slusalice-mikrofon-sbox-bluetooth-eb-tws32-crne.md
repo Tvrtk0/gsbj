@@ -1,7 +1,7 @@
 ---
 name: 'EARBUDS SLUŠALICE + MIKROFON SBOX BLUETOOTH EB-TWS32 CRNE'
 price: 19.78
-image: './images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws32-crne.jpg'
+image: '/gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws32-crne.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

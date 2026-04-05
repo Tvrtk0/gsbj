@@ -1,7 +1,7 @@
 ---
 name: 'Retro mjedeni držač filtra za cigarete - cigaršpic'
 price: 11.81
-image: './images/retro-mjedeni-drzac-filtra-za-cigarete-cigarspic.jpg'
+image: '/gsbj/images/retro-mjedeni-drzac-filtra-za-cigarete-cigarspic.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

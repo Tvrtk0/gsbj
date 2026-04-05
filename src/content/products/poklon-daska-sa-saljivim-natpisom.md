@@ -1,7 +1,7 @@
 ---
 name: 'Poklon daska sa šaljivim natpisom'
 price: 19
-image: './images/poklon-daska-sa-saljivim-natpisom.jpg'
+image: '/gsbj/images/poklon-daska-sa-saljivim-natpisom.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

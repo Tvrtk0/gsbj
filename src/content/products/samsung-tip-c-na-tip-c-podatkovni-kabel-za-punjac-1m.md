@@ -1,7 +1,7 @@
 ---
 name: 'Samsung Tip-C na Tip-C podatkovni kabel za punjač, 1m'
 price: 7.83
-image: './images/samsung-tip-c-na-tip-c-podatkovni-kabel-za-punjac-1m.jpg'
+image: '/gsbj/images/samsung-tip-c-na-tip-c-podatkovni-kabel-za-punjac-1m.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

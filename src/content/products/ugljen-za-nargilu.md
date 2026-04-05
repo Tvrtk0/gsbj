@@ -1,7 +1,7 @@
 ---
 name: 'Ugljen za NARGILU'
 price: 1.33
-image: './images/ugljen-za-nargilu.jpg'
+image: '/gsbj/images/ugljen-za-nargilu.jpg'
 category: 'ostalo'
 archive: false
 ---

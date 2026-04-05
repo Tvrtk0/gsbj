@@ -1,7 +1,7 @@
 ---
 name: 'Zvučnik Veho M1-360 3.5 mm crni'
 price: 7.83
-image: './images/zvucnik-veho-m1-360-35-mm-crni.jpg'
+image: '/gsbj/images/zvucnik-veho-m1-360-35-mm-crni.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

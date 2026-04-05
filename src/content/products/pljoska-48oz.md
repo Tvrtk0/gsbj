@@ -1,7 +1,7 @@
 ---
 name: 'Pljoska 48oZ'
 price: 18.45
-image: './images/pljoska-48oz.jpg'
+image: '/gsbj/images/pljoska-48oz.jpg'
 category: 'ostalo'
 archive: false
 ---

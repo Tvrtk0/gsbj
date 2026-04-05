@@ -1,7 +1,7 @@
 ---
 name: 'LIGE SAT'
 price: 46.32
-image: './images/lige-sat.jpg'
+image: '/gsbj/images/lige-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

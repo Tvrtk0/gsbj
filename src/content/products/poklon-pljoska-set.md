@@ -1,7 +1,7 @@
 ---
 name: 'Poklon Pljoska set'
 price: 20
-image: './images/poklon-pljoska-set.jpg'
+image: '/gsbj/images/poklon-pljoska-set.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

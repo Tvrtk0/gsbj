@@ -1,7 +1,7 @@
 ---
 name: 'Vbar Cubo Lite'
 price: 6.64
-image: './images/vbar-cubo-lite.jpg'
+image: '/gsbj/images/vbar-cubo-lite.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---

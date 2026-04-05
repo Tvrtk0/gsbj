@@ -1,7 +1,7 @@
 ---
 name: 'WHITE SHARK RING LED SVJETLO RL-08 MOONLIGHT 20 CM'
 price: 17.12
-image: './images/white-shark-ring-led-svjetlo-rl-08-moonlight-20-cm.jpg'
+image: '/gsbj/images/white-shark-ring-led-svjetlo-rl-08-moonlight-20-cm.jpg'
 category: 'lampe'
 archive: true
 ---

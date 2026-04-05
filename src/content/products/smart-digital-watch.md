@@ -1,7 +1,7 @@
 ---
 name: 'Smart Digital Watch'
 price: 15.79
-image: './images/smart-digital-watch.jpg'
+image: '/gsbj/images/smart-digital-watch.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

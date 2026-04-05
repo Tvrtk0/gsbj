@@ -1,7 +1,7 @@
 ---
 name: 'RUČNA LED LAMPA'
 price: 19.78
-image: './images/rucna-led-lampa.jpg'
+image: '/gsbj/images/rucna-led-lampa.jpg'
 category: 'lampe'
 archive: true
 ---

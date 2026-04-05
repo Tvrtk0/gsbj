@@ -1,7 +1,7 @@
 ---
 name: 'SWISSTEN držač za mobitel, za bicikl ili motor ili romobil vodootporan size XL'
 price: 26.41
-image: './images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg'
+image: '/gsbj/images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg'
 category: 'novcanici-i-torbe'
 archive: false
 ---

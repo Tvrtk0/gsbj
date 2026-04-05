@@ -1,7 +1,7 @@
 ---
 name: 'Precizna Vaga Za Nakit '
 price: 13
-image: './images/precizna-vaga-za-nakit.jpg'
+image: '/gsbj/images/precizna-vaga-za-nakit.jpg'
 category: 'ostalo'
 archive: false
 ---

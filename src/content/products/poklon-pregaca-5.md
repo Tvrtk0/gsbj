@@ -1,7 +1,7 @@
 ---
 name: 'Poklon pregača'
 price: 12
-image: './images/poklon-pregaca-5.jpg'
+image: '/gsbj/images/poklon-pregaca-5.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

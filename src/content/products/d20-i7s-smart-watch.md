@@ -1,7 +1,7 @@
 ---
 name: ' D20 i7s Smart Watch'
 price: 19.78
-image: './images/d20-i7s-smart-watch.jpg'
+image: '/gsbj/images/d20-i7s-smart-watch.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

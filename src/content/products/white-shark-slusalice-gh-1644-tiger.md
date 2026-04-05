@@ -1,7 +1,7 @@
 ---
 name: 'White Shark SLUŠALICE GH-1644 TIGER'
 price: 30.39
-image: './images/white-shark-slusalice-gh-1644-tiger.jpg'
+image: '/gsbj/images/white-shark-slusalice-gh-1644-tiger.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

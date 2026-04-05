@@ -1,7 +1,7 @@
 ---
 name: 'Suveniri'
 price: 28.93
-image: './images/suveniri.jpg'
+image: '/gsbj/images/suveniri.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

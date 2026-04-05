@@ -1,7 +1,7 @@
 ---
 name: 'Poklon set'
 price: 26.41
-image: './images/poklon-set-2.jpg'
+image: '/gsbj/images/poklon-set-2.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

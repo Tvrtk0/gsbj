@@ -1,7 +1,7 @@
 ---
 name: 'Nož preklopni'
 price: 11.81
-image: './images/noz-preklopni.jpg'
+image: '/gsbj/images/noz-preklopni.jpg'
 category: 'nozevi'
 archive: false
 ---

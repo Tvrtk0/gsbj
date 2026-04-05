@@ -1,7 +1,7 @@
 ---
 name: 'Dig. sat budilica'
 price: 5.18
-image: './images/dig-sat-budilica.jpg'
+image: '/gsbj/images/dig-sat-budilica.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

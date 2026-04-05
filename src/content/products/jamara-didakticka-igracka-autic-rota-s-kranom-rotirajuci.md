@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka autić Rota s kranom, rotirajući'
 price: 13.14
-image: './images/jamara-didakticka-igracka-autic-rota-s-kranom-rotirajuci.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-autic-rota-s-kranom-rotirajuci.jpg'
 category: 'igracke'
 archive: false
 ---

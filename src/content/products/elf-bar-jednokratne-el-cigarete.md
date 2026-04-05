@@ -1,7 +1,7 @@
 ---
 name: 'Elf Bar - jednokratne el. cigarete'
 price: 6.5
-image: './images/elf-bar-jednokratne-el-cigarete.jpg'
+image: '/gsbj/images/elf-bar-jednokratne-el-cigarete.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

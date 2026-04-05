@@ -1,7 +1,7 @@
 ---
 name: 'WISSTEN kabel USB/Lightning, platneni, 3A, 1.2m, '
 price: 4.65
-image: './images/wissten-kabel-usblightning-platneni-3a-12m.jpg'
+image: '/gsbj/images/wissten-kabel-usblightning-platneni-3a-12m.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

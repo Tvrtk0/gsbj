@@ -1,7 +1,7 @@
 ---
 name: 'Poklon majica'
 price: 11.81
-image: './images/poklon-majica.jpg'
+image: '/gsbj/images/poklon-majica.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

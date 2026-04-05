@@ -1,7 +1,7 @@
 ---
 name: 'Maketa motora '
 price: 27
-image: './images/maketa-motora.jpg'
+image: '/gsbj/images/maketa-motora.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

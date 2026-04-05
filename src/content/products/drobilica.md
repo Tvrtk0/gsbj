@@ -1,7 +1,7 @@
 ---
 name: 'Drobilica'
 price: 9
-image: './images/drobilica.jpg'
+image: '/gsbj/images/drobilica.jpg'
 category: 'ostalo'
 archive: false
 ---

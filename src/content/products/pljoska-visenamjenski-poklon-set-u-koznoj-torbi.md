@@ -1,7 +1,7 @@
 ---
 name: 'Pljoska višenamjenski poklon set u kožnoj torbi'
 price: 25.08
-image: './images/pljoska-visenamjenski-poklon-set-u-koznoj-torbi.jpg'
+image: '/gsbj/images/pljoska-visenamjenski-poklon-set-u-koznoj-torbi.jpg'
 category: 'suveniri-i-pokloni'
 archive: true
 ---

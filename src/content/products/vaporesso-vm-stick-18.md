@@ -1,7 +1,7 @@
 ---
 name: 'VAPORESSO VM STICK 18'
 price: 26.41
-image: './images/vaporesso-vm-stick-18.jpg'
+image: '/gsbj/images/vaporesso-vm-stick-18.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---

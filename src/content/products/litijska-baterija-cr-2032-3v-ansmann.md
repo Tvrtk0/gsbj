@@ -1,7 +1,7 @@
 ---
 name: 'Litijska baterija CR 2032 3V – ANSMANN'
 price: 1.9
-image: './images/litijska-baterija-cr-2032-3v-ansmann.jpg'
+image: '/gsbj/images/litijska-baterija-cr-2032-3v-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

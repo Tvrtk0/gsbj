@@ -1,7 +1,7 @@
 ---
 name: 'TREVI budilica'
 price: 14
-image: './images/trevi-budilica.jpg'
+image: '/gsbj/images/trevi-budilica.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

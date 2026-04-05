@@ -1,7 +1,7 @@
 ---
 name: 'iDance zvučnik Bluetooth, 10W, baterija'
 price: 22.96
-image: './images/idance-zvucnik-bluetooth-10w-baterija.jpg'
+image: '/gsbj/images/idance-zvucnik-bluetooth-10w-baterija.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

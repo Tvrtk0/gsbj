@@ -1,7 +1,7 @@
 ---
 name: 'KIT Zelos Nano 2ml 1600mAh - Aspire'
 price: 39.68
-image: './images/kit-zelos-nano-2ml-1600mah-aspire.jpg'
+image: '/gsbj/images/kit-zelos-nano-2ml-1600mah-aspire.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

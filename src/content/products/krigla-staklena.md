@@ -1,7 +1,7 @@
 ---
 name: 'Krigla staklena'
 price: 10
-image: './images/krigla-staklena.jpg'
+image: '/gsbj/images/krigla-staklena.jpg'
 category: 'salice'
 archive: false
 ---

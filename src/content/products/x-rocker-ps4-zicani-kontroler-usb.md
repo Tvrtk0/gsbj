@@ -1,7 +1,7 @@
 ---
 name: 'X Rocker PS4, žičani kontroler, USB'
 price: 19
-image: './images/x-rocker-ps4-zicani-kontroler-usb.jpg'
+image: '/gsbj/images/x-rocker-ps4-zicani-kontroler-usb.jpg'
 category: 'pc-oprema'
 archive: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'LULA'
 price: 3.98
-image: './images/lula.jpg'
+image: '/gsbj/images/lula.jpg'
 category: 'ostalo'
 archive: false
 ---

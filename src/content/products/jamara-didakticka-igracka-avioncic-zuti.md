@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka aviončić, žuti'
 price: 5.97
-image: './images/jamara-didakticka-igracka-avioncic-zuti.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-avioncic-zuti.jpg'
 category: 'igracke'
 archive: false
 ---

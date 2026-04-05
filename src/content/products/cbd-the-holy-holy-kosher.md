@@ -1,7 +1,7 @@
 ---
 name: ' CBD THE HOLY HOLY – KOSHER'
 price: 15
-image: './images/cbd-the-holy-holy-kosher.jpg'
+image: '/gsbj/images/cbd-the-holy-holy-kosher.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

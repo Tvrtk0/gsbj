@@ -1,7 +1,7 @@
 ---
 name: 'Boca Set'
 price: 16
-image: './images/boca-set.jpg'
+image: '/gsbj/images/boca-set.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

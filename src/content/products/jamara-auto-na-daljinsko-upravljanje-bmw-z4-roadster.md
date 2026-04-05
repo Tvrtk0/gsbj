@@ -1,7 +1,7 @@
 ---
 name: 'Jamara auto na daljinsko upravljanje BMW Z4 Roadster'
 price: 26.41
-image: './images/jamara-auto-na-daljinsko-upravljanje-bmw-z4-roadster.jpg'
+image: '/gsbj/images/jamara-auto-na-daljinsko-upravljanje-bmw-z4-roadster.jpg'
 category: 'igracke'
 archive: false
 ---

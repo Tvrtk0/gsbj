@@ -1,7 +1,7 @@
 ---
 name: 'MANTA PREMIUM POWER BANK 7000MAH '
 price: 17.12
-image: './images/manta-premium-power-bank-7000mah.jpg'
+image: '/gsbj/images/manta-premium-power-bank-7000mah.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Jamara bager na daljinsko upravljanje'
 price: 47.67
-image: './images/jamara-bager-na-daljinsko-upravljanje.jpg'
+image: '/gsbj/images/jamara-bager-na-daljinsko-upravljanje.jpg'
 category: 'igracke'
 archive: false
 ---

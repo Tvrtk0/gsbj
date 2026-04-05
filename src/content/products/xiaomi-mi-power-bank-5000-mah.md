@@ -1,7 +1,7 @@
 ---
 name: 'Xiaomi Mi Power Bank 5.000 mAh'
 price: 15.79
-image: './images/xiaomi-mi-power-bank-5000-mah.jpg'
+image: '/gsbj/images/xiaomi-mi-power-bank-5000-mah.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

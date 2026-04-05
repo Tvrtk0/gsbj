@@ -1,7 +1,7 @@
 ---
 name: 'Zippo poklon set '
 price: 37.03
-image: './images/zippo-poklon-set.jpg'
+image: '/gsbj/images/zippo-poklon-set.jpg'
 category: 'zippo-upaljaci'
 archive: true
 ---

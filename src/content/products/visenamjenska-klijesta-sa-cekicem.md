@@ -1,7 +1,7 @@
 ---
 name: 'Višenamjenska kliješta sa čekićem'
 price: 15.79
-image: './images/visenamjenska-klijesta-sa-cekicem.jpg'
+image: '/gsbj/images/visenamjenska-klijesta-sa-cekicem.jpg'
 category: 'nozevi'
 archive: false
 ---

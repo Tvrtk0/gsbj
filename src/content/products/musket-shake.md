@@ -1,7 +1,7 @@
 ---
 name: 'MUSKET SHAKE'
 price: 7.8
-image: './images/musket-shake.jpg'
+image: '/gsbj/images/musket-shake.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

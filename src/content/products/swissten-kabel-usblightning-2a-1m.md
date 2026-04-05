@@ -1,7 +1,7 @@
 ---
 name: 'SWISSTEN kabel USB/Lightning, 2A, 1m,'
 price: 3.32
-image: './images/swissten-kabel-usblightning-2a-1m.jpg'
+image: '/gsbj/images/swissten-kabel-usblightning-2a-1m.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

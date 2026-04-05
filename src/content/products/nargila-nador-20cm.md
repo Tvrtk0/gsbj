@@ -1,7 +1,7 @@
 ---
 name: 'Nargila NADOR 20CM'
 price: 19
-image: './images/nargila-nador-20cm.jpg'
+image: '/gsbj/images/nargila-nador-20cm.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

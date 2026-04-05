@@ -1,7 +1,7 @@
 ---
 name: 'Boblle ICE'
 price: 9
-image: './images/boblle-ice.jpg'
+image: '/gsbj/images/boblle-ice.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

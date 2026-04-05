@@ -1,7 +1,7 @@
 ---
 name: 'Narukvice od nehrđajućeg čelika'
 price: 13.14
-image: './images/narukvice-od-nehrdajuceg-celika.jpg'
+image: '/gsbj/images/narukvice-od-nehrdajuceg-celika.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

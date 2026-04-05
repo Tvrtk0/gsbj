@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q Ženski sat'
 price: 33
-image: './images/qq-zenski-sat.jpg'
+image: '/gsbj/images/qq-zenski-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Nož taktički'
 price: 19
-image: './images/noz-takticki.jpg'
+image: '/gsbj/images/noz-takticki.jpg'
 category: 'nozevi'
 archive: false
 ---

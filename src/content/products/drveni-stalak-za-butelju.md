@@ -1,7 +1,7 @@
 ---
 name: 'Drveni stalak za butelju'
 price: 15.79
-image: './images/drveni-stalak-za-butelju.jpg'
+image: '/gsbj/images/drveni-stalak-za-butelju.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

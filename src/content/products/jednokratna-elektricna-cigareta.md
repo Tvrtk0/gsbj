@@ -1,7 +1,7 @@
 ---
 name: 'Jednokratna električna cigareta'
 price: 6.5
-image: './images/jednokratna-elektricna-cigareta.jpg'
+image: '/gsbj/images/jednokratna-elektricna-cigareta.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

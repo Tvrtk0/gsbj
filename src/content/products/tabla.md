@@ -1,7 +1,7 @@
 ---
 name: 'Tabla'
 price: 5
-image: './images/tabla.jpg'
+image: '/gsbj/images/tabla.jpg'
 category: 'ostalo'
 archive: false
 ---

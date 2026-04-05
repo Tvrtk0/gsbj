@@ -1,7 +1,7 @@
 ---
 name: 'Pametni sat za žene i muškarce'
 price: 46.32
-image: './images/pametni-sat-za-zene-i-muskarce.jpg'
+image: '/gsbj/images/pametni-sat-za-zene-i-muskarce.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

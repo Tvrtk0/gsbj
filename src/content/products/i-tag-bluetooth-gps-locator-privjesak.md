@@ -1,7 +1,7 @@
 ---
 name: 'i Tag Bluetooth GPS Locator - privjesak'
 price: 5.18
-image: './images/i-tag-bluetooth-gps-locator-privjesak.jpg'
+image: '/gsbj/images/i-tag-bluetooth-gps-locator-privjesak.jpg'
 category: 'privjesci'
 archive: false
 ---

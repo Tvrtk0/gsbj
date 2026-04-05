@@ -1,7 +1,7 @@
 ---
 name: 'Multifunkcionalni pribor za jelo 5u1'
 price: 6.5
-image: './images/multifunkcionalni-pribor-za-jelo-5u1.jpg'
+image: '/gsbj/images/multifunkcionalni-pribor-za-jelo-5u1.jpg'
 category: 'ostalo'
 archive: false
 ---

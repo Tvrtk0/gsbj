@@ -1,7 +1,7 @@
 ---
 name: 'Alkalna baterija X-POWER 6LF22 BLOCK 9V – ANSMANN'
 price: 3.32
-image: './images/alkalna-baterija-x-power-6lf22-block-9v-ansmann.jpg'
+image: '/gsbj/images/alkalna-baterija-x-power-6lf22-block-9v-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

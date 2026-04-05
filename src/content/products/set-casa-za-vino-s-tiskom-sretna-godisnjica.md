@@ -1,7 +1,7 @@
 ---
 name: 'SET ČAŠA ZA VINO S TISKOM SRETNA GODIŠNJICA'
 price: 10
-image: './images/set-casa-za-vino-s-tiskom-sretna-godisnjica.jpg'
+image: '/gsbj/images/set-casa-za-vino-s-tiskom-sretna-godisnjica.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

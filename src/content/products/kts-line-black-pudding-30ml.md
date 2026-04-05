@@ -1,7 +1,7 @@
 ---
 name: 'KTS Line - Black Pudding - 30ml'
 price: 11.02
-image: './images/kts-line-black-pudding-30ml.jpg'
+image: '/gsbj/images/kts-line-black-pudding-30ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

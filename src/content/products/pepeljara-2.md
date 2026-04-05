@@ -1,7 +1,7 @@
 ---
 name: 'PEPELJARA'
 price: 3.98
-image: './images/pepeljara-2.jpg'
+image: '/gsbj/images/pepeljara-2.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

@@ -3,8 +3,8 @@ backend:
   repo: owner/gsbj
   branch: main
 
-media_folder: 'src/content/products/images'
-public_folder: '/src/content/products/images'
+media_folder: 'public/images'
+public_folder: '/gsbj/images'
 
 collections:
   - name: 'products'

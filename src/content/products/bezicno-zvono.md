@@ -1,7 +1,7 @@
 ---
 name: 'Bežično zvono'
 price: 7.83
-image: './images/bezicno-zvono.jpg'
+image: '/gsbj/images/bezicno-zvono.jpg'
 category: 'ostalo'
 archive: false
 ---

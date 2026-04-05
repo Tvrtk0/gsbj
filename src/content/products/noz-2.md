@@ -1,7 +1,7 @@
 ---
 name: 'Nož '
 price: 15.97
-image: './images/noz-2.jpg'
+image: '/gsbj/images/noz-2.jpg'
 category: 'nozevi'
 archive: false
 ---

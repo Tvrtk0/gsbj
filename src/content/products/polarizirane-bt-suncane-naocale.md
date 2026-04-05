@@ -1,7 +1,7 @@
 ---
 name: 'Polarizirane BT sunčane naočale'
 price: 29
-image: './images/polarizirane-bt-suncane-naocale.jpg'
+image: '/gsbj/images/polarizirane-bt-suncane-naocale.jpg'
 category: 'suncane-naocale'
 archive: false
 ---

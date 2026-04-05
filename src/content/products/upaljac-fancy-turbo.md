@@ -1,7 +1,7 @@
 ---
 name: 'UPALJAČ FANCY TURBO'
 price: 1.3
-image: './images/upaljac-fancy-turbo.jpg'
+image: '/gsbj/images/upaljac-fancy-turbo.jpg'
 category: 'upaljaci'
 archive: false
 ---

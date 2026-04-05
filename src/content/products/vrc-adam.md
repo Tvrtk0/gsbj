@@ -1,7 +1,7 @@
 ---
 name: 'VRČ ADAM'
 price: 14
-image: './images/vrc-adam.jpg'
+image: '/gsbj/images/vrc-adam.jpg'
 category: 'salice'
 archive: false
 ---

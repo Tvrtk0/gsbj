@@ -1,7 +1,7 @@
 ---
 name: 'Elf Bar RF350 Pod'
 price: 12
-image: './images/elf-bar-rf350-pod.jpg'
+image: '/gsbj/images/elf-bar-rf350-pod.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

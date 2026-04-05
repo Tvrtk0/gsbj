@@ -1,7 +1,7 @@
 ---
 name: 'Texas Hold ''em Poker Set'
 price: 19.78
-image: './images/texas-hold-em-poker-set.jpg'
+image: '/gsbj/images/texas-hold-em-poker-set.jpg'
 category: 'igracke'
 archive: false
 ---

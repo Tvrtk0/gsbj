@@ -1,7 +1,7 @@
 ---
 name: 'Star Wars zvučnik Bluetooth robot BB8'
 price: 33.05
-image: './images/star-wars-zvucnik-bluetooth-robot-bb8.jpg'
+image: '/gsbj/images/star-wars-zvucnik-bluetooth-robot-bb8.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

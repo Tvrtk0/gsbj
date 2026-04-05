@@ -1,7 +1,7 @@
 ---
 name: 'White Shark PODLOGA ZA MIŠ 25x20cm MP-1882 - FACELESS ORACLE'
 price: 3.98
-image: './images/white-shark-podloga-za-mis-25x20cm-mp-1882-faceless-oracle.jpg'
+image: '/gsbj/images/white-shark-podloga-za-mis-25x20cm-mp-1882-faceless-oracle.jpg'
 category: 'pc-oprema'
 archive: false
 ---

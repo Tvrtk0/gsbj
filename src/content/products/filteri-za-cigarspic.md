@@ -1,7 +1,7 @@
 ---
 name: 'Filteri za cigaršpic'
 price: 3.3
-image: './images/filteri-za-cigarspic.jpg'
+image: '/gsbj/images/filteri-za-cigarspic.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

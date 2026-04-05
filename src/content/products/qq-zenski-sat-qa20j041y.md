@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q ženski sat QA20J041Y'
 price: 33
-image: './images/qq-zenski-sat-qa20j041y.jpg'
+image: '/gsbj/images/qq-zenski-sat-qa20j041y.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

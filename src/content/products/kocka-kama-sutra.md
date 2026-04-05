@@ -1,7 +1,7 @@
 ---
 name: 'Kocka  - Kama Sutra'
 price: 2
-image: './images/kocka-kama-sutra.jpg'
+image: '/gsbj/images/kocka-kama-sutra.jpg'
 category: 'igracke'
 archive: false
 ---

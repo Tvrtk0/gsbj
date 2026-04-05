@@ -1,7 +1,7 @@
 ---
 name: 'Auto pepeljara sa LED svijetlom'
 price: 6.5
-image: './images/auto-pepeljara-sa-led-svijetlom.jpg'
+image: '/gsbj/images/auto-pepeljara-sa-led-svijetlom.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

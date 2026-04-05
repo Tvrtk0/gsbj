@@ -1,7 +1,7 @@
 ---
 name: 'ZIPPO UPALJAČ EAGLE FLAG'
 price: 37.03
-image: './images/zippo-upaljac-eagle-flag.jpg'
+image: '/gsbj/images/zippo-upaljac-eagle-flag.jpg'
 category: 'zippo-upaljaci'
 archive: false
 ---

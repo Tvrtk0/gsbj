@@ -1,7 +1,7 @@
 ---
 name: 'Red Wolf Shake''n Vape - Fighter 0mg/40ml'
 price: 6.5
-image: './images/red-wolf-shaken-vape-fighter-0mg40ml.jpg'
+image: '/gsbj/images/red-wolf-shaken-vape-fighter-0mg40ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Grijač INNOKIN Jem pen (1.6 Ohm)'
 price: 2.65
-image: './images/grijac-innokin-jem-pen-16-ohm.jpg'
+image: '/gsbj/images/grijac-innokin-jem-pen-16-ohm.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

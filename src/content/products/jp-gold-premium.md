@@ -1,7 +1,7 @@
 ---
 name: 'JP GOLD PREMIUM'
 price: 7.5
-image: './images/jp-gold-premium.jpg'
+image: '/gsbj/images/jp-gold-premium.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

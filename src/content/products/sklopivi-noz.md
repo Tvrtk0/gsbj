@@ -1,7 +1,7 @@
 ---
 name: 'Sklopivi nož'
 price: 19
-image: './images/sklopivi-noz.jpg'
+image: '/gsbj/images/sklopivi-noz.jpg'
 category: 'nozevi'
 archive: false
 ---

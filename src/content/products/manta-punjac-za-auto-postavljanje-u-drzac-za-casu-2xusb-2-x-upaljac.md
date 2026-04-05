@@ -1,7 +1,7 @@
 ---
 name: 'MANTA punjač za auto, postavljanje u držač za čašu, 2xUSB + 2 x upaljač'
 price: 6.5
-image: './images/manta-punjac-za-auto-postavljanje-u-drzac-za-casu-2xusb-2-x-upaljac.jpg'
+image: '/gsbj/images/manta-punjac-za-auto-postavljanje-u-drzac-za-casu-2xusb-2-x-upaljac.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

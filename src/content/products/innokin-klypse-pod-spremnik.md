@@ -1,7 +1,7 @@
 ---
 name: 'INNOKIN KLYPSE POD SPREMNIK'
 price: 4
-image: './images/innokin-klypse-pod-spremnik.jpg'
+image: '/gsbj/images/innokin-klypse-pod-spremnik.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

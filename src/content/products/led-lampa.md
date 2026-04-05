@@ -1,7 +1,7 @@
 ---
 name: 'Led lampa'
 price: 9.16
-image: './images/led-lampa.jpg'
+image: '/gsbj/images/led-lampa.jpg'
 category: 'lampe'
 archive: false
 ---

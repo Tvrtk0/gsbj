@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka kotrljajuće loptice Hammerspiel'
 price: 13.14
-image: './images/jamara-didakticka-igracka-kotrljajuce-loptice-hammerspiel.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-kotrljajuce-loptice-hammerspiel.jpg'
 category: 'igracke'
 archive: false
 ---

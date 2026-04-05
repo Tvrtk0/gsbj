@@ -1,7 +1,7 @@
 ---
 name: 'Sunčane naočale RPN'
 price: 19
-image: './images/suncane-naocale-rpn.jpg'
+image: '/gsbj/images/suncane-naocale-rpn.jpg'
 category: 'suncane-naocale'
 archive: false
 ---

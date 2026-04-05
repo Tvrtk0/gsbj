@@ -1,7 +1,7 @@
 ---
 name: 'Ženski dugi cigaršpic'
 price: 8
-image: './images/zenski-dugi-cigarspic.jpg'
+image: '/gsbj/images/zenski-dugi-cigarspic.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

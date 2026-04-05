@@ -1,7 +1,7 @@
 ---
 name: 'Kožni muški novčanik'
 price: 14
-image: './images/kozni-muski-novcanik-3.jpg'
+image: '/gsbj/images/kozni-muski-novcanik-3.jpg'
 category: 'novcanici-i-torbe'
 archive: false
 ---

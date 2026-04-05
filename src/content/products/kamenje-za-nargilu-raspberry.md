@@ -1,7 +1,7 @@
 ---
 name: 'Kamenje za Nargilu – Raspberry '
 price: 9.9
-image: './images/kamenje-za-nargilu-raspberry.jpg'
+image: '/gsbj/images/kamenje-za-nargilu-raspberry.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

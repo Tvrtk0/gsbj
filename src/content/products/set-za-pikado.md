@@ -1,7 +1,7 @@
 ---
 name: 'Set za PIKADO'
 price: 15.79
-image: './images/set-za-pikado.jpg'
+image: '/gsbj/images/set-za-pikado.jpg'
 category: 'igracke'
 archive: false
 ---

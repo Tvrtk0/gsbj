@@ -1,7 +1,7 @@
 ---
 name: 'Grijač INNOKIN Prism S (1.5 Ohm)'
 price: 3.3
-image: './images/grijac-innokin-prism-s-15-ohm.jpg'
+image: '/gsbj/images/grijac-innokin-prism-s-15-ohm.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

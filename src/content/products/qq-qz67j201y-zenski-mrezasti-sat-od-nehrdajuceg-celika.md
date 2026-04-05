@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q QZ67J201Y Ženski mrežasti sat od nehrđajućeg čelika'
 price: 33
-image: './images/qq-qz67j201y-zenski-mrezasti-sat-od-nehrdajuceg-celika.jpg'
+image: '/gsbj/images/qq-qz67j201y-zenski-mrezasti-sat-od-nehrdajuceg-celika.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

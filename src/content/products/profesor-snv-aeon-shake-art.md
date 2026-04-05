@@ -1,7 +1,7 @@
 ---
 name: 'Profesor – SnV Aeon Shake Art'
 price: 7.8
-image: './images/profesor-snv-aeon-shake-art.jpg'
+image: '/gsbj/images/profesor-snv-aeon-shake-art.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

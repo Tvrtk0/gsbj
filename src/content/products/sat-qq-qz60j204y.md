@@ -1,7 +1,7 @@
 ---
 name: 'Sat Q&Q QZ60J204Y'
 price: 29
-image: './images/sat-qq-qz60j204y.jpg'
+image: '/gsbj/images/sat-qq-qz60j204y.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

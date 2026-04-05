@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const PRODUCTS_DIR = path.join(ROOT, 'src/content/products');
-const IMAGES_DIR = path.join(PRODUCTS_DIR, 'images');
+const IMAGES_DIR = path.join(ROOT, 'public/images');
 const CATEGORIES_DIR = path.join(ROOT, 'src/content/categories');
 
 const CROATIAN_MAP = {
@@ -92,7 +92,7 @@ async function main() {
       const destPath = path.join(IMAGES_DIR, imageFile);
       const ok = await downloadImage(product.imageUrl, destPath);
       if (ok) {
-        imagePath = `./images/${imageFile}`;
+        imagePath = `/gsbj/images/${imageFile}`;
       }
     }
 

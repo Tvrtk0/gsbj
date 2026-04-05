@@ -1,7 +1,7 @@
 ---
 name: 'Zippo torbica'
 price: 19.91
-image: './images/zippo-torbica.jpg'
+image: '/gsbj/images/zippo-torbica.jpg'
 category: 'zippo-upaljaci'
 archive: true
 ---

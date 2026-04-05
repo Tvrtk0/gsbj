@@ -1,7 +1,7 @@
 ---
 name: 'KTS Tea Time aroma Blaubeere - 30ml'
 price: 11.02
-image: './images/kts-tea-time-aroma-blaubeere-30ml.jpg'
+image: '/gsbj/images/kts-tea-time-aroma-blaubeere-30ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Privjesak '
 price: 6
-image: './images/privjesak.jpg'
+image: '/gsbj/images/privjesak.jpg'
 category: 'privjesci'
 archive: false
 ---

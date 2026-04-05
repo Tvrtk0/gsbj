@@ -1,7 +1,7 @@
 ---
 name: 'Sat štoperica džepna'
 price: 10.49
-image: './images/sat-stoperica-dzepna-2.jpg'
+image: '/gsbj/images/sat-stoperica-dzepna-2.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

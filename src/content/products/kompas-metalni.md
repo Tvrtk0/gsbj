@@ -1,7 +1,7 @@
 ---
 name: 'Kompas metalni'
 price: 15.79
-image: './images/kompas-metalni.jpg'
+image: '/gsbj/images/kompas-metalni.jpg'
 category: 'ostalo'
 archive: false
 ---

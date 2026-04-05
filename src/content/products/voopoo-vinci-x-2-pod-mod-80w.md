@@ -1,7 +1,7 @@
 ---
 name: 'VooPoo Vinci X 2 Pod Mod - 80W'
 price: 42.47
-image: './images/voopoo-vinci-x-2-pod-mod-80w.jpg'
+image: '/gsbj/images/voopoo-vinci-x-2-pod-mod-80w.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---

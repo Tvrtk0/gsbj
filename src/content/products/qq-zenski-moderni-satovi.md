@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q Ženski moderni satovi'
 price: 33
-image: './images/qq-zenski-moderni-satovi.jpg'
+image: '/gsbj/images/qq-zenski-moderni-satovi.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

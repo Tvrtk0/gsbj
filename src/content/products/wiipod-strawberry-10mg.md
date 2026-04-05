@@ -1,7 +1,7 @@
 ---
 name: 'Wiipod, Strawberry 10mg'
 price: 3.5
-image: './images/wiipod-strawberry-10mg.jpg'
+image: '/gsbj/images/wiipod-strawberry-10mg.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

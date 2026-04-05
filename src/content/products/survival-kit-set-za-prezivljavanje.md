@@ -1,7 +1,7 @@
 ---
 name: 'Survival kit - set za preživljavanje'
 price: 33.05
-image: './images/survival-kit-set-za-prezivljavanje.jpg'
+image: '/gsbj/images/survival-kit-set-za-prezivljavanje.jpg'
 category: 'nozevi'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Zippo poklon set sa torbicom LPCBk – clip-crna sa upaljačem model 200'
 price: 44.99
-image: './images/zippo-poklon-set-sa-torbicom-lpcbk-clip-crna-sa-upaljacem-model-200.jpg'
+image: '/gsbj/images/zippo-poklon-set-sa-torbicom-lpcbk-clip-crna-sa-upaljacem-model-200.jpg'
 category: 'zippo-upaljaci'
 archive: false
 ---

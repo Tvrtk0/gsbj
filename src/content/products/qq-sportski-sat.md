@@ -1,7 +1,7 @@
 ---
 name: 'Q&Q sportski sat'
 price: 33
-image: './images/qq-sportski-sat.jpg'
+image: '/gsbj/images/qq-sportski-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

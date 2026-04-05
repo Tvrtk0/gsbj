@@ -1,7 +1,7 @@
 ---
 name: ' Navijačka zastava za tijelo'
 price: 6.64
-image: './images/navijacka-zastava-za-tijelo.jpg'
+image: '/gsbj/images/navijacka-zastava-za-tijelo.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

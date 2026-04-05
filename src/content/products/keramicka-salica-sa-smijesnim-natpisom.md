@@ -1,7 +1,7 @@
 ---
 name: 'Keramička šalica sa smiješnim natpisom'
 price: 5.31
-image: './images/keramicka-salica-sa-smijesnim-natpisom.jpg'
+image: '/gsbj/images/keramicka-salica-sa-smijesnim-natpisom.jpg'
 category: 'salice'
 archive: false
 ---

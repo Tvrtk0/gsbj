@@ -1,7 +1,7 @@
 ---
 name: 'Sintesajzer za djecu 32 tipke'
 price: 10
-image: './images/sintesajzer-za-djecu-32-tipke.jpg'
+image: '/gsbj/images/sintesajzer-za-djecu-32-tipke.jpg'
 category: 'igracke'
 archive: false
 ---

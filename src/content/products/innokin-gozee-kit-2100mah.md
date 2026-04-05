@@ -1,7 +1,7 @@
 ---
 name: 'Innokin GoZee Kit - 2100mAh'
 price: 46
-image: './images/innokin-gozee-kit-2100mah.jpg'
+image: '/gsbj/images/innokin-gozee-kit-2100mah.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Bicycle Standard – dva špila'
 price: 16
-image: './images/bicycle-standard-dva-spila.jpg'
+image: '/gsbj/images/bicycle-standard-dva-spila.jpg'
 category: 'igracke'
 archive: false
 ---

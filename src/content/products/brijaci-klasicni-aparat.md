@@ -1,7 +1,7 @@
 ---
 name: 'BRIJAČI KLASIČNI APARAT'
 price: 5.31
-image: './images/brijaci-klasicni-aparat.jpg'
+image: '/gsbj/images/brijaci-klasicni-aparat.jpg'
 category: 'ostalo'
 archive: true
 ---

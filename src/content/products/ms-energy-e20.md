@@ -1,7 +1,7 @@
 ---
 name: 'MS ENERGY e20'
 price: 769.66
-image: './images/ms-energy-e20.jpg'
+image: '/gsbj/images/ms-energy-e20.jpg'
 category: 'e-romobili'
 archive: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Nargila'
 price: 26.41
-image: './images/nargila.jpg'
+image: '/gsbj/images/nargila.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

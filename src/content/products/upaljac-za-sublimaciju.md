@@ -1,7 +1,7 @@
 ---
 name: 'Upaljač za sublimaciju'
 price: 9.95
-image: './images/upaljac-za-sublimaciju.jpg'
+image: '/gsbj/images/upaljac-za-sublimaciju.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

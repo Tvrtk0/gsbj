@@ -1,7 +1,7 @@
 ---
 name: 'Sexy poklon'
 price: 5
-image: './images/sexy-poklon.jpg'
+image: '/gsbj/images/sexy-poklon.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

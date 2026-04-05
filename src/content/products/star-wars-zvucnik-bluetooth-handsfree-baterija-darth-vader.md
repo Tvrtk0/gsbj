@@ -1,7 +1,7 @@
 ---
 name: 'STAR WARS zvučnik Bluetooth, Handsfree, baterija, Darth Vader'
 price: 33.05
-image: './images/star-wars-zvucnik-bluetooth-handsfree-baterija-darth-vader.jpg'
+image: '/gsbj/images/star-wars-zvucnik-bluetooth-handsfree-baterija-darth-vader.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

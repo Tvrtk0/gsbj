@@ -1,7 +1,7 @@
 ---
 name: 'Strelice za pikado'
 price: 6.5
-image: './images/strelice-za-pikado.jpg'
+image: '/gsbj/images/strelice-za-pikado.jpg'
 category: 'igracke'
 archive: false
 ---

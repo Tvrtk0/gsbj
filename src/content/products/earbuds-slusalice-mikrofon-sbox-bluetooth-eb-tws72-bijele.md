@@ -1,7 +1,7 @@
 ---
 name: 'EARBUDS SLUŠALICE + MIKROFON SBOX BLUETOOTH EB-TWS72 BIJELE'
 price: 17.12
-image: './images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws72-bijele.jpg'
+image: '/gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws72-bijele.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: '*NOVO* KTS Min-Z'
 price: 11.02
-image: './images/novo-kts-min-z.jpg'
+image: '/gsbj/images/novo-kts-min-z.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

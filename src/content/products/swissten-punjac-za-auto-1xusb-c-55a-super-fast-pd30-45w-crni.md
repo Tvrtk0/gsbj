@@ -1,7 +1,7 @@
 ---
 name: 'SWISSTEN punjač za auto, 1xUSB-C, 5.5A, Super Fast PD3.0 45W, crni'
 price: 18
-image: './images/swissten-punjac-za-auto-1xusb-c-55a-super-fast-pd30-45w-crni.jpg'
+image: '/gsbj/images/swissten-punjac-za-auto-1xusb-c-55a-super-fast-pd30-45w-crni.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

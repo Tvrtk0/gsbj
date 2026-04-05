@@ -1,7 +1,7 @@
 ---
 name: 'Jamara traktor na daljinsko upravljanje Fendt 1050 Vario'
 price: 72.86
-image: './images/jamara-traktor-na-daljinsko-upravljanje-fendt-1050-vario.jpg'
+image: '/gsbj/images/jamara-traktor-na-daljinsko-upravljanje-fendt-1050-vario.jpg'
 category: 'igracke'
 archive: true
 ---

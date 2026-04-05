@@ -1,7 +1,7 @@
 ---
 name: 'Jamara utovarivač na daljinsko upravljanje Liebherr 564'
 price: 52.98
-image: './images/jamara-utovarivac-na-daljinsko-upravljanje-liebherr-564.jpg'
+image: '/gsbj/images/jamara-utovarivac-na-daljinsko-upravljanje-liebherr-564.jpg'
 category: 'igracke'
 archive: false
 ---

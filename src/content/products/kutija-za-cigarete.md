@@ -1,7 +1,7 @@
 ---
 name: 'Kutija za cigarete'
 price: 2.5
-image: './images/kutija-za-cigarete.jpg'
+image: '/gsbj/images/kutija-za-cigarete.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

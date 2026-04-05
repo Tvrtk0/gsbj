@@ -1,7 +1,7 @@
 ---
 name: 'Gecco Sunčane naočale POLARIZED'
 price: 12
-image: './images/gecco-suncane-naocale-polarized.jpg'
+image: '/gsbj/images/gecco-suncane-naocale-polarized.jpg'
 category: 'suncane-naocale'
 archive: false
 ---

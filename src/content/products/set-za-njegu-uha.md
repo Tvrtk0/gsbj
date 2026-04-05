@@ -1,7 +1,7 @@
 ---
 name: 'Set za njegu uha'
 price: 6.5
-image: './images/set-za-njegu-uha.jpg'
+image: '/gsbj/images/set-za-njegu-uha.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

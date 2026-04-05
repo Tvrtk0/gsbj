@@ -1,7 +1,7 @@
 ---
 name: 'Eneloop AA Baterije Punjive'
 price: 18.58
-image: './images/eneloop-aa-baterije-punjive.jpg'
+image: '/gsbj/images/eneloop-aa-baterije-punjive.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

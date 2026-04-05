@@ -1,7 +1,7 @@
 ---
 name: ' Grijač ASPIRE PockeX (0,6 Ohm)'
 price: 4
-image: './images/grijac-aspire-pockex-06-ohm.jpg'
+image: '/gsbj/images/grijac-aspire-pockex-06-ohm.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

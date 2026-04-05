@@ -1,7 +1,7 @@
 ---
 name: 'BANG À L’Ô 40 ML – BEACH PARADISE'
 price: 9
-image: './images/bang-l-40-ml-beach-paradise.jpg'
+image: '/gsbj/images/bang-l-40-ml-beach-paradise.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

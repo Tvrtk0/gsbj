@@ -1,7 +1,7 @@
 ---
 name: 'Torbica za duhan'
 price: 7.5
-image: './images/torbica-za-duhan.jpg'
+image: '/gsbj/images/torbica-za-duhan.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

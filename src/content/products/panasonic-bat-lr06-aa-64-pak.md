@@ -1,7 +1,7 @@
 ---
 name: 'PANASONIC BAT. LR06 AA 6+4 PAK.'
 price: 5.31
-image: './images/panasonic-bat-lr06-aa-64-pak.jpg'
+image: '/gsbj/images/panasonic-bat-lr06-aa-64-pak.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

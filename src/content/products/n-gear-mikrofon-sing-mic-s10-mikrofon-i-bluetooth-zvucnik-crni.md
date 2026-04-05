@@ -1,7 +1,7 @@
 ---
 name: 'N-Gear mikrofon Sing Mic S10, mikrofon i BlueTooth zvučnik, crni'
 price: 26.41
-image: './images/n-gear-mikrofon-sing-mic-s10-mikrofon-i-bluetooth-zvucnik-crni.jpg'
+image: '/gsbj/images/n-gear-mikrofon-sing-mic-s10-mikrofon-i-bluetooth-zvucnik-crni.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'WS-1869 bežični zvučnik'
 price: 29.07
-image: './images/ws-1869-bezicni-zvucnik.jpg'
+image: '/gsbj/images/ws-1869-bezicni-zvucnik.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---

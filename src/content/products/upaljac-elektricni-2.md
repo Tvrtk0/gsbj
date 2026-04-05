@@ -1,7 +1,7 @@
 ---
 name: 'Upaljač električni'
 price: 20
-image: './images/upaljac-elektricni-2.jpg'
+image: '/gsbj/images/upaljac-elektricni-2.jpg'
 category: 'upaljaci'
 archive: false
 ---

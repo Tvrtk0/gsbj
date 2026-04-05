@@ -1,7 +1,7 @@
 ---
 name: 'TREVI radio prijemnik, FM, BT, USB, microSD'
 price: 19.78
-image: './images/trevi-radio-prijemnik-fm-bt-usb-microsd.jpg'
+image: '/gsbj/images/trevi-radio-prijemnik-fm-bt-usb-microsd.jpg'
 category: 'tranzistori-fm-i-transmiteri'
 archive: true
 ---

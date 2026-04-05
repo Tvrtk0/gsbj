@@ -1,7 +1,7 @@
 ---
 name: 'BATERIJA IJOY 20700 3000 MAH 40A'
 price: 13.14
-image: './images/baterija-ijoy-20700-3000-mah-40a.jpg'
+image: '/gsbj/images/baterija-ijoy-20700-3000-mah-40a.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

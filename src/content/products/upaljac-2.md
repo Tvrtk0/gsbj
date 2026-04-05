@@ -1,7 +1,7 @@
 ---
 name: 'Upaljač'
 price: 1.99
-image: './images/upaljac-2.jpg'
+image: '/gsbj/images/upaljac-2.jpg'
 category: 'upaljaci'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'MUŠKI SAT Q&Q Q894J202Y'
 price: 29
-image: './images/muski-sat-qq-q894j202y.jpg'
+image: '/gsbj/images/muski-sat-qq-q894j202y.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Memorijska kartica KIOXIA-Toshiba microSD 16GB cl.10 M203 UHS1 EXCERIA 100MB/s'
 price: 6.5
-image: './images/memorijska-kartica-kioxia-toshiba-microsd-16gb-cl10-m203-uhs1-exceria-100mbs.jpg'
+image: '/gsbj/images/memorijska-kartica-kioxia-toshiba-microsd-16gb-cl10-m203-uhs1-exceria-100mbs.jpg'
 category: 'pc-oprema'
 archive: false
 ---

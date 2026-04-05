@@ -1,7 +1,7 @@
 ---
 name: 'MS Energy e21 električni romobil 10″'
 price: 849.29
-image: './images/ms-energy-e21-elektricni-romobil-10.jpg'
+image: '/gsbj/images/ms-energy-e21-elektricni-romobil-10.jpg'
 category: 'e-romobili'
 archive: true
 ---

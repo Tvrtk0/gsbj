@@ -1,7 +1,7 @@
 ---
 name: 'Memorija USB GoodDrive Piccolo 16GB'
 price: 7.83
-image: './images/memorija-usb-gooddrive-piccolo-16gb.jpg'
+image: '/gsbj/images/memorija-usb-gooddrive-piccolo-16gb.jpg'
 category: 'pc-oprema'
 archive: false
 ---

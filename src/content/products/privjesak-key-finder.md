@@ -1,7 +1,7 @@
 ---
 name: 'Privjesak Key Finder'
 price: 2.65
-image: './images/privjesak-key-finder.jpg'
+image: '/gsbj/images/privjesak-key-finder.jpg'
 category: 'privjesci'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Memorijska kartica Toshiba microSD 32GB cl.10 M203 UHS1 EXCERIA 100MB/s'
 price: 9.16
-image: './images/memorijska-kartica-toshiba-microsd-32gb-cl10-m203-uhs1-exceria-100mbs.jpg'
+image: '/gsbj/images/memorijska-kartica-toshiba-microsd-32gb-cl10-m203-uhs1-exceria-100mbs.jpg'
 category: 'pc-oprema'
 archive: false
 ---

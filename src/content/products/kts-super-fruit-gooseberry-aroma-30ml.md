@@ -1,7 +1,7 @@
 ---
 name: 'KTS Super Fruit - Gooseberry Aroma - 30ml'
 price: 11.02
-image: './images/kts-super-fruit-gooseberry-aroma-30ml.jpg'
+image: '/gsbj/images/kts-super-fruit-gooseberry-aroma-30ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

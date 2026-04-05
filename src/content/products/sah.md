@@ -1,7 +1,7 @@
 ---
 name: 'Šah'
 price: 19
-image: './images/sah.jpg'
+image: '/gsbj/images/sah.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

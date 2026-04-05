@@ -1,7 +1,7 @@
 ---
 name: 'Baterija KODAK, KCR 2016. Lithium'
 price: 1.8
-image: './images/baterija-kodak-kcr-2016-lithium.jpg'
+image: '/gsbj/images/baterija-kodak-kcr-2016-lithium.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

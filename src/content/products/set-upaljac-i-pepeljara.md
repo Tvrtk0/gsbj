@@ -1,7 +1,7 @@
 ---
 name: 'Set upaljač i pepeljara'
 price: 13
-image: './images/set-upaljac-i-pepeljara.jpg'
+image: '/gsbj/images/set-upaljac-i-pepeljara.jpg'
 category: 'upaljaci'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Sat stolni budilica'
 price: 6.64
-image: './images/sat-stolni-budilica.jpg'
+image: '/gsbj/images/sat-stolni-budilica.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

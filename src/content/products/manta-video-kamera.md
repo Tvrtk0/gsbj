@@ -1,7 +1,7 @@
 ---
 name: 'MANTA video kamera '
 price: 23.76
-image: './images/manta-video-kamera.jpg'
+image: '/gsbj/images/manta-video-kamera.jpg'
 category: 'ostalo'
 archive: true
 ---

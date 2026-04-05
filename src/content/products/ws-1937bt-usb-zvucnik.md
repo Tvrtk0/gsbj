@@ -1,7 +1,7 @@
 ---
 name: 'WS 1937BT USB ZVUČNIK.'
 price: 26.41
-image: './images/ws-1937bt-usb-zvucnik.jpg'
+image: '/gsbj/images/ws-1937bt-usb-zvucnik.jpg'
 category: 'slusalice-i-zvucnici'
 archive: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Nožić'
 price: 9
-image: './images/nozic.jpg'
+image: '/gsbj/images/nozic.jpg'
 category: 'nozevi'
 archive: false
 ---

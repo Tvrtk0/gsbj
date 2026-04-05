@@ -1,7 +1,7 @@
 ---
 name: 'SWISSTEN bežični wireless punjač QI + Powerbank baterija, vakum, 5W, 5000mAh'
 price: 19.78
-image: './images/swissten-bezicni-wireless-punjac-qi-powerbank-baterija-vakum-5w-5000mah.jpg'
+image: '/gsbj/images/swissten-bezicni-wireless-punjac-qi-powerbank-baterija-vakum-5w-5000mah.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

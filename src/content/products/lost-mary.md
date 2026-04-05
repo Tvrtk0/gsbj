@@ -1,7 +1,7 @@
 ---
 name: 'Lost Mary'
 price: 7
-image: './images/lost-mary.jpg'
+image: '/gsbj/images/lost-mary.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

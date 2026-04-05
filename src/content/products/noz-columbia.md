@@ -1,7 +1,7 @@
 ---
 name: 'Nož Columbia'
 price: 15.79
-image: './images/noz-columbia.jpg'
+image: '/gsbj/images/noz-columbia.jpg'
 category: 'nozevi'
 archive: true
 ---

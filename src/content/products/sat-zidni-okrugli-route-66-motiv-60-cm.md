@@ -1,7 +1,7 @@
 ---
 name: 'SAT ZIDNI OKRUGLI ROUTE 66 MOTIV 60 CM'
 price: 24
-image: './images/sat-zidni-okrugli-route-66-motiv-60-cm.jpg'
+image: '/gsbj/images/sat-zidni-okrugli-route-66-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'GRIJAČ VAPORESSO NRG GT'
 price: 4
-image: './images/grijac-vaporesso-nrg-gt.jpg'
+image: '/gsbj/images/grijac-vaporesso-nrg-gt.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Memorija USB Kioxia-Toshiba Hayabusa 128GB bijeli '
 price: 17.12
-image: './images/memorija-usb-kioxia-toshiba-hayabusa-128gb-bijeli.jpg'
+image: '/gsbj/images/memorija-usb-kioxia-toshiba-hayabusa-128gb-bijeli.jpg'
 category: 'pc-oprema'
 archive: false
 ---

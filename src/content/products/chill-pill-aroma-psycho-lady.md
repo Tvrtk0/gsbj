@@ -1,7 +1,7 @@
 ---
 name: 'Chill Pill Aroma - Psycho Lady'
 price: 6.5
-image: './images/chill-pill-aroma-psycho-lady.jpg'
+image: '/gsbj/images/chill-pill-aroma-psycho-lady.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

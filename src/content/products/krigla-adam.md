@@ -1,7 +1,7 @@
 ---
 name: 'Krigla adam'
 price: 10.5
-image: './images/krigla-adam.jpg'
+image: '/gsbj/images/krigla-adam.jpg'
 category: 'salice'
 archive: false
 ---

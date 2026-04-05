@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka kreativna kocka'
 price: 10.49
-image: './images/jamara-didakticka-igracka-kreativna-kocka.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-kreativna-kocka.jpg'
 category: 'igracke'
 archive: false
 ---

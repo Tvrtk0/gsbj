@@ -1,7 +1,7 @@
 ---
 name: 'Set boca i upaljač'
 price: 20
-image: './images/set-boca-i-upaljac.jpg'
+image: '/gsbj/images/set-boca-i-upaljac.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

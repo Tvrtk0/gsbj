@@ -1,7 +1,7 @@
 ---
 name: 'Innokin Coolfire Z50 Zlide Starter Kit'
 price: 52.96
-image: './images/innokin-coolfire-z50-zlide-starter-kit.jpg'
+image: '/gsbj/images/innokin-coolfire-z50-zlide-starter-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

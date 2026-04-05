@@ -1,7 +1,7 @@
 ---
 name: 'Elf Bar RF350 Zamjenski Pod'
 price: 3.3
-image: './images/elf-bar-rf350-zamjenski-pod.jpg'
+image: '/gsbj/images/elf-bar-rf350-zamjenski-pod.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

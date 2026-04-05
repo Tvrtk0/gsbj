@@ -1,7 +1,7 @@
 ---
 name: 'Cavalier – SnV Aeon Shake Art'
 price: 7.8
-image: './images/cavalier-snv-aeon-shake-art.jpg'
+image: '/gsbj/images/cavalier-snv-aeon-shake-art.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

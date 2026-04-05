@@ -1,7 +1,7 @@
 ---
 name: 'Manikir set'
 price: 9
-image: './images/manikir-set.jpg'
+image: '/gsbj/images/manikir-set.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

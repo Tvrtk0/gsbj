@@ -1,7 +1,7 @@
 ---
 name: 'Wiipstick, 18mg'
 price: 6.5
-image: './images/wiipstick-18mg.jpg'
+image: '/gsbj/images/wiipstick-18mg.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'GRIJAČI ELEAF EC2'
 price: 3.32
-image: './images/grijaci-eleaf-ec2.jpg'
+image: '/gsbj/images/grijaci-eleaf-ec2.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

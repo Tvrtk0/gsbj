@@ -1,7 +1,7 @@
 ---
 name: 'Cigaršpici'
 price: 8
-image: './images/cigarspici.jpg'
+image: '/gsbj/images/cigarspici.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

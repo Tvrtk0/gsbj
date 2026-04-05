@@ -1,7 +1,7 @@
 ---
 name: 'USB AUTO PUNJAČ SBOX CC-095 / 2 ULAZA - 20 W'
 price: 7.83
-image: './images/usb-auto-punjac-sbox-cc-095-2-ulaza-20-w.jpg'
+image: '/gsbj/images/usb-auto-punjac-sbox-cc-095-2-ulaza-20-w.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
 ---

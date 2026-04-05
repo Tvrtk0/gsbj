@@ -1,7 +1,7 @@
 ---
 name: 'Jamara puške, IR, set 2 komada, plava, zelena'
 price: 89.99
-image: './images/jamara-puske-ir-set-2-komada-plava-zelena.jpg'
+image: '/gsbj/images/jamara-puske-ir-set-2-komada-plava-zelena.jpg'
 category: 'igracke'
 archive: false
 ---

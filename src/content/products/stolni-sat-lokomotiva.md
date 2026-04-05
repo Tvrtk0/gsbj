@@ -1,7 +1,7 @@
 ---
 name: 'Stolni sat lokomotiva'
 price: 26.41
-image: './images/stolni-sat-lokomotiva.jpg'
+image: '/gsbj/images/stolni-sat-lokomotiva.jpg'
 category: 'satovi-i-nakit'
 archive: true
 ---

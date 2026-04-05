@@ -1,7 +1,7 @@
 ---
 name: 'SMOK STICK PRINCE'
 price: 48.97
-image: './images/smok-stick-prince.jpg'
+image: '/gsbj/images/smok-stick-prince.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

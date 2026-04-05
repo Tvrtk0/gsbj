@@ -1,7 +1,7 @@
 ---
 name: 'Novčanik kožni Lotto'
 price: 19
-image: './images/novcanik-kozni-lotto.jpg'
+image: '/gsbj/images/novcanik-kozni-lotto.jpg'
 category: 'novcanici-i-torbe'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'STALAK ZA BUTELJU METALNI - RIBAR'
 price: 23.76
-image: './images/stalak-za-butelju-metalni-ribar.jpg'
+image: '/gsbj/images/stalak-za-butelju-metalni-ribar.jpg'
 category: 'suveniri-i-pokloni'
 archive: true
 ---

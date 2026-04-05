@@ -1,7 +1,7 @@
 ---
 name: 'CHAMP NARGILA COLOR'
 price: 26.41
-image: './images/champ-nargila-color.jpg'
+image: '/gsbj/images/champ-nargila-color.jpg'
 category: 'ostalo'
 archive: true
 ---

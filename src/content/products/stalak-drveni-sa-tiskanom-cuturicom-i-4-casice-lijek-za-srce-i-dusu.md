@@ -1,7 +1,7 @@
 ---
 name: 'STALAK DRVENI SA TISKANOM ČUTURICOM I 4 ČAŠICE- LIJEK ZA SRCE I DUŠU'
 price: 19
-image: './images/stalak-drveni-sa-tiskanom-cuturicom-i-4-casice-lijek-za-srce-i-dusu.jpg'
+image: '/gsbj/images/stalak-drveni-sa-tiskanom-cuturicom-i-4-casice-lijek-za-srce-i-dusu.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
 ---

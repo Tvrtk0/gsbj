@@ -1,7 +1,7 @@
 ---
 name: 'Punjive baterije AAA/LR03 /1000mAh/ 4 kom. – ANSMANN'
 price: 10.62
-image: './images/punjive-baterije-aaalr03-1000mah-4-kom-ansmann.jpg'
+image: '/gsbj/images/punjive-baterije-aaalr03-1000mah-4-kom-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---

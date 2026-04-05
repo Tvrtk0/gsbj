@@ -1,7 +1,7 @@
 ---
 name: 'CBD THE HOLY HOLY – KEROZEN'
 price: 15
-image: './images/cbd-the-holy-holy-kerozen.jpg'
+image: '/gsbj/images/cbd-the-holy-holy-kerozen.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

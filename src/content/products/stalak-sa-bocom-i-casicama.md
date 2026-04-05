@@ -1,7 +1,7 @@
 ---
 name: 'Stalak sa bocom i čašicama'
 price: 23.89
-image: './images/stalak-sa-bocom-i-casicama.jpg'
+image: '/gsbj/images/stalak-sa-bocom-i-casicama.jpg'
 category: 'suveniri-i-pokloni'
 archive: true
 ---

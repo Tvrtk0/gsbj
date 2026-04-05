@@ -1,7 +1,7 @@
 ---
 name: 'KTS Tea Time - Rote Fruchte / '
 price: 11.02
-image: './images/kts-tea-time-rote-fruchte.jpg'
+image: '/gsbj/images/kts-tea-time-rote-fruchte.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

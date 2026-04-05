@@ -1,7 +1,7 @@
 ---
 name: ' JOYETECH EGO AIR POD KIT'
 price: 23
-image: './images/joyetech-ego-air-pod-kit.jpg'
+image: '/gsbj/images/joyetech-ego-air-pod-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

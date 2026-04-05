@@ -1,7 +1,7 @@
 ---
 name: 'Upaljač na benzin'
 price: 33
-image: './images/upaljac-na-benzin.jpg'
+image: '/gsbj/images/upaljac-na-benzin.jpg'
 category: 'upaljaci'
 archive: false
 ---

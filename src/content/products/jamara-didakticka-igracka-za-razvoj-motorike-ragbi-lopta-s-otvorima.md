@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka za razvoj motorike, ragbi lopta s otvorima'
 price: 6.5
-image: './images/jamara-didakticka-igracka-za-razvoj-motorike-ragbi-lopta-s-otvorima.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-za-razvoj-motorike-ragbi-lopta-s-otvorima.jpg'
 category: 'igracke'
 archive: false
 ---

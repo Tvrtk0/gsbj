@@ -1,7 +1,7 @@
 ---
 name: 'Modiano Jumbo Index – Black 100% PVC'
 price: 12
-image: './images/modiano-jumbo-index-black-100-pvc.jpg'
+image: '/gsbj/images/modiano-jumbo-index-black-100-pvc.jpg'
 category: 'igracke'
 archive: false
 ---

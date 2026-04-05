@@ -1,7 +1,7 @@
 ---
 name: 'Poklon šalica'
 price: 5.31
-image: './images/poklon-salica-15.jpg'
+image: '/gsbj/images/poklon-salica-15.jpg'
 category: 'salice'
 archive: false
 ---

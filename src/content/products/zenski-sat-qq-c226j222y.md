@@ -1,7 +1,7 @@
 ---
 name: 'ŽENSKI SAT Q&Q C226J222Y'
 price: 33
-image: './images/zenski-sat-qq-c226j222y.jpg'
+image: '/gsbj/images/zenski-sat-qq-c226j222y.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

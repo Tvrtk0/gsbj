@@ -1,7 +1,7 @@
 ---
 name: 'Butna Torbica'
 price: 13.14
-image: './images/butna-torbica.jpg'
+image: '/gsbj/images/butna-torbica.jpg'
 category: 'novcanici-i-torbe'
 archive: false
 ---

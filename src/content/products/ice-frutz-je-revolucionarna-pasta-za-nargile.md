@@ -1,7 +1,7 @@
 ---
 name: 'Ice Frutz je revolucionarna pasta za nargile'
 price: 9.95
-image: './images/ice-frutz-je-revolucionarna-pasta-za-nargile.jpg'
+image: '/gsbj/images/ice-frutz-je-revolucionarna-pasta-za-nargile.jpg'
 category: 'pusacki-pribor'
 archive: false
 ---

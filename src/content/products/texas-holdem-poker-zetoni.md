@@ -1,7 +1,7 @@
 ---
 name: 'Texas HoldEm Poker žetoni'
 price: 9.16
-image: './images/texas-holdem-poker-zetoni.jpg'
+image: '/gsbj/images/texas-holdem-poker-zetoni.jpg'
 category: 'igracke'
 archive: false
 ---

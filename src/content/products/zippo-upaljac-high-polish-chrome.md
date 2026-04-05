@@ -1,7 +1,7 @@
 ---
 name: 'Zippo upaljač High Polish Chrome'
 price: 33.98
-image: './images/zippo-upaljac-high-polish-chrome.jpg'
+image: '/gsbj/images/zippo-upaljac-high-polish-chrome.jpg'
 category: 'zippo-upaljaci'
 archive: true
 ---

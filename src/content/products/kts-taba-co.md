@@ -1,7 +1,7 @@
 ---
 name: 'KTS Taba & Co.'
 price: 11.02
-image: './images/kts-taba-co.jpg'
+image: '/gsbj/images/kts-taba-co.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: 'Naušnice od nehrđajućeg čelika'
 price: 6.5
-image: './images/nausnice-od-nehrdajuceg-celika.jpg'
+image: '/gsbj/images/nausnice-od-nehrdajuceg-celika.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

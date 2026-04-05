@@ -1,7 +1,7 @@
 ---
 name: ' SAT ZIDNI OKRUGLI RETRO KARTA SVIJETA MOTIV 60 CM'
 price: 24
-image: './images/sat-zidni-okrugli-retro-karta-svijeta-motiv-60-cm.jpg'
+image: '/gsbj/images/sat-zidni-okrugli-retro-karta-svijeta-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---

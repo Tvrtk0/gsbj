@@ -1,7 +1,7 @@
 ---
 name: ' BLOW WHITE 80 ML – THE LITTLE MARMALADE ICE'
 price: 15
-image: './images/blow-white-80-ml-the-little-marmalade-ice.jpg'
+image: '/gsbj/images/blow-white-80-ml-the-little-marmalade-ice.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---

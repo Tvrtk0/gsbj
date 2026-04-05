@@ -1,7 +1,7 @@
 ---
 name: 'Jamara didaktička igračka volan za auto sa zvukom, First Step Baby Drive'
 price: 22.96
-image: './images/jamara-didakticka-igracka-volan-za-auto-sa-zvukom-first-step-baby-drive.jpg'
+image: '/gsbj/images/jamara-didakticka-igracka-volan-za-auto-sa-zvukom-first-step-baby-drive.jpg'
 category: 'ostalo'
 archive: false
 ---

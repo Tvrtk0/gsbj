@@ -1,7 +1,7 @@
 ---
 name: 'Sunčane naočale POLARIZED'
 price: 12
-image: './images/suncane-naocale-polarized-8.jpg'
+image: '/gsbj/images/suncane-naocale-polarized-8.jpg'
 category: 'suncane-naocale'
 archive: false
 ---

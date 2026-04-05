@@ -1,7 +1,7 @@
 ---
 name: 'TELLUR POWER BANK QC 3.0 FAST CHARGE, 5000MAH, SILVER'
 price: 26.41
-image: './images/tellur-power-bank-qc-30-fast-charge-5000mah-silver.jpg'
+image: '/gsbj/images/tellur-power-bank-qc-30-fast-charge-5000mah-silver.jpg'
 category: 'baterijski-ulosci'
 archive: false
 ---
