@@ -18,6 +18,15 @@
   --radius-lg: 0.75rem;
 }
 
+.filter-btn {
+  cursor: pointer;
+}
+
+.filter-btn:not(.active):hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
 body {
   font-family: system-ui, -apple-system, sans-serif;
   background-color: var(--color-background);

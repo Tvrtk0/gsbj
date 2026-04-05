@@ -8,7 +8,10 @@ const allProducts = await getCollection('products', ({ data }) => !data.archive)
 const categories = await getCollection('categories');
 
 const categoryMap = new Map(categories.map((c) => [c.data.slug, c.data.name]));
-const categoryList = categories.map((c) => ({ slug: c.data.slug, name: c.data.name }));
+const activeSlugs = new Set(allProducts.map((p) => p.data.category));
+const categoryList = categories
+  .filter((c) => activeSlugs.has(c.data.slug))
+  .map((c) => ({ slug: c.data.slug, name: c.data.name }));
 const base = import.meta.env.BASE_URL;
 ---
 
