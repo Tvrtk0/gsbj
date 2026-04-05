@@ -1,6 +1,6 @@
 ---
 name: 'Poklon šalica'
-price: 5
+price: 6
 image: '/gsbj/images/poklon-salica-12.jpg'
 category: 'salice'
 archive: false

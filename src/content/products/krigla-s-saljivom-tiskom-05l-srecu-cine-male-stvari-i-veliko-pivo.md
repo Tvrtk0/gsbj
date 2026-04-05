@@ -1,6 +1,6 @@
 ---
 name: 'KRIGLA S ŠALJIVOM TISKOM 0,5L "Sreću čine male stvari i veliko pivo"'
-price: 6.5
+price: 12
 image: '/gsbj/images/krigla-s-saljivom-tiskom-05l-srecu-cine-male-stvari-i-veliko-pivo.jpg'
 category: 'salice'
 archive: false

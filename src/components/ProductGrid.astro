@@ -14,13 +14,14 @@ interface Product {
 interface Props {
   products: Product[];
   categoryMap: Map<string, string>;
+  batchSize?: number;
 }
 
-const { products, categoryMap } = Astro.props;
+const { products, categoryMap, batchSize = 24 } = Astro.props;
 ---
 
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6" id="product-grid">
-  {products.map((product) => (
+  {products.map((product, i) => (
     <ProductCard
       name={product.data.name}
       slug={product.id}
@@ -28,6 +29,62 @@ const { products, categoryMap } = Astro.props;
       image={product.data.image}
       category={product.data.category}
       categoryName={categoryMap.get(product.data.category)}
+      hidden={i >= batchSize}
     />
   ))}
 </div>
+<div id="scroll-sentinel" class="h-1"></div>
+
+<script is:inline>
+  (function () {
+    const BATCH = 24;
+    const grid = document.getElementById('product-grid');
+    const sentinel = document.getElementById('scroll-sentinel');
+    if (!grid || !sentinel) return;
+
+    let shown = BATCH;
+
+    function getVisibleHidden() {
+      // Items that are not category-filtered but are batch-hidden
+      return Array.from(grid.querySelectorAll('[data-batch-hidden="true"]')).filter(
+        (el) => !el.classList.contains('hidden')  // not filtered out by category
+      );
+    }
+
+    function revealNext() {
+      const hiddenItems = getVisibleHidden();
+      const toReveal = hiddenItems.slice(0, BATCH);
+      toReveal.forEach((el) => {
+        el.dataset.batchHidden = 'false';
+        el.style.display = '';
+      });
+      shown += toReveal.length;
+
+      // Disconnect if nothing left to show
+      if (getVisibleHidden().length === 0) {
+        observer.disconnect();
+      }
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) revealNext();
+      },
+      { rootMargin: '400px' }
+    );
+
+    observer.observe(sentinel);
+
+    // Re-observe when category filter changes (items get shown/hidden)
+    const filterEl = document.getElementById('category-filter');
+    if (filterEl) {
+      filterEl.addEventListener('click', () => {
+        // Reset batch visibility for newly visible items
+        // and reconnect observer if needed
+        if (getVisibleHidden().length > 0) {
+          observer.observe(sentinel);
+        }
+      });
+    }
+  })();
+</script>

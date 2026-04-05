@@ -6,9 +6,10 @@ interface Props {
   image: string;
   category: string;
   categoryName?: string;
+  hidden?: boolean;
 }
 
-const { name, slug, price, image, category, categoryName } = Astro.props;
+const { name, slug, price, image, category, categoryName, hidden = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
 
@@ -16,6 +17,8 @@ const base = import.meta.env.BASE_URL;
   href={`${base}products/${slug}`}
   class="group block bg-card rounded-lg border border-border overflow-hidden transition-shadow hover:shadow-md"
   data-category={category}
+  data-batch-hidden={hidden ? 'true' : 'false'}
+  style={hidden ? 'display:none' : ''}
 >
   <div class="aspect-square overflow-hidden bg-muted">
     <img

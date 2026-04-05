@@ -1,6 +1,6 @@
 ---
 name: 'Keramička šalica'
-price: 5.31
+price: 6
 image: '/gsbj/images/keramicka-salica.jpg'
 category: 'salice'
 archive: false
