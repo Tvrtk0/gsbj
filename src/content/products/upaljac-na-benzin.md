@@ -1,8 +1,11 @@
 ---
 name: 'Upaljač na benzin'
-price: 12.00
-image: './images/upaljac-benzin.jpg'
+price: 33
+image: './images/upaljac-na-benzin.jpg'
 category: 'upaljaci'
 archive: false
 ---
-Klasični upaljač na benzin, metalno kućište, vjetrobranski plamen.
+Ručno rađen od čistog bakra  
+teški  upaljač 
+retro benzinski upaljač 
+muška pušačka serija unikatnih poklona

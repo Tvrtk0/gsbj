@@ -1,0 +1,8 @@
+---
+name: 'Alkalna baterija X-POWER /LR14/BABY C/1.5 V/2 kom. – ANSMANN'
+price: 2.92
+image: './images/alkalna-baterija-x-power-lr14baby-c15-v2-kom-ansmann.jpg'
+category: 'baterijski-ulosci'
+archive: false
+---
+Alkalna baterija X-POWER /LR14/BABY C/1.5 V/2 kom. – ANSMANN – Idealne za daljinske upravljače, telefone, svjetiljke, miševe, digitalne fotoaparate, fleševe i razne druge uređaje.

@@ -1,0 +1,18 @@
+---
+name: 'SONY KONION VTC6 3000MAH 20A'
+price: 9.16
+image: './images/sony-konion-vtc6-3000mah-20a.jpg'
+category: 'baterijski-ulosci'
+archive: false
+---
+Specifikacije:
+
+– nominalni kapacitet: 3000mAh
+
+– maksimalna struja punjenja: 5.0 A
+
+– maksimalna struja pražnjenja: 20A
+
+– nezaštićena
+
+– ravan pozitivan pol

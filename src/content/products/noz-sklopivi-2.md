@@ -1,0 +1,12 @@
+---
+name: 'NOŽ SKLOPIVI'
+price: 19
+image: './images/noz-sklopivi-2.jpg'
+category: 'nozevi'
+archive: false
+---
+Dužina noža s oštricom: 21 cm
+Probijač stakla na dnu drške
+Težina noža: 153 g
+
+Nož dolazi u papirnatoj poklon kutiji.

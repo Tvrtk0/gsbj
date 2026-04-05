@@ -1,0 +1,10 @@
+---
+name: 'Krigla staklena'
+price: 10
+image: './images/krigla-staklena.jpg'
+category: 'salice'
+archive: false
+---
+Krigla staklena za pivo sa smiješnim natpisom
+0,5L
+Radimo i po vašoj želji : 12eura

@@ -1,0 +1,10 @@
+---
+name: 'Zippo poklon set sa torbicom LPCBk – clip-crna sa upaljačem model 200'
+price: 44.99
+image: './images/zippo-poklon-set-sa-torbicom-lpcbk-clip-crna-sa-upaljacem-model-200.jpg'
+category: 'zippo-upaljaci'
+archive: false
+---
+Poklon set za upaljač
+
+U cijenu je uključen poklon set, torbica za upaljač i Zippo upaljač model 200
