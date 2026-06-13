@@ -22,10 +22,25 @@ const base = import.meta.env.BASE_URL;
 
       <div id="search" class="mb-6"></div>
       <link href={`${base}pagefind/pagefind-ui.css`} rel="stylesheet" />
+      <style is:global>
+        #search .pagefind-ui__result-thumb {
+          cursor: pointer;
+        }
+      </style>
       <script is:inline src={`${base}pagefind/pagefind-ui.js`}></script>
       <script is:inline define:vars={{ base }}>
         window.addEventListener('DOMContentLoaded', () => {
           new PagefindUI({ element: '#search', showSubResults: false, basePath: base + 'pagefind/' });
+
+          // Make result thumbnails link to the product, like the title does.
+          // Results render dynamically as you type, so delegate from the container.
+          document.getElementById('search').addEventListener('click', (e) => {
+            const thumb = e.target.closest('.pagefind-ui__result-thumb');
+            if (!thumb) return;
+            const result = thumb.closest('.pagefind-ui__result');
+            const link = result && result.querySelector('.pagefind-ui__result-link');
+            if (link && link.href) window.location.href = link.href;
+          });
         });
       </script>
 
