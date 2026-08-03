@@ -1,9 +1,9 @@
 ---
-name: 'Baza 100ml'
-price: 4.5
+name: 'Baza 500ml'
+price: 15
 image: '/gsbj/images/baza.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---
 Baza za el. cig.
-Pakiranje: 100 ml.
+Pakiranje: 500 ml.

@@ -6,6 +6,9 @@ const products = defineCollection({
   schema: z.object({
     name: z.string(),
     price: z.number(),
+    // Set for assortments sold at varying prices (e.g. privjesci 1–4 €).
+    // `price` is then the low end; see src/lib/price.ts for rendering.
+    priceMax: z.number().optional(),
     image: z.string(),
     category: z.string(),
     archive: z.boolean().default(false),

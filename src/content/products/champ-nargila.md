@@ -1,6 +1,7 @@
 ---
 name: 'CHAMP NARGILA'
-price: 52.96
+price: 12
+priceMax: 52
 image: '/gsbj/images/champ-nargila.jpg'
 category: 'ostalo'
 archive: false

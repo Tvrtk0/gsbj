@@ -1,6 +1,7 @@
 ---
 name: 'Pljoska 18oZ'
-price: 15.79
+price: 16
+priceMax: 22
 image: '/gsbj/images/pljoska-18oz.jpg'
 category: 'ostalo'
 archive: false

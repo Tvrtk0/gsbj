@@ -1,6 +1,6 @@
 ---
 name: 'Kompas'
-price: 3.32
+price: 4.65
 image: '/gsbj/images/kompas-2.jpg'
 category: 'ostalo'
 archive: false

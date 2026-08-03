@@ -1,6 +1,7 @@
 ---
 name: 'Naglavna lampa'
-price: 13.14
+price: 16
+priceMax: 20
 image: '/gsbj/images/naglavna-lampa.jpg'
 category: 'lampe'
 archive: false
