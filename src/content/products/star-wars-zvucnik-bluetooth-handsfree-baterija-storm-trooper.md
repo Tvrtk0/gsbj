@@ -1,5 +1,5 @@
 ---
-name: 'Star Wars zvučnik Bluetooth, handsfree, baterija, Storm Trooper'
+name: 'Star Wars Bluetooth zvučnik – Storm Trooper'
 price: 33.05
 image: '/gsbj/images/star-wars-zvucnik-bluetooth-handsfree-baterija-storm-trooper.jpg'
 category: 'slusalice-i-zvucnici'

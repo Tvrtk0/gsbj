@@ -1,10 +1,12 @@
 ---
-name: 'Crystal – jednokratne elektronske cigarete koje predstavljaju revoluciju u svijetu pušača'
+name: 'Crystal – jednokratne e-cigarete'
 price: 7.5
 image: '/gsbj/images/crystal-jednokratne-elektronske-cigarete-koje-predstavljaju-revoluciju-u-svijetu-pusaca.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---
+Jednokratne elektronske cigarete koje predstavljaju revoluciju u svijetu pušača.
+
 Jednostavno
 Uređaj je vrlo jednostavan, praktičan i spreman za upotrebu. Ne postoji prekidač, punjač, prazna baterija, a ni problemi sa ulijevanjem tekućine. Samo udahnete i cigareta je aktivirana.
 Ukusno

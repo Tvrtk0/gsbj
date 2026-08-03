@@ -1,5 +1,5 @@
 ---
-name: 'WS-233 Benz Bluetooth zvučnik u obliku automobila s TF USB FM AUX handsfree LED svjetlom'
+name: 'WS-233 Benz Bluetooth zvučnik u obliku automobila'
 price: 22.43
 image: '/gsbj/images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg'
 category: 'slusalice-i-zvucnici'
@@ -11,6 +11,8 @@ Detalji o proizvodu
 • Izlazna snaga: 5 W
 • Frekvencijski odziv: 100-18Khz
 • Bluetooth rješenje: odjeljak 5.0
+• Priključci: TF, USB, FM, AUX
+• Handsfree i LED svjetlo
 Podržava Bluetooth 5.0 + reprodukciju glazbe
 Glasnoća se može kontrolirati tipkama.
 Upute za punjenje,

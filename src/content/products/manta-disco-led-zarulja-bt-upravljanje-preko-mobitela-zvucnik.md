@@ -1,5 +1,5 @@
 ---
-name: 'Manta disco LED žarulja, BT upravljanje preko mobitela, zvučnik'
+name: 'Manta disco LED žarulja sa zvučnikom'
 price: 19.78
 image: '/gsbj/images/manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik.jpg'
 category: 'slusalice-i-zvucnici'

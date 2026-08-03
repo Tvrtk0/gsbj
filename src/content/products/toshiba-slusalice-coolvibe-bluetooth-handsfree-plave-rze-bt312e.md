@@ -1,5 +1,5 @@
 ---
-name: 'Toshiba slušalice CoolVibe, Bluetooth, handsfree, plave RZE-BT312E'
+name: 'Toshiba CoolVibe RZE-BT312E slušalice, plave'
 price: 17.12
 image: '/gsbj/images/toshiba-slusalice-coolvibe-bluetooth-handsfree-plave-rze-bt312e.jpg'
 category: 'slusalice-i-zvucnici'
