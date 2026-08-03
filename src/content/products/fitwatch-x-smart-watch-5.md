@@ -1,6 +1,6 @@
 ---
 name: 'FITWATCH X Smart Watch'
-price: 85
+price: 59
 image: '/gsbj/images/fitwatch-x-smart-watch-5.jpg'
 category: 'satovi-i-nakit'
 archive: false

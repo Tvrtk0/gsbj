@@ -1,6 +1,6 @@
 ---
 name: 'Punilica cigareta'
-price: 16
+price: 17
 image: '/gsbj/images/punilica-cigareta.jpg'
 category: 'pusacki-pribor'
 archive: false

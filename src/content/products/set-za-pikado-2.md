@@ -1,6 +1,6 @@
 ---
 name: 'Set za pikado'
-price: 9.16
+price: 9
 image: '/gsbj/images/set-za-pikado-2.jpg'
 category: 'igracke'
 archive: false

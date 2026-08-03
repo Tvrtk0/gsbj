@@ -1,6 +1,6 @@
 ---
 name: 'Džepni sat'
-price: 13.14
+price: 13
 image: '/gsbj/images/dzepni-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false

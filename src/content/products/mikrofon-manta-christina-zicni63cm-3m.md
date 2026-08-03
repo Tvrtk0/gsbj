@@ -1,6 +1,6 @@
 ---
 name: 'Mikrofon MANTA Christina, žični,6.3cm, 3m,'
-price: 10.49
+price: 9.5
 image: '/gsbj/images/mikrofon-manta-christina-zicni63cm-3m.jpg'
 category: 'pc-oprema'
 archive: false

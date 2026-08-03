@@ -1,6 +1,6 @@
 ---
 name: 'Drobilica za duhan'
-price: 22.43
+price: 22
 image: '/gsbj/images/drobilica-za-duhan-3.jpg'
 category: 'ostalo'
 archive: false

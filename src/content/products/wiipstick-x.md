@@ -1,6 +1,6 @@
 ---
 name: 'Wiipstick X'
-price: 7
+price: 7.5
 image: '/gsbj/images/wiipstick-x.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false

@@ -1,6 +1,6 @@
 ---
 name: 'Led lampa'
-price: 9.16
+price: 9
 image: '/gsbj/images/led-lampa.jpg'
 category: 'lampe'
 archive: false

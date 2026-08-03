@@ -1,6 +1,6 @@
 ---
 name: 'Set za poker'
-price: 13.14
+price: 13
 image: '/gsbj/images/set-za-poker.jpg'
 category: 'igracke'
 archive: false

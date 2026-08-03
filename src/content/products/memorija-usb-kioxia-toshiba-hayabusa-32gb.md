@@ -1,6 +1,6 @@
 ---
 name: 'Memorija USB Kioxia-Toshiba Hayabusa 32GB'
-price: 7.83
+price: 8.5
 image: '/gsbj/images/memorija-usb-kioxia-toshiba-hayabusa-32gb.jpg'
 category: 'pc-oprema'
 archive: false

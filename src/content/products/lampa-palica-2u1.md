@@ -1,6 +1,6 @@
 ---
 name: 'Lampa palica 2u1'
-price: 19.78
+price: 16
 image: '/gsbj/images/lampa-palica-2u1.jpg'
 category: 'lampe'
 archive: false

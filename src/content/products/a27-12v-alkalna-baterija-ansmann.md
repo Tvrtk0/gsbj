@@ -1,6 +1,6 @@
 ---
 name: 'A27 12V alkalna baterija – Ansmann'
-price: 1.99
+price: 2
 image: '/gsbj/images/a27-12v-alkalna-baterija-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false

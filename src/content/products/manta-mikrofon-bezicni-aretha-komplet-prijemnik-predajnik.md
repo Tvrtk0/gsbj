@@ -1,6 +1,6 @@
 ---
 name: 'MANTA mikrofon bežični Aretha, komplet prijemnik + predajnik'
-price: 19.78
+price: 16
 image: '/gsbj/images/manta-mikrofon-bezicni-aretha-komplet-prijemnik-predajnik.jpg'
 category: 'pc-oprema'
 archive: false

@@ -1,6 +1,6 @@
 ---
 name: 'MANTA punjač za AC220, 3xUSB, 3.1A'
-price: 7.83
+price: 6.5
 image: '/gsbj/images/manta-punjac-za-ac220-3xusb-31a.jpg'
 category: 'punjaci-i-kablovi'
 archive: false

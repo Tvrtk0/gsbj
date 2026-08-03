@@ -1,6 +1,6 @@
 ---
 name: 'GAME BOX 400 IGRICA'
-price: 15
+price: 18
 image: '/gsbj/images/game-box-400-igrica.jpg'
 category: 'igracke'
 archive: false

@@ -1,6 +1,6 @@
 ---
 name: 'Nož lovački'
-price: 22
+price: 26
 image: '/gsbj/images/noz-lovacki.jpg'
 category: 'nozevi'
 archive: false

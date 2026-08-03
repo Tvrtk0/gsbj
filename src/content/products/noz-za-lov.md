@@ -1,6 +1,6 @@
 ---
 name: 'Nož za lov'
-price: 16
+price: 22
 image: '/gsbj/images/noz-za-lov.jpg'
 category: 'nozevi'
 archive: false

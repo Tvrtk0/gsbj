@@ -1,6 +1,6 @@
 ---
 name: 'Led lampa za lovce'
-price: 39.68
+price: 33
 image: '/gsbj/images/led-lampa-za-lovce.jpg'
 category: 'lampe'
 archive: false

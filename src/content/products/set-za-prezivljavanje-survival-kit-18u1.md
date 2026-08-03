@@ -1,6 +1,6 @@
 ---
 name: 'Set za preživljavanje Survival kit 18u1'
-price: 37.03
+price: 37
 image: '/gsbj/images/set-za-prezivljavanje-survival-kit-18u1.jpg'
 category: 'nozevi'
 archive: false

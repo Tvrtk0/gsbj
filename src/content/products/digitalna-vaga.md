@@ -1,6 +1,6 @@
 ---
 name: 'Digitalna vaga'
-price: 15.79
+price: 16
 image: '/gsbj/images/digitalna-vaga.jpg'
 category: 'ostalo'
 archive: false

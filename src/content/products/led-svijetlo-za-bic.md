@@ -1,6 +1,6 @@
 ---
 name: 'LED Svijetlo za bic'
-price: 9.16
+price: 9
 image: '/gsbj/images/led-svijetlo-za-bic.jpg'
 category: 'lampe'
 archive: false

@@ -1,6 +1,6 @@
 ---
 name: 'Alkalna baterija X-POWER /LR06/AA/1.5V/4 kom. – ANSMANN'
-price: 2.65
+price: 3.5
 image: '/gsbj/images/alkalna-baterija-x-power-lr06aa15v4-kom-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false

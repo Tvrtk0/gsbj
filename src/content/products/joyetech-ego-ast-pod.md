@@ -1,6 +1,6 @@
 ---
 name: ' JOYETECH EGO AST POD'
-price: 3.85
+price: 3.5
 image: '/gsbj/images/joyetech-ego-ast-pod.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false

@@ -1,6 +1,6 @@
 ---
 name: 'Drobilica za duhan'
-price: 22.43
+price: 22
 image: '/gsbj/images/drobilica-za-duhan.jpg'
 category: 'pusacki-pribor'
 archive: false

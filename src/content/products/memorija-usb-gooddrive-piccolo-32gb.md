@@ -1,6 +1,6 @@
 ---
 name: 'Memorija USB GoodDrive Piccolo 32GB'
-price: 8
+price: 8.5
 image: '/gsbj/images/memorija-usb-gooddrive-piccolo-32gb.jpg'
 category: 'pc-oprema'
 archive: false
