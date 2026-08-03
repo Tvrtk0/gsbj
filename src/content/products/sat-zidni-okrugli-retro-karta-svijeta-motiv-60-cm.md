@@ -1,5 +1,5 @@
 ---
-name: 'SAT ZIDNI OKRUGLI RETRO KARTA SVIJETA MOTIV 60 CM'
+name: 'Sat zidni okrugli retro karta svijeta motiv 60 cm'
 price: 24
 image: '/gsbj/images/sat-zidni-okrugli-retro-karta-svijeta-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'

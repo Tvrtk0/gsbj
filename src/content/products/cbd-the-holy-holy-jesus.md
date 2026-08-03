@@ -1,5 +1,5 @@
 ---
-name: 'CBD THE HOLY HOLY – JESUS'
+name: 'CBD The Holy Holy – Jesus'
 price: 11.81
 image: '/gsbj/images/cbd-the-holy-holy-jesus.jpg'
 category: 'elektronske-cigarete-i-tekucine'

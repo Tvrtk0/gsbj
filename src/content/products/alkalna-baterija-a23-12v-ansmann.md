@@ -1,5 +1,5 @@
 ---
-name: 'Alkalna baterija A23 12V – ANSMANN'
+name: 'Alkalna baterija A23 12V – Ansmann'
 price: 2
 image: '/gsbj/images/alkalna-baterija-a23-12v-ansmann.jpg'
 category: 'baterijski-ulosci'

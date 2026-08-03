@@ -1,5 +1,5 @@
 ---
-name: 'CHAMP NARGILA'
+name: 'Champ nargila'
 price: 12
 priceMax: 52
 image: '/gsbj/images/champ-nargila.jpg'

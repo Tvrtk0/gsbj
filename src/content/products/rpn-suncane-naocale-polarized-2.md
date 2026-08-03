@@ -1,5 +1,5 @@
 ---
-name: 'RPN sunčane naočale POLARIZED'
+name: 'RPN sunčane naočale polarized'
 price: 19
 image: '/gsbj/images/rpn-suncane-naocale-polarized-2.jpg'
 category: 'suncane-naocale'

@@ -1,5 +1,5 @@
 ---
-name: 'ELEAF ISTICK PICO 25 FULL KIT'
+name: 'Eleaf iStick Pico 25 full kit'
 price: 52.96
 image: '/gsbj/images/eleaf-istick-pico-25-full-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

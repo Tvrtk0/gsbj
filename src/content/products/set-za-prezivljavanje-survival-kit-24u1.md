@@ -1,5 +1,5 @@
 ---
-name: 'Set za preživljavanje Survival kit 24u1'
+name: 'Set za preživljavanje survival kit 24u1'
 price: 39
 image: '/gsbj/images/set-za-prezivljavanje-survival-kit-24u1.jpg'
 category: 'nozevi'

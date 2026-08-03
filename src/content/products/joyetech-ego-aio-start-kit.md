@@ -1,5 +1,5 @@
 ---
-name: 'JOYETECH EGO AIO START KIT'
+name: 'Joyetech eGo AIO start kit'
 price: 26
 image: '/gsbj/images/joyetech-ego-aio-start-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

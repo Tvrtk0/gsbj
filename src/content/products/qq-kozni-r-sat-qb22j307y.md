@@ -1,5 +1,5 @@
 ---
-name: 'Q&Q Kožni r. Sat QB22J307Y'
+name: 'Q&Q kožni r. sat QB22J307Y'
 price: 29.07
 image: '/gsbj/images/qq-kozni-r-sat-qb22j307y.jpg'
 category: 'satovi-i-nakit'

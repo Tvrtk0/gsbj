@@ -1,5 +1,5 @@
 ---
-name: 'PREGAČA SA ŠALJIVIM NATPISOM MUŠKA Oprez! Tata u kuhinji'
+name: 'Pregača sa šaljivim natpisom muška Oprez! Tata u kuhinji'
 price: 12
 image: '/gsbj/images/pregaca-sa-saljivim-natpisom-muska-oprez-tata-u-kuhinji.jpg'
 category: 'suveniri-i-pokloni'

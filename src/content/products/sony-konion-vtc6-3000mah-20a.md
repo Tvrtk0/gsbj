@@ -1,5 +1,5 @@
 ---
-name: 'SONY KONION VTC6 3000MAH 20A'
+name: 'Sony Konion VTC6 3000mAh 20A'
 price: 7.9
 image: '/gsbj/images/sony-konion-vtc6-3000mah-20a.jpg'
 category: 'baterijski-ulosci'

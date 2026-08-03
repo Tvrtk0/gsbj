@@ -1,5 +1,5 @@
 ---
-name: 'Alkalna baterija A10 9V – ANSMANN'
+name: 'Alkalna baterija A10 9V – Ansmann'
 price: 2.65
 image: '/gsbj/images/alkalna-baterija-a10-9v-ansmann.jpg'
 category: 'baterijski-ulosci'

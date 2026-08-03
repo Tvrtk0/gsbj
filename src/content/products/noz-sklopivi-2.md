@@ -1,5 +1,5 @@
 ---
-name: 'NOŽ SKLOPIVI'
+name: 'Nož sklopivi'
 price: 19
 image: '/gsbj/images/noz-sklopivi-2.jpg'
 category: 'nozevi'

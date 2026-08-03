@@ -1,5 +1,5 @@
 ---
-name: 'FM TRANSMITER MP3 HY82 Bluetooth'
+name: 'FM transmiter MP3 HY82 Bluetooth'
 price: 21.1
 image: '/gsbj/images/fm-transmiter-mp3-hy82-bluetooth.jpg'
 category: 'tranzistori-fm-i-transmiteri'

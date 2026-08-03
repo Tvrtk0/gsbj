@@ -1,5 +1,5 @@
 ---
-name: 'Baterije za slušne aparate PR 48 Zinc-Air 13 /6 kom. – ANSMANN'
+name: 'Baterije za slušne aparate PR 48 Zinc-Air 13 /6 kom. – Ansmann'
 price: 6
 image: '/gsbj/images/baterije-za-slusne-aparate-pr-48-zinc-air-13-6-kom-ansmann.jpg'
 category: 'baterijski-ulosci'

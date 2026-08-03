@@ -1,5 +1,5 @@
 ---
-name: 'Innokin Coolfire Z80 80W + Zenith 2 Tank 5.5ml'
+name: 'Innokin Coolfire Z80 80W + Zenith 2 tank 5.5ml'
 price: 69
 image: '/gsbj/images/innokin-coolfire-z80-80w-zenith-2-tank-55ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'

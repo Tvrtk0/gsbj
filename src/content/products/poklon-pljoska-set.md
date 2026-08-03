@@ -1,5 +1,5 @@
 ---
-name: 'Poklon Pljoska set'
+name: 'Poklon pljoska set'
 price: 20
 image: '/gsbj/images/poklon-pljoska-set.jpg'
 category: 'suveniri-i-pokloni'

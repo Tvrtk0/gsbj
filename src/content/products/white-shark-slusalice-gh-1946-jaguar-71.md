@@ -1,5 +1,5 @@
 ---
-name: 'White Shark SLUŠALICE GH-1946 JAGUAR-7.1'
+name: 'White Shark slušalice GH-1946 JAGUAR-7.1'
 price: 30.39
 image: '/gsbj/images/white-shark-slusalice-gh-1946-jaguar-71.jpg'
 category: 'slusalice-i-zvucnici'

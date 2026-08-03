@@ -1,5 +1,5 @@
 ---
-name: 'WHITE SHARK HEADSET GH-1947 MARGAY'
+name: 'White Shark headset GH-1947 Margay'
 price: 19.78
 image: '/gsbj/images/white-shark-headset-gh-1947-margay.jpg'
 category: 'slusalice-i-zvucnici'

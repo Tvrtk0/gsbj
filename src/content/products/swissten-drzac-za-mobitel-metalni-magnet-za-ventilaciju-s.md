@@ -1,5 +1,5 @@
 ---
-name: 'SWISSTEN držač za mobitel, metalni, magnet, za ventilaciju S'
+name: 'Swissten držač za mobitel, metalni, magnet, za ventilaciju S'
 price: 11.81
 image: '/gsbj/images/swissten-drzac-za-mobitel-metalni-magnet-za-ventilaciju-s.jpg'
 category: 'ostalo'

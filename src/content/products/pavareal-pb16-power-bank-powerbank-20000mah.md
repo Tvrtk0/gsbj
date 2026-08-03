@@ -1,5 +1,5 @@
 ---
-name: 'PAVAREAL PB16 Power Bank Powerbank 20000mAh'
+name: 'Pavareal PB16 power bank powerbank 20000mAh'
 price: 24
 image: '/gsbj/images/pavareal-pb16-power-bank-powerbank-20000mah.jpg'
 category: 'baterijski-ulosci'

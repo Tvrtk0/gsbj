@@ -1,5 +1,5 @@
 ---
-name: 'KTS E TEKUĆINE/CLASSIC'
+name: 'KTS e-tekućine / Classic'
 price: 6.5
 image: '/gsbj/images/kts-e-tekucineclassic.jpg'
 category: 'elektronske-cigarete-i-tekucine'

@@ -1,5 +1,5 @@
 ---
-name: 'SWISSTEN selfie držač za mobitel Bluetooth'
+name: 'Swissten selfie držač za mobitel Bluetooth'
 price: 9.16
 image: '/gsbj/images/swissten-selfie-drzac-za-mobitel-bluetooth.jpg'
 category: 'ostalo'

@@ -1,5 +1,5 @@
 ---
-name: 'Smok Mag V9 Kit'
+name: 'Smok Mag V9 kit'
 price: 39.68
 image: '/gsbj/images/smok-mag-v9-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

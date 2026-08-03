@@ -1,5 +1,5 @@
 ---
-name: 'Innokin Kroma Z zamjenski Pod 4.5ml'
+name: 'Innokin Kroma Z zamjenski pod 4.5ml'
 price: 10.5
 image: '/gsbj/images/innokin-kroma-z-zamjenski-pod-45ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'

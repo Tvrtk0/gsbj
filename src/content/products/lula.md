@@ -1,5 +1,5 @@
 ---
-name: 'LULA'
+name: 'Lula'
 price: 4
 image: '/gsbj/images/lula.jpg'
 category: 'ostalo'

@@ -1,5 +1,5 @@
 ---
-name: 'JOYETECH EXCEED D19 STARTER KIT'
+name: 'Joyetech Exceed D19 starter kit'
 price: 33.05
 image: '/gsbj/images/joyetech-exceed-d19-starter-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

@@ -1,5 +1,5 @@
 ---
-name: 'MUŠKI SAT Q&Q Q894J202Y'
+name: 'Muški sat Q&Q Q894J202Y'
 price: 29
 image: '/gsbj/images/muski-sat-qq-q894j202y.jpg'
 category: 'satovi-i-nakit'

@@ -1,5 +1,5 @@
 ---
-name: 'SET ČAŠA ZA VINO S TISKOM LJEPOTICA I ZVIJER'
+name: 'Set čaša za vino s tiskom Ljepotica i zvijer'
 price: 10
 image: '/gsbj/images/set-casa-za-vino-s-tiskom-ljepotica-i-zvijer.jpg'
 category: 'suveniri-i-pokloni'

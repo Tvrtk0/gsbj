@@ -1,5 +1,5 @@
 ---
-name: 'WHITE SHARK HEADSET GH-1949 CARACAL'
+name: 'White Shark headset GH-1949 Caracal'
 price: 34.38
 image: '/gsbj/images/white-shark-headset-gh-1949-caracal.jpg'
 category: 'slusalice-i-zvucnici'

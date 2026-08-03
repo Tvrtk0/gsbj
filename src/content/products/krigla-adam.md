@@ -1,5 +1,5 @@
 ---
-name: 'Krigla adam'
+name: 'Krigla Adam'
 price: 12
 image: '/gsbj/images/krigla-adam.jpg'
 category: 'salice'

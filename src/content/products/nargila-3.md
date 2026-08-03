@@ -1,5 +1,5 @@
 ---
-name: 'NARGILA'
+name: 'Nargila'
 price: 29.07
 image: '/gsbj/images/nargila-3.jpg'
 category: 'pusacki-pribor'

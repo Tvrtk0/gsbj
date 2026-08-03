@@ -1,5 +1,5 @@
 ---
-name: 'D20 i7s Smart Watch'
+name: 'D20 i7s smart watch'
 price: 30
 image: '/gsbj/images/d20-i7s-smart-watch.jpg'
 category: 'satovi-i-nakit'

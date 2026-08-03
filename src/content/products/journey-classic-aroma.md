@@ -1,5 +1,5 @@
 ---
-name: 'JOURNEY Classic aroma'
+name: 'Journey Classic aroma'
 price: 9.16
 image: '/gsbj/images/journey-classic-aroma.jpg'
 category: 'elektronske-cigarete-i-tekucine'

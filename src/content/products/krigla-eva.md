@@ -1,5 +1,5 @@
 ---
-name: 'KRIGLA EVA'
+name: 'Krigla EVA'
 price: 12
 image: '/gsbj/images/krigla-eva.jpg'
 category: 'salice'

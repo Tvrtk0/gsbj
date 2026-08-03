@@ -1,5 +1,5 @@
 ---
-name: 'Car FM Transmitter Bluetooth 5.0'
+name: 'Car FM transmitter Bluetooth 5.0'
 price: 17
 image: '/gsbj/images/car-fm-transmitter-bluetooth-50.jpg'
 category: 'tranzistori-fm-i-transmiteri'

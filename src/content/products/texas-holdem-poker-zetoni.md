@@ -1,5 +1,5 @@
 ---
-name: 'Texas HoldEm Poker žetoni'
+name: 'Texas HoldEm poker žetoni'
 price: 10
 image: '/gsbj/images/texas-holdem-poker-zetoni.jpg'
 category: 'igracke'

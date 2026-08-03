@@ -1,5 +1,5 @@
 ---
-name: 'EAGLE – Polarizirane sunčane naočale'
+name: 'Eagle – polarizirane sunčane naočale'
 price: 19
 image: '/gsbj/images/eagle-polarizirane-suncane-naocale.jpg'
 category: 'suncane-naocale'

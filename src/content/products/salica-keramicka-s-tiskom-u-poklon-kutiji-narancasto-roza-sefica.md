@@ -1,5 +1,5 @@
 ---
-name: 'ŠALICA KERAMIČKA S TISKOM U POKLON KUTIJI NARANČASTO ROZA – Šefica'
+name: 'Šalica keramička s tiskom u poklon kutiji narančasto roza – Šefica'
 price: 6
 image: '/gsbj/images/salica-keramicka-s-tiskom-u-poklon-kutiji-narancasto-roza-sefica.jpg'
 category: 'salice'

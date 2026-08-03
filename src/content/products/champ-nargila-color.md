@@ -1,5 +1,5 @@
 ---
-name: 'CHAMP NARGILA COLOR'
+name: 'Champ nargila color'
 price: 26.41
 image: '/gsbj/images/champ-nargila-color.jpg'
 category: 'ostalo'

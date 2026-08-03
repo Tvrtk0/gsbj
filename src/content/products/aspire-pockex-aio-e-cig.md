@@ -1,5 +1,5 @@
 ---
-name: 'ASPIRE POCKEX AIO e-cig'
+name: 'Aspire PockeX AIO e-cig'
 price: 29
 image: '/gsbj/images/aspire-pockex-aio-e-cig.jpg'
 category: 'elektronske-cigarete-i-tekucine'

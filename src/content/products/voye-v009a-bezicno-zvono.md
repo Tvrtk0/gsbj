@@ -1,5 +1,5 @@
 ---
-name: 'VOYE V009A BEŽIČNO ZVONO'
+name: 'Voye V009A bežično zvono'
 price: 9.16
 image: '/gsbj/images/voye-v009a-bezicno-zvono.jpg'
 category: 'ostalo'

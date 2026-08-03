@@ -1,5 +1,5 @@
 ---
-name: 'FM TRANSMITER G29'
+name: 'FM transmiter G29'
 price: 11.81
 image: '/gsbj/images/fm-transmiter-g29.jpg'
 category: 'tranzistori-fm-i-transmiteri'

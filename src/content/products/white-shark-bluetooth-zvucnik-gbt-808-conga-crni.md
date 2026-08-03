@@ -1,5 +1,5 @@
 ---
-name: 'WHITE SHARK BLUETOOTH ZVUČNIK GBT-808 CONGA CRNI'
+name: 'White Shark Bluetooth zvučnik GBT-808 Conga crni'
 price: 29
 image: '/gsbj/images/white-shark-bluetooth-zvucnik-gbt-808-conga-crni.jpg'
 category: 'slusalice-i-zvucnici'

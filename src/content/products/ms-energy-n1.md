@@ -1,5 +1,5 @@
 ---
-name: 'MS ENERGY n1'
+name: 'MS Energy n1'
 price: 291.86
 image: '/gsbj/images/ms-energy-n1.jpg'
 category: 'e-romobili'

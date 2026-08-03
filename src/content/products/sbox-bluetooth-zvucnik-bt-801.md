@@ -1,5 +1,5 @@
 ---
-name: 'SBOX BLUETOOTH ZVUČNIK BT-801'
+name: 'Sbox Bluetooth zvučnik BT-801'
 price: 20.04
 image: '/gsbj/images/sbox-bluetooth-zvucnik-bt-801.jpg'
 category: 'slusalice-i-zvucnici'

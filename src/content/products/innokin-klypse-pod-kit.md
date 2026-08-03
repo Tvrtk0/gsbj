@@ -1,5 +1,5 @@
 ---
-name: 'INNOKIN KLYPSE POD KIT'
+name: 'Innokin Klypse pod kit'
 price: 20
 image: '/gsbj/images/innokin-klypse-pod-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

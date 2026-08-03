@@ -1,5 +1,5 @@
 ---
-name: 'Sunčane Polarized naočale'
+name: 'Sunčane polarized naočale'
 price: 12
 image: '/gsbj/images/suncane-polarized-naocale.jpg'
 category: 'suncane-naocale'

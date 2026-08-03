@@ -1,5 +1,5 @@
 ---
-name: 'MS ENERGY e10'
+name: 'MS Energy e10'
 price: 636.94
 image: '/gsbj/images/ms-energy-e10.jpg'
 category: 'e-romobili'

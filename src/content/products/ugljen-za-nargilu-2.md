@@ -1,5 +1,5 @@
 ---
-name: 'Ugljen za NARGILU'
+name: 'Ugljen za nargilu'
 price: 11
 image: '/gsbj/images/ugljen-za-nargilu-2.jpg'
 category: 'ostalo'

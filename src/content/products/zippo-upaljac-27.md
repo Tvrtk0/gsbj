@@ -1,5 +1,5 @@
 ---
-name: 'ZIPPO UPALJAČ'
+name: 'Zippo upaljač'
 price: 37.03
 image: '/gsbj/images/zippo-upaljac-27.jpg'
 category: 'zippo-upaljaci'

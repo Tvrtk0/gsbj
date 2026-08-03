@@ -1,5 +1,5 @@
 ---
-name: 'VRČ ADAM'
+name: 'Vrč Adam'
 price: 14
 image: '/gsbj/images/vrc-adam.jpg'
 category: 'salice'

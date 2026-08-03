@@ -1,5 +1,5 @@
 ---
-name: 'SAT ZIDNI OKRUGLI ROUTE 66 MOTIV 60 CM'
+name: 'Sat zidni okrugli Route 66 motiv 60 cm'
 price: 24
 image: '/gsbj/images/sat-zidni-okrugli-route-66-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'

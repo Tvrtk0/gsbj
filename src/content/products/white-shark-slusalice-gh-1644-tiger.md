@@ -1,5 +1,5 @@
 ---
-name: 'White Shark SLUŠALICE GH-1644 TIGER'
+name: 'White Shark slušalice GH-1644 Tiger'
 price: 30.39
 image: '/gsbj/images/white-shark-slusalice-gh-1644-tiger.jpg'
 category: 'slusalice-i-zvucnici'

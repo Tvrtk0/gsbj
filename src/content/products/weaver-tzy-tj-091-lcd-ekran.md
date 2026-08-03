@@ -1,5 +1,5 @@
 ---
-name: 'WEAVER TZY TJ- 091 + LCD EKRAN'
+name: 'Weaver TZY TJ-091 + LCD ekran'
 price: 20
 image: '/gsbj/images/weaver-tzy-tj-091-lcd-ekran.jpg'
 category: 'ostalo'

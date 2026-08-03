@@ -1,5 +1,5 @@
 ---
-name: 'Litijska baterija CR 2430 3V – ANSMANN'
+name: 'Litijska baterija CR 2430 3V – Ansmann'
 price: 3.5
 image: '/gsbj/images/litijska-baterija-cr-2430-3v-ansmann.jpg'
 category: 'baterijski-ulosci'

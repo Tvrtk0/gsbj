@@ -1,5 +1,5 @@
 ---
-name: 'NOŽ'
+name: 'Nož'
 price: 13
 image: '/gsbj/images/noz-3.jpg'
 category: 'nozevi'

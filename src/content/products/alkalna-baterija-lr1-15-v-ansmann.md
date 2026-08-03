@@ -1,5 +1,5 @@
 ---
-name: 'Alkalna baterija LR1 1.5 V – ANSMANN'
+name: 'Alkalna baterija LR1 1.5 V – Ansmann'
 price: 2.65
 image: '/gsbj/images/alkalna-baterija-lr1-15-v-ansmann.jpg'
 category: 'baterijski-ulosci'

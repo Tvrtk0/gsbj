@@ -1,5 +1,5 @@
 ---
-name: 'Nargila SAFI 30CM BLACK'
+name: 'Nargila Safi 30cm Black'
 price: 25
 image: '/gsbj/images/nargila-safi-30cm-black.jpg'
 category: 'pusacki-pribor'

@@ -1,5 +1,5 @@
 ---
-name: 'Alkalna baterija 4LR44 6V – ANSMANN'
+name: 'Alkalna baterija 4LR44 6V – Ansmann'
 price: 2.65
 image: '/gsbj/images/alkalna-baterija-4lr44-6v-ansmann.jpg'
 category: 'baterijski-ulosci'

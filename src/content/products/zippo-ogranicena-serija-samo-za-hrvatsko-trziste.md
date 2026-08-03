@@ -1,5 +1,5 @@
 ---
-name: 'Zippo ograničena serija samo za Hrvatsko tržište'
+name: 'Zippo ograničena serija samo za hrvatsko tržište'
 price: 46
 image: '/gsbj/images/zippo-ogranicena-serija-samo-za-hrvatsko-trziste.jpg'
 category: 'zippo-upaljaci'

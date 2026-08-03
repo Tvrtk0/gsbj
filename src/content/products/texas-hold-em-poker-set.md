@@ -1,5 +1,5 @@
 ---
-name: 'Texas Hold ''em Poker Set'
+name: 'Texas Hold ''em poker set'
 price: 20
 image: '/gsbj/images/texas-hold-em-poker-set.jpg'
 category: 'igracke'

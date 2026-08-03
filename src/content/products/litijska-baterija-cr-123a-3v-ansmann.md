@@ -1,5 +1,5 @@
 ---
-name: 'Litijska baterija CR 123A 3V – ANSMANN'
+name: 'Litijska baterija CR 123A 3V – Ansmann'
 price: 4
 image: '/gsbj/images/litijska-baterija-cr-123a-3v-ansmann.jpg'
 category: 'baterijski-ulosci'

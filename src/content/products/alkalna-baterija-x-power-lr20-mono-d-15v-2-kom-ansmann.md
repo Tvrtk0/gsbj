@@ -1,5 +1,5 @@
 ---
-name: 'Alkalna baterija X-POWER LR20 MONO D 1.5V /2 kom. – ANSMANN'
+name: 'Alkalna baterija X-Power LR20 Mono D 1.5V /2 kom. – Ansmann'
 price: 5
 image: '/gsbj/images/alkalna-baterija-x-power-lr20-mono-d-15v-2-kom-ansmann.jpg'
 category: 'baterijski-ulosci'

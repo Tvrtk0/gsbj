@@ -1,5 +1,5 @@
 ---
-name: 'Igraće karte MODIANO BELOT -100% plastica'
+name: 'Igraće karte Modiano Belot -100% plastica'
 price: 8
 image: '/gsbj/images/igrace-karte-modiano-belot-100-plastica.jpg'
 category: 'igracke'

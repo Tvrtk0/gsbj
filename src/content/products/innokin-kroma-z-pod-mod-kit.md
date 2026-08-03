@@ -1,5 +1,5 @@
 ---
-name: 'INNOKIN KROMA-Z POD MOD KIT'
+name: 'Innokin Kroma-Z pod mod kit'
 price: 47
 image: '/gsbj/images/innokin-kroma-z-pod-mod-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

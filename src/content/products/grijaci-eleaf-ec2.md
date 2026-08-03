@@ -1,5 +1,5 @@
 ---
-name: 'GRIJAČI ELEAF EC2'
+name: 'Grijači Eleaf EC2'
 price: 3
 image: '/gsbj/images/grijaci-eleaf-ec2.jpg'
 category: 'elektronske-cigarete-i-tekucine'

@@ -1,5 +1,5 @@
 ---
-name: 'Boca Set'
+name: 'Boca set'
 price: 16
 image: '/gsbj/images/boca-set.jpg'
 category: 'suveniri-i-pokloni'

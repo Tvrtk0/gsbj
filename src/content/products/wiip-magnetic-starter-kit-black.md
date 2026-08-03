@@ -1,5 +1,5 @@
 ---
-name: 'Wiip Magnetic Starter kit, Black'
+name: 'Wiip Magnetic starter kit, Black'
 price: 16
 image: '/gsbj/images/wiip-magnetic-starter-kit-black.jpg'
 category: 'elektronske-cigarete-i-tekucine'

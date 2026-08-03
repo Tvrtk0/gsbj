@@ -1,5 +1,5 @@
 ---
-name: 'PEPELJARA'
+name: 'Pepeljara'
 price: 4
 image: '/gsbj/images/pepeljara-2.jpg'
 category: 'pusacki-pribor'

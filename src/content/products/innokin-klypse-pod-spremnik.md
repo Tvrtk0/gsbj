@@ -1,5 +1,5 @@
 ---
-name: 'INNOKIN KLYPSE POD SPREMNIK'
+name: 'Innokin Klypse pod spremnik'
 price: 4
 image: '/gsbj/images/innokin-klypse-pod-spremnik.jpg'
 category: 'elektronske-cigarete-i-tekucine'

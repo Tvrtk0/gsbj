@@ -1,5 +1,5 @@
 ---
-name: 'LG HG2 3000 MAH 20A LI-ION BATERIJA'
+name: 'LG HG2 3000 mAh 20A Li-ion baterija'
 price: 9
 image: '/gsbj/images/lg-hg2-3000-mah-20a-li-ion-baterija.jpg'
 category: 'baterijski-ulosci'

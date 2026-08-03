@@ -1,5 +1,5 @@
 ---
-name: 'Innokin Jem Pen'
+name: 'Innokin Jem pen'
 price: 23.76
 image: '/gsbj/images/innokin-jem-pen.jpg'
 category: 'elektronske-cigarete-i-tekucine'

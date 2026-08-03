@@ -1,5 +1,5 @@
 ---
-name: 'Joyetech eGo POD AST kit 1000mah'
+name: 'Joyetech eGo pod AST kit 1000mAh'
 price: 20
 image: '/gsbj/images/joyetech-ego-pod-ast-kit-1000mah.jpg'
 category: 'elektronske-cigarete-i-tekucine'

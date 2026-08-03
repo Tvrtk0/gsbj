@@ -1,5 +1,5 @@
 ---
-name: 'GRIJAČI ZA JOYETECH CUBIS / EGO AIO'
+name: 'Grijači za Joyetech Cubis / eGo AIO'
 price: 3
 image: '/gsbj/images/grijaci-za-joyetech-cubis-ego-aio.jpg'
 category: 'elektronske-cigarete-i-tekucine'

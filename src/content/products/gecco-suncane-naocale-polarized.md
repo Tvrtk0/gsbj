@@ -1,5 +1,5 @@
 ---
-name: 'Gecco Sunčane naočale POLARIZED'
+name: 'Gecco sunčane naočale polarized'
 price: 12
 image: '/gsbj/images/gecco-suncane-naocale-polarized.jpg'
 category: 'suncane-naocale'

@@ -1,5 +1,5 @@
 ---
-name: 'VAPORESSO REVENGER X 220W FULL KIT'
+name: 'Vaporesso Revenger X 220W full kit'
 price: 79.5
 image: '/gsbj/images/vaporesso-revenger-x-220w-full-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

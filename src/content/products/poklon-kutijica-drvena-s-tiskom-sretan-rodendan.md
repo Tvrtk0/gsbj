@@ -1,5 +1,5 @@
 ---
-name: 'POKLON KUTIJICA DRVENA S TISKOM Sretan rođendan'
+name: 'Poklon kutijica drvena s tiskom Sretan rođendan'
 price: 4.65
 image: '/gsbj/images/poklon-kutijica-drvena-s-tiskom-sretan-rodendan.jpg'
 category: 'suveniri-i-pokloni'

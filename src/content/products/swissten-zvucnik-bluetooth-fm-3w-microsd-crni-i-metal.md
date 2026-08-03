@@ -1,5 +1,5 @@
 ---
-name: 'SWISSTEN zvučnik Bluetooth, FM, 3W, microSD, crni i-METAL'
+name: 'Swissten zvučnik Bluetooth, FM, 3W, microSD, crni i-METAL'
 price: 13.14
 image: '/gsbj/images/swissten-zvucnik-bluetooth-fm-3w-microsd-crni-i-metal.jpg'
 category: 'slusalice-i-zvucnici'

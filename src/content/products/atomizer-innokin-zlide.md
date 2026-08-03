@@ -1,5 +1,5 @@
 ---
-name: 'ATOMIZER INNOKIN ZLIDE'
+name: 'Atomizer Innokin Zlide'
 price: 25
 image: '/gsbj/images/atomizer-innokin-zlide.jpg'
 category: 'elektronske-cigarete-i-tekucine'

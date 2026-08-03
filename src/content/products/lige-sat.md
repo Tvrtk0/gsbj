@@ -1,5 +1,5 @@
 ---
-name: 'LIGE SAT'
+name: 'Lige sat'
 price: 46.32
 image: '/gsbj/images/lige-sat.jpg'
 category: 'satovi-i-nakit'

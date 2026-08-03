@@ -1,5 +1,5 @@
 ---
-name: 'Bluetooth zvučnik IDANCE CUTY SEELION, gumirano kućište, ugrađeni punjač, crni'
+name: 'Bluetooth zvučnik iDance Cuty Seelion, gumirano kućište, ugrađeni punjač, crni'
 price: 19.78
 image: '/gsbj/images/bluetooth-zvucnik-idance-cuty-seelion-gumirano-kuciste-ugradeni-punjac-crni.jpg'
 category: 'slusalice-i-zvucnici'

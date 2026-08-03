@@ -1,5 +1,5 @@
 ---
-name: 'CHAMP DROBILICA'
+name: 'Champ drobilica'
 price: 22.43
 image: '/gsbj/images/champ-drobilica.jpg'
 category: 'ostalo'

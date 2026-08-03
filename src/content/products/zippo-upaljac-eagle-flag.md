@@ -1,5 +1,5 @@
 ---
-name: 'ZIPPO UPALJAČ EAGLE FLAG'
+name: 'Zippo upaljač Eagle flag'
 price: 37.03
 image: '/gsbj/images/zippo-upaljac-eagle-flag.jpg'
 category: 'zippo-upaljaci'

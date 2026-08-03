@@ -1,5 +1,5 @@
 ---
-name: 'UPALJAČ FANCY TURBO'
+name: 'Upaljač fancy turbo'
 price: 1.3
 image: '/gsbj/images/upaljac-fancy-turbo.jpg'
 category: 'upaljaci'

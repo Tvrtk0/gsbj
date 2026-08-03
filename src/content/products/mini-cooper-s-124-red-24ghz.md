@@ -1,5 +1,5 @@
 ---
-name: 'Mini Cooper S 1:24 red 2,4GHz'
+name: 'Mini Cooper s 1:24 red 2,4GHz'
 price: 26.41
 image: '/gsbj/images/mini-cooper-s-124-red-24ghz.jpg'
 category: 'igracke'
