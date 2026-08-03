@@ -5,10 +5,10 @@ image: '/gsbj/images/white-shark-slusalice-gh-1946-jaguar-71.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---
-AKCIJA -30%    S POPUSTOM SADA SAMO 160.00 KN
+AKCIJA -30% S POPUSTOM SADA SAMO 160.00 KN
 Tip slušalica: Gaming virtual 7.1 slušalice
 
-Frekvencijski raspon (Hz): 20 - 20000
+Frekvencijski raspon (Hz): 20-20000
 
 Impedancija slušalica (Ohm): 32
 

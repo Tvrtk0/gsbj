@@ -5,10 +5,10 @@ image: '/gsbj/images/eleaf-istick-pico-25-full-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---
-Eleaf iStick Pico pomeo je tržište e-cigaretama i stekao neviđenu popularnost među vaperima diljem svijeta zbog malih dimenzija i jednostavnosti korištenja. Jedina mu je zamjerka bila što se nije mogao kombinirati s atomizerima promjera većeg od 22mm – no Eleaf je konačno riješio taj problem i na tržište plasirao Pico 25, mod koji zadržava sve bitne karakteristike svog prethodnika, ali je i kompatibilan s većim brojem isparivača jer podržava atomizere promjera do 25 mm. 
-No to nije jedino poboljšanje – sada se na uređaju nalazi veći i pregledniji zaslon, podržava punjenje baterije do 2A, ima preheat funkciju, te više snage (85 W). 
-Eleaf ELLO atomizer korištenjem novih HW grijača donosi ultimativno iskustvo u pogledu okusa. Sistem za punjenje e-tekućinom nalazi se na gornjoj strani atomizera, kapacitet je proširiv s 2 ml na 4 ml, a punjenje je vrlo brzo i jednostavno jer se klizni poklopac samo pomakne u stranu i punjenje se obavi u roku od nekoliko sekundi. Dvostruki otvori na bazi atomizera omogućavaju optimalan protok zraka, a on se može i podesiti rotiranjem prstena. 
-Uz ovakve karakteristike, upečatljiv dizajn i sjajnu cijenu, ne sumnjamo da će ovaj model nadmašiti popularnost svog prethodnika. 
+Eleaf iStick Pico pomeo je tržište e-cigaretama i stekao neviđenu popularnost među vaperima diljem svijeta zbog malih dimenzija i jednostavnosti korištenja. Jedina mu je zamjerka bila što se nije mogao kombinirati s atomizerima promjera većeg od 22mm – no Eleaf je konačno riješio taj problem i na tržište plasirao Pico 25, mod koji zadržava sve bitne karakteristike svog prethodnika, ali je i kompatibilan s većim brojem isparivača jer podržava atomizere promjera do 25 mm.
+No to nije jedino poboljšanje – sada se na uređaju nalazi veći i pregledniji zaslon, podržava punjenje baterije do 2A, ima preheat funkciju, te više snage (85 W).
+Eleaf ELLO atomizer korištenjem novih HW grijača donosi ultimativno iskustvo u pogledu okusa. Sistem za punjenje e-tekućinom nalazi se na gornjoj strani atomizera, kapacitet je proširiv s 2 ml na 4 ml, a punjenje je vrlo brzo i jednostavno jer se klizni poklopac samo pomakne u stranu i punjenje se obavi u roku od nekoliko sekundi. Dvostruki otvori na bazi atomizera omogućavaju optimalan protok zraka, a on se može i podesiti rotiranjem prstena.
+Uz ovakve karakteristike, upečatljiv dizajn i sjajnu cijenu, ne sumnjamo da će ovaj model nadmašiti popularnost svog prethodnika.
 Specifikacije:
 – dimenzije: 25.0 mm x 48.0 mm x 104.0 mm
 – težina: 143.2 g

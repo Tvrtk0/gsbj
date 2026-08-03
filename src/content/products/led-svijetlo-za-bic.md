@@ -5,8 +5,8 @@ image: '/gsbj/images/led-svijetlo-za-bic.jpg'
 category: 'lampe'
 archive: false
 ---
-LED Svijetlo sa ugrađenim zvonom za bicikl  na USB punjač
-NOVO  N O V O  NOVO u Gift Shopu
+LED Svijetlo sa ugrađenim zvonom za bicikl na USB punjač
+NOVO N O V O NOVO u Gift Shopu
 Prednji položaj svijetla
 Micro USB punjenje
 Osvjetljenje: 125/250 lumena

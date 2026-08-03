@@ -1,5 +1,5 @@
 ---
-name: ' VOOPOO DRAG X POD MOD KIT'
+name: 'VOOPOO DRAG X POD MOD KIT'
 price: 45
 image: '/gsbj/images/voopoo-drag-x-pod-mod-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'

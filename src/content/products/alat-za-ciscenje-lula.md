@@ -6,4 +6,4 @@ category: 'pusacki-pribor'
 archive: false
 ---
 Čistač lula
-Veličina:  78*17mm
+Veličina: 78×17mm

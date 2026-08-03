@@ -7,6 +7,6 @@ archive: false
 ---
 Novi Eleaf EC2 grijači za Eleaf Melo 4 utemeljeni na redizajnu popularnih EC grijača, koji omogućavaju produkciju velike količine pare i odličan okus. Kompatibilni s atomizerima koji koriste prethodnu verziju grijača.
 
-0.3 ohm – 30-80 W
+0\. 3 ohm – 30-80 W
 
-0.5 ohm – 30-100W
+0\. 5 ohm – 30-100W

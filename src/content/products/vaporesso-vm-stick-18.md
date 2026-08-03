@@ -6,7 +6,7 @@ category: 'elektronske-cigarete-i-tekucine'
 archive: true
 ---
 Vaporesso VM Stick 18 odličan je odabir za osobe koje tek započinju koristiti e-cigaretu, kao i za ljubitelje MTL parenja koji preferiraju manje uređaje jednostavne za rukovanje.
-Baterija od 1200 mAh bit će dovoljna većini korisnika za cjelodnevnu uporabu, a spremnik neće biti  potrebno često dopunjavati tekućinom jer uređaj koristi nove EUC VM mesh i keramičke grijače namijenjene niskoj snazi, što pridonosi sporijem pražnjenju baterije i manjoj potrošnji e-tekućine.
+Baterija od 1200 mAh bit će dovoljna većini korisnika za cjelodnevnu uporabu, a spremnik neće biti potrebno često dopunjavati tekućinom jer uređaj koristi nove EUC VM mesh i keramičke grijače namijenjene niskoj snazi, što pridonosi sporijem pražnjenju baterije i manjoj potrošnji e-tekućine.
 Spremnik se jednostavno puni s gornje strane atomizera, a protok zraka regulira se zakretanjem prstena pri dnu tanka.
 
 Specifikacije:

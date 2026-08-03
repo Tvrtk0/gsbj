@@ -11,6 +11,6 @@ kapacitet: 2.0 ml
 punjenje tekućinom: side-fill sa silikonskom brtvom
 grijač: integrirani 0.8 ohm mesh
 konektor: magnetski
-*Napomena: Prije prvog korištenja napuniti spremnik tekućinom i pričekati nekoliko minuta kako bi se grijač dovoljno natopio i kako ne bi došlo do zagorijevanja pamuka.
+• Napomena: Prije prvog korištenja napuniti spremnik tekućinom i pričekati nekoliko minuta kako bi se grijač dovoljno natopio i kako ne bi došlo do zagorijevanja pamuka.
 
-**Napomena: Cijena se odnosi na jedan komad (spremnik).
+• ×Napomena: Cijena se odnosi na jedan komad (spremnik).

@@ -12,20 +12,20 @@ Glazbu možete reproducirati putem Bluetooth veze ili sa USB/MicroSD memorije.
 Održite karaoke zabavu ili se pohvalite pjevačkim umijećem pred roditeljima ili prijateljima!
 
 Ostalo:
-- 2" zvučnik
-- Bluetooth Disco / Karaoke sustav
-- Max 10W
-- USB MP3 reprodukcija
-- MicroSD MP3 reprodukcija
-- Ugrađena baterija autonomije do 5 sati na jednom punjenju
-- Punjenje putem microUSB kabla
-- Boja: crna
+• 2" zvučnik
+• Bluetooth Disco / Karaoke sustav
+• Max 10W
+• USB MP3 reprodukcija
+• MicroSD MP3 reprodukcija
+• Ugrađena baterija autonomije do 5 sati na jednom punjenju
+• Punjenje putem microUSB kabla
+• Boja: crna
 
 Sadržaj pakiranja:
-- mikrofon
-- upute za uporabu
-- jamstveni list
+• mikrofon
+• upute za uporabu
+• jamstveni list
 
 Specifikacija/
-- Brand: N-gear
-- Tip proizvoda: Dječji glazbeni set
+• Brand: N-gear
+• Tip proizvoda: Dječji glazbeni set

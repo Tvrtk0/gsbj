@@ -8,4 +8,4 @@ archive: false
 Paket sadrži 5 različitih boja.
 Upaljači su brener i rade na vjetru.
 Prodaju se pojedinačno.
-Brend :PROF
+Brend:PROF

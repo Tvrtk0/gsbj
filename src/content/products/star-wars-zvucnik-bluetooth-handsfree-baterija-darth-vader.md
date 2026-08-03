@@ -10,24 +10,24 @@ Glazbu možete slušati bežično sa svakog telefona ili tableta putem Bluetooth
 Kompaktne dimenzije i vrhunska kvaliteta zvuka zasigurno će oduševiti sve ljubitelje dobrog zvuka i Ratova zvijezda.
 
 Ostalo:
-- Savršeni zvuk
-- Bluetooth
-- Punjiva baterija
-- LED indikator napajanja i punjenja
-- Reprodukcija zvuka s uređaja opremljenih 3,5 mm priključnicom za slušalice
-- Masa: 0,383Kg
-- Dimenzije (pakiranja): 17.1x9x19cm
+• Savršeni zvuk
+• Bluetooth
+• Punjiva baterija
+• LED indikator napajanja i punjenja
+• Reprodukcija zvuka s uređaja opremljenih 3,5 mm priključnicom za slušalice
+• Masa: 0,383Kg
+• Dimenzije (pakiranja): 17.1x9x19cm
 
 Sadržaj pakiranja:
-- zvučnik
-- upute za uporabu
-- jamstveni list
+• zvučnik
+• upute za uporabu
+• jamstveni list
 
 Ekskluzivni uvoznik za Hrvatsku: Viva-net d.o.o.
 
 Specifikacija/
-- Brand: eKids
-- Tip proizvoda: Zvučnici (Bluetooth)
-- Snaga:
-- Bluetooth: Da
-- Ugrađena baterija: Da
+• Brand: eKids
+• Tip proizvoda: Zvučnici (Bluetooth)
+• Snaga:
+• Bluetooth: Da
+• Ugrađena baterija: Da

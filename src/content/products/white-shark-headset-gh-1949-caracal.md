@@ -17,7 +17,7 @@ Promjer zvučnika slušalice: 50mm
 Impedancija: 32 Ohm-a
 Frekvencijski odaziv: 20Hz - 20kHz
 Osjetljivost: 103 dB +/- 3 dB
-Konektori: 2 x 3,5mm + USB (Napajanje osvjetljenja) 
+Konektori: 2 x 3,5mm + USB (Napajanje osvjetljenja)
 Osvjetljenje: Da, Crvena boja
 Materijal: Metal / Plastika
 Duljina kabela: 2.2m

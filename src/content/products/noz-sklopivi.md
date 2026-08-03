@@ -5,6 +5,6 @@ image: '/gsbj/images/noz-sklopivi.jpg'
 category: 'nozevi'
 archive: false
 ---
-Nož  sklopivi sa futrolom
+Nož sklopivi sa futrolom
 Riba na dnu drške
 Dužina noža s oštricom: 19,5 cm

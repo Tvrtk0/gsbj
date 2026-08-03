@@ -24,17 +24,17 @@ TREVI SL 3820 je jednostavan za upotrebu, elegantan i moderan budilica - sat koj
 Kupite ga danas i osigurajte si savršen alat za buđenje koji će vam služiti dugi niz godina.
 
 Ostalo:
-- QUARTZ
-- Veliki brojčanik
-- Gumirana završna obrada sa silikonskom navlakom
-- Tihi pokret
-- Elektronska melodija zvona
-- Može se objesiti na zid
-- Napajanje: 1xAA baterija (UM3) - ne dolazi u pakiranju
-- Dimenzije: 10,3x10,3x5cm
-- Boja: bijela
+• QUARTZ
+• Veliki brojčanik
+• Gumirana završna obrada sa silikonskom navlakom
+• Tihi pokret
+• Elektronska melodija zvona
+• Može se objesiti na zid
+• Napajanje: 1xAA baterija (UM3) - ne dolazi u pakiranju
+• Dimenzije: 10,3x10,3x5cm
+• Boja: bijela
 
 Sadržaj pakiranja:
-- budilica
-- upute za uporabu
-- jamstveni list
+• budilica
+• upute za uporabu
+• jamstveni list

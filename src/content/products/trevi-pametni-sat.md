@@ -22,41 +22,41 @@ Ukratko, Trevi T-FIT 220 PLUS pametna narukvica je odličan uređaj koji će vam
 Odaberite Trevi T-FIT 220 PLUS i uživajte u boljem i zdravijem načinu života!
 
 Ostalo:
-- Zaslon: 1,28" osjetljiv na dodir za kontrolu funkcija
-- Povezuje se s pametnim telefonom za upravljanje podacima u aplikaciji
-- Obavijest na zaslonu o dolaznim pozivima i porukama
-- Mogućnost postavljanja do 3 alarma / podsjetnika
-- Novi brojčanici sata koji se mogu preuzeti iz APP-a
-- Povezuje se s pametnim telefonima za upravljanje podacima na aplikaciji DaFit
-- Izbor sportske aktivnosti kroz 6 postavljenih sportova
-- Bluetooth: v5.0
-- PPG tehnologija
-- Otkucaji srca
-- Krvni tlak
-- Oksigenacija krvi
-- Praćenje sna
-- Pedometar
-- Kalorije
-- Prijeđena udaljenost
-- IP67 vodootporan
-- Punjiva litijska baterija
-- Kompatibilan s iOS 9.0 ili noviji, Android 5.0 ili noviji
-- Druga izmjenjiva narukvica uključena u pakiranje
-- Boja: plava
-* ovo nije medicinski uređaj, već uređaj koji prikazuje vrijednosti nositelja na zaslonu
+• Zaslon: 1,28" osjetljiv na dodir za kontrolu funkcija
+• Povezuje se s pametnim telefonom za upravljanje podacima u aplikaciji
+• Obavijest na zaslonu o dolaznim pozivima i porukama
+• Mogućnost postavljanja do 3 alarma / podsjetnika
+• Novi brojčanici sata koji se mogu preuzeti iz APP-a
+• Povezuje se s pametnim telefonima za upravljanje podacima na aplikaciji DaFit
+• Izbor sportske aktivnosti kroz 6 postavljenih sportova
+• Bluetooth: v5.0
+• PPG tehnologija
+• Otkucaji srca
+• Krvni tlak
+• Oksigenacija krvi
+• Praćenje sna
+• Pedometar
+• Kalorije
+• Prijeđena udaljenost
+• IP67 vodootporan
+• Punjiva litijska baterija
+• Kompatibilan s iOS 9.0 ili noviji, Android 5.0 ili noviji
+• Druga izmjenjiva narukvica uključena u pakiranje
+• Boja: plava
+• ovo nije medicinski uređaj, već uređaj koji prikazuje vrijednosti nositelja na zaslonu
 
 Sadržaj pakiranja:
-- pametni sat
-- kabel za punjenje
-- dodatna narukvica
-- upute za uporabu
-- jamstveni list
+• pametni sat
+• kabel za punjenje
+• dodatna narukvica
+• upute za uporabu
+• jamstveni list
 
 Specifikacija/
-- Brand: Trevi
-- Vrsta zaslona: Touch
-- Veličina zaslona (dijagonala): 1.28"
-- IP67: Da
-- Bluetooth: Da
-- Brojač otkucaja srca: Da
-- Obavijest o dolaznim porukama: Da
+• Brand: Trevi
+• Vrsta zaslona: Touch
+• Veličina zaslona (dijagonala): 1.28"
+• IP67: Da
+• Bluetooth: Da
+• Brojač otkucaja srca: Da
+• Obavijest o dolaznim porukama: Da

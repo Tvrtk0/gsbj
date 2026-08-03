@@ -12,12 +12,12 @@ Spoj pruža mogućnost okretanja u željenom smjeru.
 Opruge u hvataljkama osiguravaju maksimalnu čvrstoću držača u ventilacijskoj rešetki.
 
 Ostalo:
-- Posebne značajke: metalna konstrukcija, magnetski držač
-- Montaža u vozilo: ventilacijsku rešetku vozila
-- Spajanje pametnog telefona: magnetske pločice
-- Boja: Crna
+• Posebne značajke: metalna konstrukcija, magnetski držač
+• Montaža u vozilo: ventilacijsku rešetku vozila
+• Spajanje pametnog telefona: magnetske pločice
+• Boja: Crna
 
 Sadržaj pakiranje:
-- držač za mobitel
-- set okruglih i pravokutnih magneta za mobitel
-- upute za uporabu
+• držač za mobitel
+• set okruglih i pravokutnih magneta za mobitel
+• upute za uporabu

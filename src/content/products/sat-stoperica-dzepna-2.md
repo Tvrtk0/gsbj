@@ -11,6 +11,6 @@ Veliki ekran. Veliki zaslon, mjerenje vremena je jasno i točno na prvi pogled.
 Štedljiv i izdržljiv. Koristite dugmastu bateriju otpornu na alkalije za dugotrajnije napajanje.
 Prikladno za razne scenarije, natjecanja, treninge, plivanje.
 Tehnički podaci:
-Žuta boja, imamo i drugih modela i boja u ponudi već od 10 € 
+Žuta boja, imamo i drugih modela i boja u ponudi već od 10 €
 Materijali: ekološki prihvatljiva plastika
-Veličina: 81*60* 18mm
+Veličina: 81×60 18mm

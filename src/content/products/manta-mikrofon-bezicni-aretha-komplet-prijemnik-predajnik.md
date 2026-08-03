@@ -14,14 +14,14 @@ U kompletu sa mikrofonom isporučuje se i ovaj kabel duljine oko 2,5 m.
 Glava mikrofona ispunjena je posebnom spužvom koja potiskuje šum. Zahvaljujući tome, MIC002 savršeno prenosi zvuk govora ili pjevanja bez nepotrebnih smetnji koje dolaze iz okoline.
 
 Ostalo:
-- Napajanje: 1xAA mikrofon, 1xAA prijemnik
-- Priključci: XLR, utičnica od 6,3 mm
-- Frekvencijski raspon: 100Hz - 10000Hz
-- Osjetljivost: 30dB (bežično), 54dB (žičano)
-- Domet: 8-20 m
-- Vrsta mikrofona: bežična
-- S/N omjer: 60db
+• Napajanje: 1xAA mikrofon, 1xAA prijemnik
+• Priključci: XLR, utičnica od 6,3 mm
+• Frekvencijski raspon: 100Hz - 10000Hz
+• Osjetljivost: 30dB (bežično), 54dB (žičano)
+• Domet: 8-20 m
+• Vrsta mikrofona: bežična
+• S/N omjer: 60db
 
 Specifikacija/
-- Brand: Manta
-- Tip proizvoda: mikrofon
+• Brand: Manta
+• Tip proizvoda: mikrofon

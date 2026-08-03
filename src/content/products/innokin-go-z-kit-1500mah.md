@@ -1,5 +1,5 @@
 ---
-name: 'Innokin - GO Z Kit - 1500mAh'
+name: 'Innokin – GO Z Kit – 1500mAh'
 price: 29
 image: '/gsbj/images/innokin-go-z-kit-1500mah.jpg'
 category: 'elektronske-cigarete-i-tekucine'
@@ -18,9 +18,9 @@ Raspon otpora: 0.6ohm - 3.5ohm
 Kapacitet: 2ml
 Micro USB
 Navoj: 510
-Indikator baterije: 
-Crveno: < 20% 
-Crveno & Zeleno: 20%~70% 
+Indikator baterije:
+Crveno: < 20%
+Crveno & Zeleno: 20%~70%
 Zeleno: > 70%
 Sadržaj pakiranja:
 

@@ -5,5 +5,5 @@ image: '/gsbj/images/stolni-sat-lokomotiva.jpg'
 category: 'satovi-i-nakit'
 archive: true
 ---
-SAT STOLNI METALNI LOKOMOTIVA 
+SAT STOLNI METALNI LOKOMOTIVA
 – CRNA BOJA 30x8x21 CM

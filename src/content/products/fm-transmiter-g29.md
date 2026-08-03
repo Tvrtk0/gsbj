@@ -15,7 +15,7 @@ Težina artikla: 40g
 Vrsta materijala: ABS
 Maksimalno vrijeme neprekidnog korištenja: 6 sati
 Naziv modela: G29
-Veličina proizvoda: 62*18*15,5 mm/2,44*0,71*0,61"
+Veličina proizvoda: 62×18×15,5 mm/2,44×0,71×0,61"
 Posebne značajke: AUX bežični Bluetooth prijemnik
 Radna udaljenost: 10 metara
 Slušajte glazbu po svom izboru uz ovaj mali prijenosni uređaj

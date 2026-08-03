@@ -12,21 +12,21 @@ Uređaj je kompatibilan sa velikim brojem drugih uređaja uključujući i iPhone
 Ovaj uređaj je male potrošnje sukladno 4.0 tehnologiji.
 
 Ostalo:
-- svjetlost: 400 lm
-- ugrađen zvučnik, 5 W, 40 Hz - 18 kHz
-- napajanje: AC 100-240 V 50-60 Hz
-- Bluetooth
-- kontrola preko pametnog telefona
-- izmjena RGB boja
-- muzika
-- odabir radnih sati
-- distorzija: ispod 1%
-- snaga uređaja: 15 W
-- osnovni model: E27
+• svjetlost: 400 lm
+• ugrađen zvučnik, 5 W, 40 Hz - 18 kHz
+• napajanje: AC 100-240 V 50-60 Hz
+• Bluetooth
+• kontrola preko pametnog telefona
+• izmjena RGB boja
+• muzika
+• odabir radnih sati
+• distorzija: ispod 1%
+• snaga uređaja: 15 W
+• osnovni model: E27
 
 Sadržaj pakiranja:
-- Disko žarulja sa Bluetooth zvučnikom
+• Disko žarulja sa Bluetooth zvučnikom
 
 Specifikacija/
-- Brand: Manta
-- Tip proizvoda: Disko žarulja sa Bluetooth zvučnikom
+• Brand: Manta
+• Tip proizvoda: Disko žarulja sa Bluetooth zvučnikom

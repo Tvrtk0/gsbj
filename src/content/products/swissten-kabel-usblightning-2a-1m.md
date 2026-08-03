@@ -10,11 +10,11 @@ Kabel je pojačan i prenosi više struje (do 2A), te može obraditi brz prijenos
 Metalno kućište konektora otpornije je na mehanička oštećenja od uobičajenih plastičnih kućišta konektora.
 
 Debljina kabela
-- dva pocinčana bakrena vodiča, svaki s 22 AWG 70 / 0.01, odnosno svaki vodič ima 70 niti tankih 0.01mm (za usporedbu originalni kabel tvrtke Apple MD818 ima 37 niti tankih 0,08 mm) + vanjski TPE omotač (meka plastika)
-- dve pocinčana bakrene veze, svaka s vanjskom ljuskom 28 AWG-12 + TPE (mekom plastikom)
+• dva pocinčana bakrena vodiča, svaki s 22 AWG 70 / 0.01, odnosno svaki vodič ima 70 niti tankih 0.01mm (za usporedbu originalni kabel tvrtke Apple MD818 ima 37 niti tankih 0,08 mm) + vanjski TPE omotač (meka plastika)
+• dve pocinčana bakrene veze, svaka s vanjskom ljuskom 28 AWG-12 + TPE (mekom plastikom)
 
 Poklopac priključka
-- materijal: anodizirani aluminij
+• materijal: anodizirani aluminij
 
 Anodizacija je vrsta kemijsko-termalnog premaza aluminijskih proizvoda (skraćeno kao elektrolitička oksidacija aluminija).
 Sastoji se od formiranja zaštitnog sloja aluminijevog oksida na obrađenoj površini.
@@ -23,10 +23,10 @@ Anodizacija se primjerice koristi u zrakoplovnoj (i automobilskoj) industriji, a
 Prednost je što se nakon stvaranja tankog sloja ovim postupkom materijal štiti od vremenskih utjecaja.
 
 Ostalo:
-- Konektori: USB/Lighting
-- Duljina kabela: 1m
-- Namjena: Prijenos podataka i punjenje
-- Boja: bijela
+• Konektori: USB/Lighting
+• Duljina kabela: 1m
+• Namjena: Prijenos podataka i punjenje
+• Boja: bijela
 
 Sadržaj pakiranja:
-- USB kabel
+• USB kabel

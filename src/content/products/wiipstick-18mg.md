@@ -5,7 +5,7 @@ image: '/gsbj/images/wiipstick-18mg.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
 ---
-Jednokratne e-cig. 
+Jednokratne e-cig.
 Wiipstick je novi trend, napravljen da pomiče granice i razbije svaku monotoniju.
 Samo uzmi svoj jednokratni Wiipstick i zawiipaj!
 Posebno dizajnirano zeleno neonsko svijetlo novog Wiipstick uređaja, čini tvoj novi omiljeni modni dodatak svemirski privlačnim.

@@ -5,4 +5,4 @@ image: '/gsbj/images/zippo-ogranicena-serija-samo-za-hrvatsko-trziste.jpg'
 category: 'zippo-upaljaci'
 archive: false
 ---
-Imamo u ponudi više modela od 46 - 59 €
+Imamo u ponudi više modela od 46-59 €

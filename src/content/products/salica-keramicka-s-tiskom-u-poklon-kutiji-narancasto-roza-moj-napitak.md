@@ -1,5 +1,5 @@
 ---
-name: 'ŠALICA KERAMIČKA S TISKOM U POKLON KUTIJI NARANČASTO ROZA - Moj napitak'
+name: 'ŠALICA KERAMIČKA S TISKOM U POKLON KUTIJI NARANČASTO ROZA – Moj napitak'
 price: 6
 image: '/gsbj/images/salica-keramicka-s-tiskom-u-poklon-kutiji-narancasto-roza-moj-napitak.jpg'
 category: 'salice'

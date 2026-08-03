@@ -1,5 +1,5 @@
 ---
-name: 'CRYSTAL - Jednokratne elektronske cigarete koje predstavljaju revoluciju u svijetu pušača.'
+name: 'CRYSTAL – Jednokratne elektronske cigarete koje predstavljaju revoluciju u svijetu pušača'
 price: 7.5
 image: '/gsbj/images/crystal-jednokratne-elektronske-cigarete-koje-predstavljaju-revoluciju-u-svijetu-pusaca.jpg'
 category: 'elektronske-cigarete-i-tekucine'

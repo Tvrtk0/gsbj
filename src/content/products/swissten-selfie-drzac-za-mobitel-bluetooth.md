@@ -10,13 +10,13 @@ Kompatibilan s iOS i Androidom.
 Duljina palice do 97cm.
 
 Ostalo:
-- Bluetooth okidač
-- Gumirana drška
-- Dužina: 970mm
-- Boja: crna
+• Bluetooth okidač
+• Gumirana drška
+• Dužina: 970mm
+• Boja: crna
 
 Sadržaj pakiranja:
-- selfie palica
-- Bluetooth okidač
-- upute za uporabu
-- jamstveni list
+• selfie palica
+• Bluetooth okidač
+• upute za uporabu
+• jamstveni list

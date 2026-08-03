@@ -9,15 +9,15 @@ archive: true
 PlayStation4 obožavatelji sada će sigurno biti još veći ljubitelji svoje omiljene igrače konzole.
 
 Ostalo:
-- PlayStation 4 kompatibilno
-- PS4 kompatibilno
-- Boja: plavo-bijela
+• PlayStation 4 kompatibilno
+• PS4 kompatibilno
+• Boja: plavo-bijela
 
 Sadržaj pakiranja:
-- kontroler
-- upute za uporabu
-- jamstveni list
+• kontroler
+• upute za uporabu
+• jamstveni list
 
 Specifikacija/
-- Brand: X Rocker
+• Brand: X Rocker
 /Specifikacija

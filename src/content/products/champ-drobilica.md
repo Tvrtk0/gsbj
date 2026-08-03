@@ -15,4 +15,4 @@ Marka: Champ High
 Materijal: Aluminij
 Pakiranje: Transportna kutija
 Broj artikla PF40506117
-Težina : 0,14 kg
+Težina: 0,14 kg

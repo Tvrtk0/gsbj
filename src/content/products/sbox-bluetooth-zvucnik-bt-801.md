@@ -9,7 +9,7 @@ Tip zvučnika: Bluetooth zvučnik
 
 Izlazna snaga (mW): 8 W
 
-Frekvencijski raspon (Hz): 100 - 20000
+Frekvencijski raspon (Hz): 100-20000
 
 S/N omjer (dB): >/= 65
 
@@ -27,7 +27,7 @@ Baterija: 1200 mAh
 
 Domet (m): 20
 
-Vrijeme razgovora/slušanja glazbe (h): 2.5 - 4 (60% jakosti zvuka)
+Vrijeme razgovora/slušanja glazbe (h): 2.5-4 (60% jakosti zvuka)
 
 Distorzija: 1 %
 

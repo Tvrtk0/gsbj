@@ -28,7 +28,7 @@ Naziv marke: OEM
 Broj modela: WS-1869
 Tip: Aktivan
 Kanali: 2 (2,0)
-Posebna značajka: Bežični, PRIJENOSNI, 
+Posebna značajka: Bežični, PRIJENOSNI,
 Mjesto podrijetla: Guangdong, Kina
 LED osvijetljenje: RGB
 Ime proizvoda: WS-1869 bežični zvučnik za auto

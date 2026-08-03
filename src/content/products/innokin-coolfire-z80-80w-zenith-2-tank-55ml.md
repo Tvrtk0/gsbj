@@ -24,8 +24,8 @@ Dimenzije: 131.75 X 38.30 X 27.60mm
 Izlazna snaga: 6-80W
 Baterija:Jedna 18650 (Prodaje se zasebno)
 USB Port: Type-C, 5V/1.7V
-FØ: 6 - 80W / 20 - 100Hz
- Innokin Zenith 2 - 5.5ML
+FØ: 6-80W / 20-100Hz
+ Innokin Zenith 2-5.5ML
 
 Dimenzije: 51.7 X 26mm
 Kapacitet: 5.5ml
@@ -43,4 +43,4 @@ Proizvod uključuje:
 1 x rezervne brtve
 1 x USB-C kabel
 1 x upute
-*NAPOMENA: Za sve modove koji koriste eksternu (vanjsku) bateriju/baterije preporuča se puniti ih na eksternom/vanjskom punjaču!
+• NAPOMENA: Za sve modove koji koriste eksternu (vanjsku) bateriju/baterije preporuča se puniti ih na eksternom/vanjskom punjaču!

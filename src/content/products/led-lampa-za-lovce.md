@@ -8,12 +8,12 @@ archive: false
 LED lampa visokih svjetlosnih performansi, sa XH-P 50 LED diodom, glavom i lećom dalekog dometa, fokus snopa se mijenja proširenjem glave svjetiljke.
 Leća za fokusiranje omogućuje promjenu kuta raspršivanja svjetlosti iz širokog mjesta u uski snop…zumiranje
 Snop svijetla može kvalitetno osvijetliti više od 300 m u daljinu, a vidljiv je do 800 m daljine.
-Definitivno jedna od najjačih ručnih LED svjetiljki sa 1 modom rada (pali i gasi). 
+Definitivno jedna od najjačih ručnih LED svjetiljki sa 1 modom rada (pali i gasi).
 Načini rada: 2 razine svjetline s običnim i mikro prekidačem koji je idealan za lov.
 Otpornost na vodu: prskanje
 Materijal: legura aluminija
 Neprekidno radno vrijeme: do 8 sati, 2 x 18650 dolaze u kompletu
-Vrijeme punjenja: 4 - 6 h
+Vrijeme punjenja: 4-6 h
 Zumiranje: da
 Promjer glave: 6 cm
 Duljina: 20 cm

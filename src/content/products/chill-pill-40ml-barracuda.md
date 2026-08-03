@@ -1,5 +1,5 @@
 ---
-name: 'Chill Pill 40ml - Barracuda'
+name: 'Chill Pill 40ml – Barracuda'
 price: 6.64
 image: '/gsbj/images/chill-pill-40ml-barracuda.jpg'
 category: 'elektronske-cigarete-i-tekucine'

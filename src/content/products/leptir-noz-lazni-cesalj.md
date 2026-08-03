@@ -1,5 +1,5 @@
 ---
-name: 'Leptir nož lažni - češalj'
+name: 'Leptir nož lažni – češalj'
 price: 13
 image: '/gsbj/images/leptir-noz-lazni-cesalj.jpg'
 category: 'nozevi'

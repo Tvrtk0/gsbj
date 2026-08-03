@@ -15,8 +15,8 @@ Ugrađena baterija: 1800 mAh
 Osjetljivost: 84 dB +/- 2 dB
 Odnos signala i šuma: >/= 65 dB
 Distorzija: 1%
-Vrijeme punjenja: 1.5 - 2.5 h
-Vrijeme reprodukcije: 4 - 6 h (60% jakosti zvuka)
+Vrijeme punjenja: 1.5-2.5 h
+Vrijeme reprodukcije: 4-6 h (60% jakosti zvuka)
 Dimenzije: 75x75x149 mm
 Težina: 513 g
 Otpornost na vodu: IPX6

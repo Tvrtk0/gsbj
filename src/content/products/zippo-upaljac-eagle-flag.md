@@ -10,5 +10,5 @@ Ovaj Street Chrome™ upaljač je u boji s domoljubnim dizajnom. Dolazi zapakira
 Originalni Zippo upaljač otporan na vjetar s prepoznatljivim Zippo "klik"
 Sve metalne konstrukcije; dizajn otporan na vjetar funkcionira gotovo svugdje
 Može se puniti tijekom cijelog života; Za optimalne performanse preporučamo originalnu Zippo premium tekućinu za upaljač, kremene i fitilje.
-Napravljeno u Americi; jamstvo 
+Napravljeno u Americi; jamstvo
 Gorivo: Zippo premium tekućina za upaljač (prodaje se zasebno)

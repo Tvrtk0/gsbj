@@ -1,5 +1,5 @@
 ---
-name: 'VooPoo Vinci X 2 Pod Mod - 80W'
+name: 'VooPoo Vinci X 2 Pod Mod – 80W'
 price: 42.47
 image: '/gsbj/images/voopoo-vinci-x-2-pod-mod-80w.jpg'
 category: 'elektronske-cigarete-i-tekucine'
@@ -13,7 +13,7 @@ Uz jednu izmjenjivu bateriju 18650, VINCI X 2 Pod Mod isporučuje do 80 W konsta
 
 Opremljen pametnom detekcijom snage, VINCI X 2 će detektirat će otpor zavojnice i primijeniti idealnu snagu kako bi spriječio prerano „izgaranje“ zavojnice.
 
-Treba napomenuti da se može koristiti i RBA način rada kako bi korisnik namjestio snagu prema vlastitim preferencijama. Vinci X 2 je kompatibilan s cijelom ergelom Voopoo PnP grijača..
+Treba napomenuti da se može koristiti i RBA način rada kako bi korisnik namjestio snagu prema vlastitim preferencijama. Vinci X 2 je kompatibilan s cijelom ergelom Voopoo PnP grijača.
 Baterija: Jedna 18650 baterija (prodaje se zasebno)
 Dimenzije: 121mm x 27mm x 29mm
 Kapacitet:6.5ml

@@ -5,7 +5,7 @@ image: '/gsbj/images/zippo-upaljac-17.jpg'
 category: 'zippo-upaljaci'
 archive: true
 ---
-Zippo  Shamrock Horseshoe Lighter, Silver
+Zippo Shamrock Horseshoe Lighter, Silver
 Marka: Zippo
 Tip: upaljač
 Boja: Srebrna

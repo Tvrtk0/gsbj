@@ -13,23 +13,23 @@ Na uređaju također možete reproducirati popise za reprodukciju glazbe s USB i
 Trevi RA 7F20 BT radi s litijevom baterijom, prikladnom za punjenje putem mikro-USB-a.
 
 Ostalo:
-- Raspon frekvencije: FM-AM-SW
-- Bluetooth
-- Utor za USB memoriju
-- Utor za microSD memoriju
-- Izvrsna osjetljivost i preciznost podešavanja
-- Funkcije upravljanja / reprodukcije / pauze
-- LED indikator napunjenosti baterije
-- Utičnica za slušalice
-- Napajanje: mikro-USB punjiva litijeva baterija
-- Dimenzije: 135x75x35 mm
-- Masa: 0.215Kg
+• Raspon frekvencije: FM-AM-SW
+• Bluetooth
+• Utor za USB memoriju
+• Utor za microSD memoriju
+• Izvrsna osjetljivost i preciznost podešavanja
+• Funkcije upravljanja / reprodukcije / pauze
+• LED indikator napunjenosti baterije
+• Utičnica za slušalice
+• Napajanje: mikro-USB punjiva litijeva baterija
+• Dimenzije: 135x75x35 mm
+• Masa: 0.215Kg
 
 Sadržaj pakiranja:
-- radio prijemnik
-- upute za uporabu
-- jamstveni list
+• radio prijemnik
+• upute za uporabu
+• jamstveni list
 
 Specifikacija/
-- Brand: Trevi
-- USB priključak: Da
+• Brand: Trevi
+• USB priključak: Da

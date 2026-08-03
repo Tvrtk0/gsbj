@@ -20,15 +20,15 @@ Pogled na pametni telefon:
 Uz pomoc cicaka, pametni telefon je pricvršcen unutar kucišta ispod prozirne folije. Kroz njega se lijepo vidi zaslon pametnog telefona, pa je kucište prikladno, na primjer, kada koristite navigaciju. Naravno, pametnim telefonom se može upravljati preko dodirnog zaslona.
 
 Ostalo:
-- Montaža na bicikl / motor / romobil
-- Spajanje pametnog telefona: hvataljke
-- Boja: Crna
+• Montaža na bicikl / motor / romobil
+• Spajanje pametnog telefona: hvataljke
+• Boja: Crna
 
 Sadržaj pakiranje:
-- držac za mobitel
-- upute za uporabu
-- jamstveni list
+• držac za mobitel
+• upute za uporabu
+• jamstveni list
 
 Specifikacija/
-- Brand: Swissten
-- Tip proizvoda: držac za pametni telefon
+• Brand: Swissten
+• Tip proizvoda: držac za pametni telefon

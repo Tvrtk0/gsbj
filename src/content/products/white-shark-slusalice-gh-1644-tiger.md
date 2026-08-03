@@ -5,10 +5,10 @@ image: '/gsbj/images/white-shark-slusalice-gh-1644-tiger.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
 ---
-AKCIJA!!! POPUST -30%  CIJENA S POPUSTOM 160,00 KN
+AKCIJA!!! POPUST -30% CIJENA S POPUSTOM 160,00 KN
 Tip slušalica: Gaming slušalice
 
-Frekvencijski raspon (Hz): 20 - 20000
+Frekvencijski raspon (Hz): 20-20000
 
 Impedancija slušalica (Ohm): 32
 

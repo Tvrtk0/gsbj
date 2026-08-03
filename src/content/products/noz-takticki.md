@@ -7,6 +7,6 @@ archive: false
 ---
 Sklopivi nož sa zakačkom za remen i nazubljenom oštricom
 Na dnu drške šiljak za razbijanje stakla
-Ugrađen skalpel u dršci 
+Ugrađen skalpel u dršci
 Oslikani tenk na dršci
 Dužina noža s oštricom: 19 cm

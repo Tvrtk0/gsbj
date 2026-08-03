@@ -12,4 +12,4 @@ s LED diodom
 svaki s 2 ubojice žera
 Dimenzije: ca.12cm x 8cm
 Rad s uključenom baterijom CR2032 (lako zamjenjiva)
-  Opseg isporuke: 1 x auto pepeljara sa LED diodom
+ Opseg isporuke: 1 x auto pepeljara sa LED diodom

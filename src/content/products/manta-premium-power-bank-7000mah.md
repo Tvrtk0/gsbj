@@ -1,5 +1,5 @@
 ---
-name: 'MANTA PREMIUM POWER BANK 7000MAH '
+name: 'MANTA PREMIUM POWER BANK 7000MAH'
 price: 19
 image: '/gsbj/images/manta-premium-power-bank-7000mah.jpg'
 category: 'baterijski-ulosci'
@@ -17,25 +17,25 @@ Zahvaljujući dodatnoj bateriji Manta MPB970B ne morate se bojati da će vaš pa
 Zahvaljujući neuobičajeno velikom kapacitetu, ovaj PowerBank će vam omogućiti dugoročno korištenje skoro svih uređaja, a osim toga je vrlo zgodan i lagan za prenošenje.
 
 Ostalo:
-- Kapacitet: 7000 mAh
-- Vrsta baterije: Lithium-ion
-- Izlazno napajanje: 2*5V/2.1A
-- Prijenosni i stilizirani dizajn
-- Pogodno za većinu pametnih telefona / tableta i ostalih uređaja sa napajanjem putem USB-a
-- Istovremeno punjenje 2 USB uređaja
-- Materijal: plastika
-- Boja: crna
-- Dimenzije: 120x82x13 mm
-- Masa: 191g
+• Kapacitet: 7000 mAh
+• Vrsta baterije: Lithium-ion
+• Izlazno napajanje: 2×5V/2.1A
+• Prijenosni i stilizirani dizajn
+• Pogodno za većinu pametnih telefona / tableta i ostalih uređaja sa napajanjem putem USB-a
+• Istovremeno punjenje 2 USB uređaja
+• Materijal: plastika
+• Boja: crna
+• Dimenzije: 120x82x13 mm
+• Masa: 191g
 
 Sadržaj pakiranja:
-- Baterija
-- USB kabel
-- Upute za uporabu
-- Jamstveni list
+• Baterija
+• USB kabel
+• Upute za uporabu
+• Jamstveni list
 
 Specifikacija/
-- Brand: Manta
-- Tip proizvoda: Punjač power bank
-- Izlaz: 2*5V/2,1A
-- Broj uređaja za puniti: 2
+• Brand: Manta
+• Tip proizvoda: Punjač power bank
+• Izlaz: 2×5V/2,1A
+• Broj uređaja za puniti: 2

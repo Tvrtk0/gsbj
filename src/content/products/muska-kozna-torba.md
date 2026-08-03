@@ -17,4 +17,4 @@ Savršeno nadopunjuje vašu poslovnu ili svakodnevnu garderobu
 Sigurni džepovi s patentnim zatvaračem
 Kvalitetna i izdržljiva vanjska strana od kože i unutrašnjost od poliestera
 Dimenzije: 26 × 22 × 8 cm
-Imamo i u manjim dimenzijama isti model   22 x 18 x 6 cm       22,00 eur
+Imamo i u manjim dimenzijama isti model 22 x 18 x 6 cm 22,00 eur

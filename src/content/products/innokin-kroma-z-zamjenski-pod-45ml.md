@@ -10,8 +10,8 @@ Tehničke karakteristike
 Innokin Kroma Z zamjenski Pod
 Kapacitet od 4.5ml
 Press-to-Fit instalacija grijača
-0.3ohm Z Coil - 30-40W
-0.8ohm Z Coil - 15-18W
+0\. 3ohm Z Coil - 30-40W
+0\. 8ohm Z Coil - 15-18W
 Kompatibilno sa cijelom Z-Coil serijom grijača
 Sadržaj pakiranja:
 

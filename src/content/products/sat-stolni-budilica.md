@@ -15,4 +15,4 @@ Pokret: Kvarc (baterija)
 Materijal: plastika
 Značajke: dekoracija radne površine
 Napajanje: 1 x AA baterija (nije uključena)
-Veličina: 22,5 cm x 12,5 cm x 6 cm / 8,86 "x 4,92" x 2,36 "(približno)
+Veličina: 22,5 cm x 12,5 cm x 6 cm / 8,86 "x 4,92" x 2,36 " (približno)

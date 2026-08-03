@@ -11,12 +11,12 @@ Poseban dizajn glave mikrofona ispunjen spužvom savršeno potiskuje neželjenu 
 Komplet ukljucuje kabel duljine 3m. Prekidac na mikrofonu omogucuje vam ukljucivanje mikrofona i iskljucivanje mikrofona u bilo kojem trenutku.
 
 Ostalo:
-- Prikljucak: 6,3 mm
-- Frekvencijski raspon: 80Hz - 15000Hz
-- Osjetljivost: 54dB
-- Vrsta mikrofona: žicani
-- Duljina kabla: 3m
+• Prikljucak: 6,3 mm
+• Frekvencijski raspon: 80Hz - 15000Hz
+• Osjetljivost: 54dB
+• Vrsta mikrofona: žicani
+• Duljina kabla: 3m
 
 Specifikacija/
-- Brand: Manta
-- Tip proizvoda: mikrofon
+• Brand: Manta
+• Tip proizvoda: mikrofon

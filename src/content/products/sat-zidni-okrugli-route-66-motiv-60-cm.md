@@ -5,7 +5,7 @@ image: '/gsbj/images/sat-zidni-okrugli-route-66-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'
 archive: false
 ---
-Volite putovati? Čuli ste za "Route 66"? 
+Volite putovati? Čuli ste za "Route 66"?
 
 “Route 66” je značajan kao prva autocesta u zemlji koja povezuje Chicago i Los Angeles. Poznata je svima zaljubljenicima limenih ljubimca.
 

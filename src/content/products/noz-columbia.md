@@ -8,7 +8,7 @@ archive: true
 Opis
 Dužina noža s oštricom: 22 cm
 Težina noža: 101g
-Ovo je model posebnog dizajna. 
+Ovo je model posebnog dizajna.
 Drška ima figuru ženske cipele te ima klipsu za pričvršćivanje na remen.
 Na peti cipele pričvršćen je ukrasni lančić.
 
