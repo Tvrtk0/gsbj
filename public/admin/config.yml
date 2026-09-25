@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: owner/gsbj
+  repo: Tvrtk0/gsbj
   branch: main
+  base_url: https://sveltia-cms-auth.tvrtk0.workers.dev
 
 media_folder: 'public/images'
 public_folder: '/gsbj/images'
@@ -16,6 +17,7 @@ collections:
     fields:
       - { label: 'Naziv', name: 'name', widget: 'string', required: true }
       - { label: 'Cijena (EUR)', name: 'price', widget: 'number', value_type: 'float', required: true }
+      - { label: 'Cijena do (EUR)', name: 'priceMax', widget: 'number', value_type: 'float', required: false, hint: 'Samo za asortiman s rasponom cijena; tada je Cijena donja granica' }
       - { label: 'Slika', name: 'image', widget: 'image', required: true }
       - label: 'Kategorija'
         name: 'category'
