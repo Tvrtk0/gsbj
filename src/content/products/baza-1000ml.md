@@ -1,9 +1,10 @@
 ---
-name: 'Baza 1000ml'
+name: Glicerol - Propilen Glikol 1200g 50/50
 price: 20
-image: '/gsbj/images/baza.jpg'
-category: 'elektronske-cigarete-i-tekucine'
+priceMax: null
+image: /gsbj/images/GLICEROL 120G.jpg3.JPG
+category: elektronske-cigarete-i-tekucine
 archive: false
 ---
-Baza za el. cig.
-Pakiranje: 1000 ml.
+
+Nije namijenjeno korištenju u e-cigareti. Kozmetički pripravak za širu namjenu obično znači višenamjenski proizvod koji se može koristiti u različite svrhe.
