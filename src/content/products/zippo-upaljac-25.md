@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 37.03
-image: '/gsbj/images/zippo-upaljac-25.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 39
+priceMax: null
+image: /gsbj/images/zippo-upaljac-25.jpg
+category: zippo-upaljaci
 archive: false
 ---
+
 American Stamp on Flag
 Upaljačem od visoko poliranog kroma dominira američka zastava sa amblemom.
 
