@@ -1,10 +1,12 @@
 ---
-name: 'Zippo torbica'
-price: 19.91
-image: '/gsbj/images/zippo-torbica.jpg'
-category: 'zippo-upaljaci'
+name: Zippo torbica
+price: 19.9
+priceMax: null
+image: /gsbj/images/zippo-torbica.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Zippo crna torbica za upaljač s metalnom kopčom je izrađena od prave kože i moderno je dizajnirana. Metalna kopča kod ove torbice omogućava postavljanje na sve remene i džepove tei sigurno držanje Zippo vjetrootpornog upaljača. Dolazi pakirana u u crnu Zippo kutiju.
 
 Torbica od prave kože
