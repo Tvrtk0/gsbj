@@ -1,11 +1,13 @@
 ---
-name: 'FM transmiter MP3 HY82 Bluetooth'
-price: 21.1
-image: '/gsbj/images/fm-transmiter-mp3-hy82-bluetooth.jpg'
-category: 'tranzistori-fm-i-transmiteri'
+name: FM transmiter MP3  Bluetooth
+price: 12
+priceMax: null
+image: /gsbj/images/fm-transmiter-mp3-hy82-bluetooth.jpg
+category: tranzistori-fm-i-transmiteri
 archive: true
 ---
-FM TRANSMITER MP3 HY82 Bluetooth
+
+FM TRANSMITER MP3 Bluetooth Razni modeli u ponudi
 Značajke:
 Podržava Bluetooth hands-free telefonske pozive putem ugrađenog mikrofona.
 Podržava A2DP funkciju. Glazba će se reproducirati izravno dok je mobilni telefon povezan.
