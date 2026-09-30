@@ -1,10 +1,12 @@
 ---
-name: 'Sat štoperica džepna'
-price: 10.49
-image: '/gsbj/images/sat-stoperica-dzepna-2.jpg'
-category: 'satovi-i-nakit'
+name: Sat štoperica džepna
+price: 9
+priceMax: null
+image: /gsbj/images/sat-stoperica-dzepna-2.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 Mala i lagana: džepna štoperica male je veličine i male težine, što je zgodno za nošenje.
 Jednostavno održavanje: Džepna štoperica se lako čisti, samo je obrišite vlažnom krpom i osušite.
 Veliki ekran. Veliki zaslon, mjerenje vremena je jasno i točno na prvi pogled.
