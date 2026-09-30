@@ -1,9 +1,10 @@
 ---
-name: 'Baza 100ml'
+name: Glicerol - Propilen Glikol 120g 50/50
 price: 4.5
-image: '/gsbj/images/baza.jpg'
-category: 'elektronske-cigarete-i-tekucine'
+priceMax: null
+image: /gsbj/images/GLICEROL 120G.jpg1.JPG
+category: elektronske-cigarete-i-tekucine
 archive: false
 ---
-Baza za el. cig.
-Pakiranje: 100 ml.
+
+Nije namijenjeno korištenju u e-cigareti. Kozmetički pripravak za širu namjenu obično znači višenamjenski proizvod koji se može koristiti u različite svrhe.
