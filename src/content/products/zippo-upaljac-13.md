@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 56.41
-image: '/gsbj/images/zippo-upaljac-13.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 90
+priceMax: null
+image: /gsbj/images/zippo-upaljac-13.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Ovaj visoko polirani kromirani upaljač ima na sebi amblem Jack Daniel’s®.
 Model: 250JD.427
 Zippo upaljač dolazi zapakiran u poklon kutiju.
