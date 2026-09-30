@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 46.32
-image: '/gsbj/images/zippo-upaljac-8.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 46
+priceMax: null
+image: /gsbj/images/zippo-upaljac-8.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Fotografija mirne scene šume prikazana je na licu ovog upaljača Black Ice®. Dolazi zapakiran u poklon kutiju.
 Model: 49059
 Za optimalne performanse koristite originalni Zippo benzin za upaljače.
