@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 46.32
-image: '/gsbj/images/zippo-upaljac-10.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 46
+priceMax: null
+image: /gsbj/images/zippo-upaljac-10.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Ovaj upaljač iz visoko poliranog kroma ukrašen je na prednjoj i stražnjoj strani. Mogu se dodati inicijali kako bi ovaj klasični dizajn dobio osobnu notu. Prugasti dizajn je na prednjoj i stražnjoj strani.
 Model: 350
 Zippo upaljač dolazi zapakiran u poklon kutiju.
