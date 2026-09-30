@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 46.32
-image: '/gsbj/images/zippo-upaljac-11.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 46
+priceMax: null
+image: /gsbj/images/zippo-upaljac-11.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Clover High Polish Chrome Design
 Model: 24699
 Ovaj upaljač od visoko poliranog kroma krasi prekrasan graavirani dizajn i slika djeteline s četiri lista.
