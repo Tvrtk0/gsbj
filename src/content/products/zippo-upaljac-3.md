@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 42.34
-image: '/gsbj/images/zippo-upaljac-3.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 46
+priceMax: null
+image: /gsbj/images/zippo-upaljac-3.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 High Polish. Rose Gold.
 Model: 49190
 Zippo upaljač dolazi zapakiran u poklon kutiju.
