@@ -1,10 +1,12 @@
 ---
-name: 'Swissten vodootporni držač za mobitel, size XL'
-price: 26.41
-image: '/gsbj/images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg'
-category: 'novcanici-i-torbe'
+name: Swissten vodootporni držač za mobitel, size XL
+price: 18
+priceMax: null
+image: /gsbj/images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg
+category: novcanici-i-torbe
 archive: false
 ---
+
 Vodootporno kucište za pametni telefon kojeg možete koristiti na biciklu, motoru ili romobilu. Opremljen za sa zaštitnim poklopce i utorima za ukljucivanje slušalica.
 
 Sigurno prijanjanje:
