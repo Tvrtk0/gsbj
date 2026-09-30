@@ -1,5 +1,5 @@
 ---
-name: Swissten vodootporni držač za mobitel, size XL
+name: Vodootporni držač za mobitel
 price: 18
 priceMax: null
 image: /gsbj/images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg
@@ -7,19 +7,19 @@ category: novcanici-i-torbe
 archive: false
 ---
 
-Vodootporno kucište za pametni telefon kojeg možete koristiti na biciklu, motoru ili romobilu. Opremljen za sa zaštitnim poklopce i utorima za ukljucivanje slušalica.
+Vodootporno kućište za pametni telefon kojeg možete koristiti na biciklu, motoru ili romobilu. Opremljen za sa zaštitnim poklopce i utorima za uključivanje slušalica.
 
 Sigurno prijanjanje:
-Kucište je pricvršceno na cijev vašeg bicikla s dva cicak pricvršcivaca, a treci cicak pricvršcen je na nosac upravljaca. To osigurava cvrsto i sigurno prianjanje kucišta.
+Kućište je pričvršćeno na cijev vašeg bicikla sa mobilnim nosačem. To osigurava čvrsto i sigurno prianjanje kućišta.
 
 Prostor za odlaganje:
 Torba ima dovoljno prostora za osobne stvari, kao i za alate, rezervnu cijev ili bateriju.
 
 Izdržljiv dizajn:
-Kucište je izradeno od cvrstog materijala tako da su i pametni telefon i ostale stvari unutar kucišta maksimalno zašticene od mogucih oštecenja.
+Kućište je izrađeno od čvrstog materijala tako da su i pametni telefon i ostale stvari unutar kućišta maksimalno zaštićene od mogućih oštećenja.
 
 Pogled na pametni telefon:
-Uz pomoc cicaka, pametni telefon je pricvršcen unutar kucišta ispod prozirne folije. Kroz njega se lijepo vidi zaslon pametnog telefona, pa je kucište prikladno, na primjer, kada koristite navigaciju. Naravno, pametnim telefonom se može upravljati preko dodirnog zaslona.
+Uz pomoć čička, pametni telefon je pričvršćen unutar kućišta ispod prozirne folije. Kroz njega se lijepo vidi zaslon pametnog telefona, pa je kućište prikladno, na primjer, kada koristite navigaciju. Naravno, pametnim telefonom se može upravljati preko dodirnog zaslona.
 
 Ostalo:
 • Montaža na bicikl / motor / romobil
@@ -27,10 +27,10 @@ Ostalo:
 • Boja: Crna
 
 Sadržaj pakiranje:
-• držac za mobitel
+• držač za mobitel
 • upute za uporabu
 • jamstveni list
 
 Specifikacija/
-• Brand: Swissten
-• Tip proizvoda: držac za pametni telefon
+• Brand: 
+• Tip proizvoda: držač za pametni telefon
