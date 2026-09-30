@@ -8,7 +8,11 @@ const products = defineCollection({
     price: z.number(),
     // Set for assortments sold at varying prices (e.g. privjesci 1–4 €).
     // `price` is then the low end; see src/lib/price.ts for rendering.
-    priceMax: z.number().optional(),
+    // The CMS writes `priceMax: null` when the field is left empty.
+    priceMax: z
+      .number()
+      .nullish()
+      .transform((v) => v ?? undefined),
     image: z.string(),
     category: z.string(),
     archive: z.boolean().default(false),

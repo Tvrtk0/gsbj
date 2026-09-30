@@ -4,6 +4,11 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.tvrtk0.workers.dev
 
+# Transliterate č/ć/š/ž/đ so new entries get plain ASCII file names and URLs
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+
 media_folder: 'public/images'
 public_folder: '/gsbj/images'
 
