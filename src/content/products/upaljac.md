@@ -1,8 +1,10 @@
 ---
-name: 'Upaljač'
-price: 0.27
-image: '/gsbj/images/upaljac.jpg'
-category: 'upaljaci'
+name: Upaljač
+price: 0.3
+priceMax: null
+image: /gsbj/images/upaljac.jpg
+category: upaljaci
 archive: false
 ---
-Jednokratni upaljači
+
+Jednokratni upaljači na kremen
