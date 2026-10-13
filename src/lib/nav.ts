@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL;
 export const navLinks = [
   { href: base, label: 'Početna', icon: 'home' },
   { href: `${base}products`, label: 'Proizvodi', icon: 'grid' },
-  { href: `${base}contact`, label: 'Kontakt', icon: 'phone' },
+  { href: `${base}contact`, label: 'Kontakt', icon: 'pin' },
 ] as const;
 
 /**
