@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 52.96
-image: '/gsbj/images/zippo-upaljac-5.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 53
+priceMax: null
+image: /gsbj/images/zippo-upaljac-5.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Ovaj Black Ice vjetrootporni upaljač koristi lasersku i metodu autograviranja čime se postiže prekrasan filigramski dizajn upaljača u obliku karte „pik as“.
 Model: 28323
 Zippo upaljač dolazi zapakiran u poklon kutiju.
