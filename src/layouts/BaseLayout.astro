@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
-import MobileNav from '../components/MobileNav.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import BottomNav from '../components/BottomNav.astro';
 import AgeGate from '../components/AgeGate.astro';
 import SEO from '../components/SEO.astro';
 import SocialLinks from '../components/SocialLinks.astro';
@@ -30,13 +31,13 @@ const footerLinks = [
 <html lang="hr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <link rel="icon" type="image/x-icon" href={`${base}favicon.ico`} />
     <SEO title={title} description={description} image={image} type={type} jsonLd={jsonLd} />
   </head>
   <body class="min-h-screen flex flex-col bg-background text-foreground">
     <header class="sticky top-0 z-50 bg-card/95 backdrop-blur border-b border-border">
-      <MobileNav />
+      <SiteHeader />
     </header>
 
     <AgeGate />
@@ -45,7 +46,8 @@ const footerLinks = [
       <slot />
     </main>
 
-    <footer class="bg-ink text-ink-foreground px-4 md:px-8 pt-14 pb-8">
+    {/* Extra bottom padding on phones so the fixed BottomNav doesn't cover the last line */}
+    <footer class="bg-ink text-ink-foreground px-4 md:px-8 pt-14 pb-[calc(6rem+env(safe-area-inset-bottom))] md:pb-8">
       <div class="max-w-6xl mx-auto">
         <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
           <div class="lg:col-span-1">
@@ -91,5 +93,7 @@ const footerLinks = [
         </p>
       </div>
     </footer>
+
+    <BottomNav />
   </body>
 </html>
