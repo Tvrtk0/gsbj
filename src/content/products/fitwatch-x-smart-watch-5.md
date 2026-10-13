@@ -1,10 +1,12 @@
 ---
-name: 'Fitwatch X smart watch'
+name: Fitwatch X smart watch
 price: 59
-image: '/gsbj/images/fitwatch-x-smart-watch-5.jpg'
-category: 'satovi-i-nakit'
+priceMax: 85
+image: /gsbj/images/fitwatch-x-smart-watch-5.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 Legura / Tehnologija Pametnog Sata Na Dodir / Zaobljeno Pravokutno Kućište / IP67 Vodootporan
 Sat po kvaliteti poznatih brendova a po cijeni najpovoljniji u ovim krajevima.
 
