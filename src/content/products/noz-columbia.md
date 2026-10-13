@@ -1,10 +1,12 @@
 ---
-name: 'Nož Columbia'
-price: 15.79
-image: '/gsbj/images/noz-columbia.jpg'
-category: 'nozevi'
+name: Nož Columbia
+price: 16
+priceMax: 20
+image: /gsbj/images/noz-columbia.jpg
+category: nozevi
 archive: true
 ---
+
 Opis
 Dužina noža s oštricom: 22 cm
 Težina noža: 101g
