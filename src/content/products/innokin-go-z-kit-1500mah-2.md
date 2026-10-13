@@ -1,7 +1,7 @@
 ---
 name: Innokin – GO Z kit – 1500mAh
-price: 29
-priceMax: null
+price: 26
+priceMax: 29
 image: /gsbj/images/innokin-go-z-kit-1500mah-2.jpg
 category: elektronske-cigarete-i-tekucine
 archive: true
