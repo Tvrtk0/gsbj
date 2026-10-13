@@ -1,10 +1,12 @@
 ---
-name: 'Swissten držač za mobitel, metalni, magnet, za ventilaciju S'
-price: 11.81
-image: '/gsbj/images/swissten-drzac-za-mobitel-metalni-magnet-za-ventilaciju-s.jpg'
-category: 'ostalo'
+name: Swissten držač za mobitel, metalni, magnet, za ventilaciju S
+price: 11.9
+priceMax: null
+image: /gsbj/images/swissten-drzac-za-mobitel-metalni-magnet-za-ventilaciju-s.jpg
+category: ostalo
 archive: false
 ---
+
 Metalni magnetni držač u elegantnom dizajnu.
 Opremljen je s četiri magneta za bolju sigurnost telefona.
 Gumirana površina štiti telefon od ogrebotina i sprječava klizanje telefona.
