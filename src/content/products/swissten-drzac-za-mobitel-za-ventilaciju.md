@@ -1,10 +1,12 @@
 ---
-name: 'Swissten držač za mobitel, za ventilaciju'
-price: 13.14
-image: '/gsbj/images/swissten-drzac-za-mobitel-za-ventilaciju.jpg'
-category: 'ostalo'
+name: Swissten držač za mobitel, za ventilaciju
+price: 13
+priceMax: null
+image: /gsbj/images/swissten-drzac-za-mobitel-za-ventilaciju.jpg
+category: ostalo
 archive: false
 ---
+
 WISSTEN S-GRIP GRAVITY G1-AV3 držač za mobitel koji se postavlja na ventilaciju odlikuje se odličnim omjerom cijene i kvalitete.
 Ovaj držač zahvaljujući specijalno dizajniranoj hvataljki čvrsto drži mobitel na željenoj poziciji.
 Rotirajući sklop omogućuje postavljanje uređaja pod bilo kojim kutom.
