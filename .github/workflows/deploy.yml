@@ -24,6 +24,13 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # Resized WebP copies of the product photos (integrations/optimize-images.mjs); only new
+      # or changed photos are processed when this is restored
+      - uses: actions/cache@v4
+        with:
+          path: node_modules/.cache/gsbj-images
+          key: images-${{ hashFiles('public/images/**') }}
+          restore-keys: images-
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

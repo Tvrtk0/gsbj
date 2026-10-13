@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ProductCard from '../components/ProductCard.astro';
 import { getCollection } from 'astro:content';
+import { responsiveImage, SIZES } from '../lib/images';
 
 const byNewest = <T extends { data: { date: Date } }>(a: T, b: T) =>
   b.data.date.getTime() - a.data.date.getTime();
@@ -84,7 +85,8 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
             ]}
           >
             <img
-              src={p.data.image}
+              {...responsiveImage(p.data.image)}
+              sizes={SIZES.hero}
               alt={p.data.name}
               class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-105"
               loading={i < 2 ? 'eager' : 'lazy'}

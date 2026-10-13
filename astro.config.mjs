@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import optimizeImages from './integrations/optimize-images.mjs';
 import { createReadStream, existsSync, statSync } from 'node:fs';
 import { extname, join, normalize } from 'node:path';
 
@@ -36,7 +37,7 @@ export default defineConfig({
   site: 'https://tvrtk0.github.io',
   base,
   output: 'static',
-  integrations: [sitemap()],
+  integrations: [sitemap(), optimizeImages()],
   vite: {
     plugins: [tailwindcss(), pagefindInDev()],
   },
