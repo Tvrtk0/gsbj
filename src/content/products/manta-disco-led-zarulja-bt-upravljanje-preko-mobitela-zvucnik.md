@@ -1,10 +1,12 @@
 ---
-name: 'Manta disco LED žarulja sa zvučnikom'
-price: 19.78
-image: '/gsbj/images/manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik.jpg'
-category: 'slusalice-i-zvucnici'
+name: Manta disco LED žarulja sa zvučnikom
+price: 15.8
+priceMax: null
+image: /gsbj/images/manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 Ovaj proizvod ima jedinstveni ekskluzivni 2 u 1 dizajn. Pametnu LED lampu sa Bluetooth zvučnikom.
 Kao LED lampa uređaj je podesivog osvjetljenja koje se može postaviti i na plafon te koristiti kao noćna lampa sa podešavanjem jakosti osvjetljenja putem mobilnog telefona.
 E27/822 priključak pruža laganu montažu na standardna grla žarulja.
