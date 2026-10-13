@@ -1,10 +1,12 @@
 ---
-name: 'Jednokratna električna cigareta'
-price: 6.5
-image: '/gsbj/images/jednokratna-elektricna-cigareta.jpg'
-category: 'elektronske-cigarete-i-tekucine'
+name: Jednokratna električna cigareta
+price: 7
+priceMax: null
+image: /gsbj/images/jednokratna-elektricna-cigareta.jpg
+category: elektronske-cigarete-i-tekucine
 archive: false
 ---
+
 Proizvođač: Micro Pod
 Okus: razni
 Baterija: 500mAh
