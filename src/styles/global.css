@@ -67,7 +67,7 @@
 
 /* Pagefind search, themed to match the site. Pagefind sets its defaults on .pagefind-ui itself */
 #search .pagefind-ui {
-  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-scale: 0.7;
   --pagefind-ui-primary: var(--color-primary);
   --pagefind-ui-text: var(--color-foreground);
   --pagefind-ui-background: var(--color-card);
@@ -81,6 +81,11 @@
 }
 #search .pagefind-ui__search-input {
   font-weight: 400;
+  /* 16px stops iOS zooming the page when the field is focused */
+  font-size: 16px;
+}
+#search .pagefind-ui__search-input::placeholder {
+  opacity: 0.55;
 }
 #search .pagefind-ui__search-input:focus {
   outline: 2px solid var(--color-primary);
@@ -102,4 +107,16 @@
   color: inherit;
   border-radius: 0.2em;
   padding: 0 0.1em;
+}
+/* The smaller scale is for the input; keep result text readable */
+#search .pagefind-ui__result-title {
+  font-size: 16px;
+}
+#search .pagefind-ui__result-excerpt {
+  font-size: 14px;
+  color: var(--color-muted-foreground);
+}
+#search .pagefind-ui__message {
+  font-size: 14px;
+  font-weight: 500;
 }
