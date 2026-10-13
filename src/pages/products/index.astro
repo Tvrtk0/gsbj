@@ -25,32 +25,41 @@ const base = import.meta.env.BASE_URL;
     <div class="max-w-6xl mx-auto">
       <h1 class="text-4xl md:text-5xl mb-6">Proizvodi</h1>
 
-      <div id="search" class="mb-6 max-w-xl"></div>
-      <link href={`${base}pagefind/pagefind-ui.css`} rel="stylesheet" />
-      <style is:global>
-        #search .pagefind-ui__result-thumb {
-          cursor: pointer;
-        }
-      </style>
-      <script is:inline src={`${base}pagefind/pagefind-ui.js`}></script>
-      <script is:inline define:vars={{ base }}>
-        window.addEventListener('DOMContentLoaded', () => {
-          new PagefindUI({ element: '#search', showSubResults: false, basePath: base + 'pagefind/' });
-
-          // Make result thumbnails link to the product, like the title does.
-          // Results render dynamically as you type, so delegate from the container.
-          document.getElementById('search').addEventListener('click', (e) => {
-            const thumb = e.target.closest('.pagefind-ui__result-thumb');
-            if (!thumb) return;
-            const result = thumb.closest('.pagefind-ui__result');
-            const link = result && result.querySelector('.pagefind-ui__result-link');
-            if (link && link.href) window.location.href = link.href;
-          });
-        });
-      </script>
+      {/* Search over the Pagefind index; results show as the cards below (src/scripts/catalog.ts) */}
+      <form role="search" class="relative max-w-xl mb-6" onsubmit="return false">
+        <svg class="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z"/></svg>
+        <input
+          id="search-input"
+          type="search"
+          name="q"
+          placeholder="Traži proizvode"
+          autocomplete="off"
+          enterkeyhint="search"
+          aria-label="Traži proizvode"
+          class="w-full h-12 pl-11 pr-11 rounded-xl bg-card text-base text-foreground placeholder:text-muted-foreground/70 ring-1 ring-border focus:ring-2 focus:ring-primary outline-none transition-shadow"
+        />
+        <button
+          id="search-clear"
+          type="button"
+          hidden
+          aria-label="Očisti pretragu"
+          class="absolute right-2 top-1/2 -translate-y-1/2 p-2 rounded-lg text-muted-foreground hover:text-foreground"
+        >
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </form>
+      <p id="search-status" hidden class="mb-6 text-sm font-medium text-muted-foreground" aria-live="polite"></p>
 
       <CategoryFilter categories={categoryList} />
       <ProductGrid products={allProducts} />
+
+      <div id="search-empty" hidden class="text-center py-16">
+        <p class="text-lg font-medium">Nema rezultata za „<span data-term></span>“</p>
+        <p class="mt-1 text-muted-foreground">Provjerite pravopis ili pokušajte s kraćim pojmom.</p>
+        <button type="button" class="mt-5 inline-flex px-5 py-2.5 rounded-xl bg-card ring-1 ring-border font-medium hover:ring-primary hover:text-primary transition-colors">
+          Očisti pretragu
+        </button>
+      </div>
 
       {allProducts.length === 0 && (
         <p class="text-center text-muted-foreground py-12">Nema proizvoda za prikaz.</p>
@@ -58,3 +67,7 @@ const base = import.meta.env.BASE_URL;
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  import '../../scripts/catalog';
+</script>

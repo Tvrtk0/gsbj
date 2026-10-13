@@ -13,7 +13,7 @@ const { categories } = Astro.props;
 const total = categories.reduce((sum, c) => sum + c.count, 0);
 ---
 
-{/* One swipeable row on phones (full-bleed so it scrolls to the screen edge), wrapping rows from md up */}
+{/* Behaviour lives in src/scripts/catalog.ts. One swipeable row on phones (full-bleed so it scrolls to the screen edge), wrapping rows from md up */}
 <div
   class="no-scrollbar -mx-4 px-4 md:mx-0 md:px-0 flex gap-2 overflow-x-auto md:flex-wrap md:overflow-visible mb-8"
   id="category-filter"
@@ -33,36 +33,3 @@ const total = categories.reduce((sum, c) => sum + c.count, 0);
     </button>
   ))}
 </div>
-
-<script>
-  const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-  const cards = document.querySelectorAll<HTMLElement>('#product-grid > a');
-
-  function activateCategory(category: string) {
-    buttons.forEach((b) => {
-      const isActive = b.dataset.category === category;
-      b.classList.toggle('active', isActive);
-      b.classList.toggle('bg-primary', isActive);
-      b.classList.toggle('text-primary-foreground', isActive);
-      b.classList.toggle('border-primary', isActive);
-      b.classList.toggle('bg-card', !isActive);
-      b.classList.toggle('text-card-foreground', !isActive);
-      b.classList.toggle('border-border', !isActive);
-      // On phones the row scrolls; bring the chosen one into view
-      if (isActive) b.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
-    });
-
-    cards.forEach((card) => {
-      const show = category === 'all' || card.dataset.category === category;
-      card.classList.toggle('hidden', !show);
-    });
-  }
-
-  buttons.forEach((btn) => {
-    btn.addEventListener('click', () => activateCategory(btn.dataset.category!));
-  });
-
-  // Apply filter from URL ?category= param
-  const param = new URLSearchParams(window.location.search).get('category');
-  if (param) activateCategory(param);
-</script>

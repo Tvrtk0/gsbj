@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+{/* GitHub Pages serves dist/404.html for any missing path, e.g. an old link to a removed product */}
+<BaseLayout title="Stranica nije pronađena" description="Ova stranica ne postoji ili je uklonjena.">
+  <section class="px-4 md:px-8 py-20 md:py-28">
+    <div class="max-w-xl mx-auto text-center">
+      <p class="font-display text-7xl md:text-8xl font-semibold text-primary">404</p>
+      <h1 class="mt-4 text-3xl md:text-4xl">Ova stranica ne postoji</h1>
+      <p class="mt-4 text-muted-foreground leading-relaxed">
+        Možda je proizvod uklonjen iz ponude ili je link pogrešan. Potražite ga među proizvodima:
+      </p>
+
+      {/* Lands on the listing with ?q=, which runs the search there */}
+      <form action={`${base}products`} method="get" role="search" class="relative mt-8 text-left">
+        <svg class="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z"/></svg>
+        <input
+          type="search"
+          name="q"
+          placeholder="Traži proizvode"
+          enterkeyhint="search"
+          aria-label="Traži proizvode"
+          class="w-full h-12 pl-11 pr-28 rounded-xl bg-card text-base placeholder:text-muted-foreground/70 ring-1 ring-border focus:ring-2 focus:ring-primary outline-none"
+        />
+        <button type="submit" class="absolute right-1.5 top-1/2 -translate-y-1/2 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary-hover transition-colors">
+          Traži
+        </button>
+      </form>
+
+      <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
+        <a href={`${base}products`} class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover transition-colors">
+          Svi proizvodi
+        </a>
+        <a href={base} class="inline-flex items-center justify-center px-6 py-3 bg-card ring-1 ring-border font-medium rounded-xl hover:ring-primary hover:text-primary transition-colors">
+          Početna
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

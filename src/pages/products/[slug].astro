@@ -22,9 +22,14 @@ const allProducts = await getCollection('products', ({ data: d }) => !d.archive)
 const categories = await getCollection('categories');
 const category = categories.find((c) => c.data.slug === data.category);
 
-// 3 random suggestions, excluding current product
+// 4 suggestions: same category first (that's what someone looking at this wants), topped up
+// from the rest when the category is small. Shuffled per build.
+const shuffle = <T,>(xs: T[]) => xs.sort(() => Math.random() - 0.5);
 const others = allProducts.filter((p) => p.id !== product.id);
-const suggestions = others.sort(() => Math.random() - 0.5).slice(0, 3);
+const suggestions = [
+  ...shuffle(others.filter((p) => p.data.category === data.category)),
+  ...shuffle(others.filter((p) => p.data.category !== data.category)),
+].slice(0, 4);
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -58,13 +63,13 @@ const jsonLd = {
   jsonLd={jsonLd}
 >
   <section class="py-10 px-4 md:px-8" data-pagefind-body>
-    <div class="max-w-4xl mx-auto">
-      <a href={`${base}products`} class="text-sm text-muted-foreground hover:text-primary transition-colors mb-4 inline-block" data-pagefind-ignore>
+    <div class="max-w-5xl mx-auto">
+      <a id="back-link" href={`${base}products`} class="text-sm text-muted-foreground hover:text-primary transition-colors mb-4 inline-block" data-pagefind-ignore>
         &larr; Natrag na proizvode
       </a>
 
-      <div class="grid md:grid-cols-2 gap-8 mt-4">
-        <div class="aspect-square overflow-hidden rounded-2xl ring-1 ring-border/60 bg-card p-6 md:p-8">
+      <div class="grid md:grid-cols-2 gap-8 lg:gap-14 mt-4">
+        <div class="aspect-square overflow-hidden rounded-2xl ring-1 ring-border/60 bg-card p-6 md:p-8 md:sticky md:top-24 self-start">
           <img
             src={data.image}
             alt={data.name}
@@ -84,13 +89,13 @@ const jsonLd = {
             </a>
           )}
 
-          <h1 class="text-3xl md:text-4xl leading-tight mt-3">{data.name}</h1>
+          <h1 class="text-[1.75rem] md:text-3xl lg:text-[2.25rem] leading-tight mt-3">{data.name}</h1>
 
           <p class="text-2xl font-semibold text-primary mt-4">
             {formatPrice(data.price, data.priceMax)}
           </p>
 
-          <div class="mt-6 text-muted-foreground whitespace-pre-line">
+          <div class="mt-6 text-[15px] md:text-base leading-7 text-foreground/80 whitespace-pre-line">
             <Content />
           </div>
         </div>
@@ -99,9 +104,9 @@ const jsonLd = {
   </section>
 
   <section class="py-10 px-4 md:px-8 border-t border-border" data-pagefind-ignore>
-    <div class="max-w-4xl mx-auto">
+    <div class="max-w-5xl mx-auto">
       <h2 class="text-2xl md:text-3xl mb-6">Možda vas zanima</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
         {suggestions.map((p) => (
           <ProductCard
             name={p.data.name}
@@ -116,3 +121,16 @@ const jsonLd = {
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  // Arrived from the listing? Go back in history instead, so its filter, search and scroll
+  // position come back too. Otherwise (direct link, search engine) the plain link is right.
+  const back = document.getElementById('back-link') as HTMLAnchorElement;
+  back.addEventListener('click', (e) => {
+    const from = document.referrer && new URL(document.referrer);
+    if (from && from.origin === location.origin && from.pathname.replace(/\/$/, '') === back.pathname.replace(/\/$/, '')) {
+      e.preventDefault();
+      history.back();
+    }
+  });
+</script>
