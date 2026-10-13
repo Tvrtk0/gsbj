@@ -1,10 +1,12 @@
 ---
-name: 'Q&Q ženski sat'
+name: Q&Q ženski sat
 price: 33
-image: '/gsbj/images/qq-zenski-sat.jpg'
-category: 'satovi-i-nakit'
+priceMax: 39
+image: /gsbj/images/qq-zenski-sat.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 Imamo u ponudi više boja remena
 Kućište: Osnovni metal
 Veličina kućišta: 39 (mm)
