@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač Eagle flag'
-price: 37.03
-image: '/gsbj/images/zippo-upaljac-eagle-flag.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač Eagle flag
+price: 39
+priceMax: null
+image: /gsbj/images/zippo-upaljac-eagle-flag.jpg
+category: zippo-upaljaci
 archive: false
 ---
+
 Ovaj Street Chrome™ upaljač je u boji s domoljubnim dizajnom. Dolazi zapakirano u poklon kutiji. Za optimalne performanse napunite Zippo tekućinom za upaljač.
 
 Originalni Zippo upaljač otporan na vjetar s prepoznatljivim Zippo "klik"
