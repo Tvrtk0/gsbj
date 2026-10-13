@@ -1,10 +1,12 @@
 ---
-name: 'Sat stolni budilica'
-price: 6.64
-image: '/gsbj/images/sat-stolni-budilica.jpg'
-category: 'satovi-i-nakit'
+name: Sat stolni budilica
+price: 7
+priceMax: 10
+image: /gsbj/images/sat-stolni-budilica.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 Sat budilica model motocikla
 Tehnički podaci:
 Dva podesiva gumba na stražnjoj strani za podešavanje vremena / alarma.
