@@ -1,7 +1,7 @@
 ---
 name: Naušnice od nehrđajućeg čelika
-price: 5.3
-priceMax: null
+price: 3.3
+priceMax: 5.3
 image: /gsbj/images/nausnice-od-nehrdajuceg-celika.jpg
 category: satovi-i-nakit
 archive: false
