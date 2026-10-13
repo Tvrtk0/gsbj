@@ -1,10 +1,12 @@
 ---
-name: 'Champ drobilica'
-price: 22.43
-image: '/gsbj/images/champ-drobilica.jpg'
-category: 'ostalo'
+name: Champ drobilica
+price: 22
+priceMax: null
+image: /gsbj/images/champ-drobilica.jpg
+category: ostalo
 archive: false
 ---
+
 C.HIGH BLING BLING LEAF DROBILICA 50MM
 ČETVERODIJELNA U POKLON KUTIJI
 
