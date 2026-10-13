@@ -2,7 +2,7 @@
 name: Glicerol - Propilen Glikol 120g 50/50
 price: 4.5
 priceMax: null
-image: /gsbj/images/GLICEROL 120G.jpg1.JPG
+image: /gsbj/images/glicerol-propilen-glikol-120g.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
 ---
