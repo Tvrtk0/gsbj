@@ -1,10 +1,12 @@
 ---
-name: 'Gecco sunčane naočale polarized'
+name: Gecco sunčane naočale polarized
 price: 12
-image: '/gsbj/images/gecco-suncane-naocale-polarized.jpg'
-category: 'suncane-naocale'
+priceMax: 13
+image: /gsbj/images/gecco-suncane-naocale-polarized.jpg
+category: suncane-naocale
 archive: false
 ---
+
 U ponudi imamo više od 100 modela
 Polarized
 Polarizacijski filter je poseban sloj koji umanjuje bliještanje refleksnih vodoravnih površina poput vode, snijega ili stakla. Polarizirane sunčane naočale blokiraju UV svjetlo i vodoravno zračenje, dopuštajući samo okomitom svjetlu da prodre u oko. Kod polariziranih leća boje su realnije i jasnije, slika nije tako svijetla. Oko može prepoznati veće detalje i na taj se način smanjuje zamor očiju. Sunčane naočale s polariziranim staklima posebno su pogodne za vozače, sportaše, a pogotovo za ribolovce.
