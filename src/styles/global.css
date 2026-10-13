@@ -6,24 +6,24 @@
   --font-sans: 'Inter Variable', system-ui, -apple-system, sans-serif;
   --font-display: 'Fraunces Variable', Georgia, serif;
 
-  /* Terracotta; every pair below is at least 4.5:1 for text */
-  --color-primary: #a8472c;
-  --color-primary-hover: #8e3a23;
+  /* Rosewood: a red-brown with no yellow in it. Every text pair here is at least 4.5:1 */
+  --color-primary: #a0443f;
+  --color-primary-hover: #863833;
   --color-primary-foreground: #ffffff;
-  --color-tint: #f3e3dc;
-  --color-secondary: #6e625b;
+  --color-tint: #efe2e2;
+  --color-secondary: #6b6260;
   --color-secondary-foreground: #ffffff;
-  --color-background: #faf6f0;
-  --color-foreground: #2a211d;
-  --color-muted: #efe8e0;
-  --color-muted-foreground: #6e625b;
-  --color-accent: #e9c2b2;
-  --color-border: #e7ddd3;
+  --color-background: #faf8f8;
+  --color-foreground: #2a2223;
+  --color-muted: #f0eeee;
+  --color-muted-foreground: #6b6260;
+  --color-accent: #e4cbca;
+  --color-border: #e4e2e2;
   --color-card: #ffffff;
-  --color-card-foreground: #2a211d;
-  --color-ink: #2a211d;
-  --color-ink-foreground: #e9ded4;
-  --color-ink-muted: #b9aba0;
+  --color-card-foreground: #2a2223;
+  --color-ink: #2a2223;
+  --color-ink-foreground: #ece6e3;
+  --color-ink-muted: #b3a8a4;
 
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
