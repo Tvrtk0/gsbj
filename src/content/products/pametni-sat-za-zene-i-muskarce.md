@@ -1,10 +1,12 @@
 ---
-name: 'Pametni sat za žene i muškarce'
-price: 46.32
-image: '/gsbj/images/pametni-sat-za-zene-i-muskarce.jpg'
-category: 'satovi-i-nakit'
+name: Pametni sat za žene i muškarce
+price: 30
+priceMax: 39
+image: /gsbj/images/pametni-sat-za-zene-i-muskarce.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 CanMixs Smartwatch
 Pametni sat za žene i muškarce
 Naziv robne marke: CanMixs
