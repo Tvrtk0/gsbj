@@ -1,10 +1,12 @@
 ---
-name: 'Earbuds slušalice + mikrofon Sbox Bluetooth EB-TWS32 crne'
-price: 19.78
-image: '/gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws32-crne.jpg'
-category: 'slusalice-i-zvucnici'
+name: Earbuds slušalice + mikrofon Sbox Bluetooth EB-TWS32 crne
+price: 10
+priceMax: 19
+image: /gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws32-crne.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 Chipset: Bluetrum 5376A
 Bluetooth verzija: 5.1
 Kapacitet baterije: 40 mAh
