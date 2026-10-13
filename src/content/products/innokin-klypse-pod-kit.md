@@ -1,11 +1,13 @@
 ---
-name: 'Innokin Klypse pod kit'
-price: 20
-image: '/gsbj/images/innokin-klypse-pod-kit.jpg'
-category: 'elektronske-cigarete-i-tekucine'
+name: Innokin Klypse pod kit
+price: 18
+priceMax: 25
+image: /gsbj/images/innokin-klypse-pod-kit.jpg
+category: elektronske-cigarete-i-tekucine
 archive: false
 ---
-Innokin Klypse pod sistem s baterijom od 700 mAh i automatskom aktivacijom prilikom uvlačenja, bez pritiskanja tipke.
+
+Innokin Klypse pod sistem s baterijom od 700 mAh / 1000 mAh i automatskom aktivacijom prilikom uvlačenja, bez pritiskanja tipke.
 Innokin Klypse praktičan je pod sistem s punjivim spremnikom. Odlikuje ga izdržljivo i lagano kućište od legure aluminija, te male dimenzije kako bi bio pogodan za nošenje u džepu ili torbici. Pri vrhu uređaja nalazi se zaštitni magnetski poklopac koji sprječava upadanje prašine i nečistoće u usnik, a tijekom korištenja jednostavno ga spojite s magnetskim dnom baterije kako se on ne bi izgubio. Zbog jednostavnosti korištenja pogodan je za početnike – na uređaju nije potrebno držati tipku pritisnutom prilikom uvlačenja, već se on automatski aktivira, a spremnik s integriranim mesh grijačem puni se jednostavno i brzo vašom omiljenom e-tekućinom.
 
 Specifikacije:
