@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 37.03
-image: '/gsbj/images/zippo-upaljac-26.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 46
+priceMax: null
+image: /gsbj/images/zippo-upaljac-26.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Smeđe boje. Dolazi zapakiran u poklon kutiji. Za optimalne performanse napunite Zippo tekućinom za upaljač.
 
 Originalni Zippo upaljač otporan na vjetar s prepoznatljivim Zippo "klik"
