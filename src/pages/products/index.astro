@@ -10,18 +10,20 @@ const allProducts = (await getCollection('products', ({ data }) => !data.archive
 );
 const categories = await getCollection('categories');
 
-const categoryMap = new Map(categories.map((c) => [c.data.slug, c.data.name]));
-const activeSlugs = new Set(allProducts.map((p) => p.data.category));
+const counts = new Map<string, number>();
+for (const p of allProducts) counts.set(p.data.category, (counts.get(p.data.category) ?? 0) + 1);
+// Biggest categories first, so the ones people want are at the start of the swipeable row
 const categoryList = categories
-  .filter((c) => activeSlugs.has(c.data.slug))
-  .map((c) => ({ slug: c.data.slug, name: c.data.name }));
+  .filter((c) => counts.has(c.data.slug))
+  .map((c) => ({ slug: c.data.slug, name: c.data.name, count: counts.get(c.data.slug)! }))
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'hr'));
 const base = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout title="Proizvodi" description="Pregledajte našu ponudu poklona, suvenira i drugih proizvoda.">
-  <section class="py-10 px-4 md:px-8">
+  <section class="pt-10 pb-16 md:pt-14 md:pb-20 px-4 md:px-8">
     <div class="max-w-6xl mx-auto">
-      <h1 class="text-3xl font-bold mb-6">Proizvodi</h1>
+      <h1 class="text-4xl md:text-5xl mb-6">Proizvodi</h1>
 
       <div id="search" class="mb-6"></div>
       <link href={`${base}pagefind/pagefind-ui.css`} rel="stylesheet" />
@@ -48,7 +50,7 @@ const base = import.meta.env.BASE_URL;
       </script>
 
       <CategoryFilter categories={categoryList} />
-      <ProductGrid products={allProducts} categoryMap={categoryMap} />
+      <ProductGrid products={allProducts} />
 
       {allProducts.length === 0 && (
         <p class="text-center text-muted-foreground py-12">Nema proizvoda za prikaz.</p>

@@ -1,21 +1,51 @@
 @import 'tailwindcss';
+@import '@fontsource-variable/fraunces';
+@import '@fontsource-variable/inter';
 
 @theme {
-  --color-primary: #b5838d;
+  --font-sans: 'Inter Variable', system-ui, -apple-system, sans-serif;
+  --font-display: 'Fraunces Variable', Georgia, serif;
+
+  /* Terracotta; every pair below is at least 4.5:1 for text */
+  --color-primary: #a8472c;
+  --color-primary-hover: #8e3a23;
   --color-primary-foreground: #ffffff;
-  --color-secondary: #6d6875;
+  --color-tint: #f3e3dc;
+  --color-secondary: #6e625b;
   --color-secondary-foreground: #ffffff;
-  --color-background: #fafaf9;
-  --color-foreground: #1c1917;
-  --color-muted: #e7e5e4;
-  --color-muted-foreground: #78716c;
-  --color-accent: #e8b4b8;
-  --color-border: #d6d3d1;
+  --color-background: #faf6f0;
+  --color-foreground: #2a211d;
+  --color-muted: #efe8e0;
+  --color-muted-foreground: #6e625b;
+  --color-accent: #e9c2b2;
+  --color-border: #e7ddd3;
   --color-card: #ffffff;
-  --color-card-foreground: #292524;
+  --color-card-foreground: #2a211d;
+  --color-ink: #2a211d;
+  --color-ink-foreground: #e9ded4;
+  --color-ink-muted: #b9aba0;
+
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 0.75rem;
+}
+
+/* In the base layer so utilities like font-sans can still override it */
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
 }
 
 .filter-btn {
@@ -27,8 +57,43 @@
   color: var(--color-primary);
 }
 
-body {
-  font-family: system-ui, -apple-system, sans-serif;
-  background-color: var(--color-background);
+/* Hide the scrollbar on the swipeable category row, keep it scrollable */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Pagefind search, themed to match the site. Pagefind sets its defaults on .pagefind-ui itself */
+#search .pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: var(--color-primary);
+  --pagefind-ui-text: var(--color-foreground);
+  --pagefind-ui-background: var(--color-card);
+  --pagefind-ui-border: var(--color-border);
+  --pagefind-ui-tag: var(--color-tint);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0.75rem;
+  --pagefind-ui-image-border-radius: 0.5rem;
+  --pagefind-ui-image-box-ratio: 1 / 1;
+  --pagefind-ui-font: var(--font-sans);
+}
+#search .pagefind-ui__search-input {
+  font-weight: 400;
+}
+#search .pagefind-ui__search-input:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: -1px;
+}
+#search .pagefind-ui__result-title,
+#search .pagefind-ui__result-link {
+  font-family: var(--font-sans);
   color: var(--color-foreground);
+}
+#search .pagefind-ui__result-thumb {
+  background: var(--color-card);
+}
+#search .pagefind-ui__result-image {
+  object-fit: contain;
 }

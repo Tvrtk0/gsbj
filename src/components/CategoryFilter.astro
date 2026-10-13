@@ -2,6 +2,7 @@
 interface Category {
   slug: string;
   name: string;
+  count: number;
 }
 
 interface Props {
@@ -9,21 +10,26 @@ interface Props {
 }
 
 const { categories } = Astro.props;
+const total = categories.reduce((sum, c) => sum + c.count, 0);
 ---
 
-<div class="flex flex-wrap gap-2 mb-6" id="category-filter">
-  <button
-    class="filter-btn active px-3 py-1.5 text-sm font-medium rounded-md border border-primary bg-primary text-primary-foreground transition-colors"
-    data-category="all"
-  >
-    Sve
-  </button>
-  {categories.map((cat) => (
+{/* One swipeable row on phones (full-bleed so it scrolls to the screen edge), wrapping rows from md up */}
+<div
+  class="no-scrollbar -mx-4 px-4 md:mx-0 md:px-0 flex gap-2 overflow-x-auto md:flex-wrap md:overflow-visible mb-8"
+  id="category-filter"
+>
+  {[{ slug: 'all', name: 'Sve', count: total }, ...categories].map((cat) => (
     <button
-      class="filter-btn px-3 py-1.5 text-sm font-medium rounded-md border border-border bg-card text-card-foreground transition-colors"
+      class:list={[
+        'filter-btn shrink-0 inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium rounded-full border whitespace-nowrap transition-colors',
+        cat.slug === 'all'
+          ? 'active border-primary bg-primary text-primary-foreground'
+          : 'border-border bg-card text-card-foreground',
+      ]}
       data-category={cat.slug}
     >
       {cat.name}
+      <span class="text-xs opacity-60 tabular-nums">{cat.count}</span>
     </button>
   ))}
 </div>
@@ -42,6 +48,8 @@ const { categories } = Astro.props;
       b.classList.toggle('bg-card', !isActive);
       b.classList.toggle('text-card-foreground', !isActive);
       b.classList.toggle('border-border', !isActive);
+      // On phones the row scrolls; bring the chosen one into view
+      if (isActive) b.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
     });
 
     cards.forEach((card) => {

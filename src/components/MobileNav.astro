@@ -5,21 +5,26 @@ const links = [
   { href: `${base}products`, label: 'Proizvodi' },
   { href: `${base}contact`, label: 'Kontakt' },
 ];
-const currentPath = Astro.url.pathname;
+// Paths end in a slash on the built site but not in `links`; product pages count as Proizvodi
+const currentPath = Astro.url.pathname.replace(/\/$/, '');
+const isActive = (href: string) => {
+  const target = href.replace(/\/$/, '');
+  return target === base.replace(/\/$/, '') ? currentPath === target : currentPath.startsWith(target);
+};
 ---
 
-<nav class="flex items-center justify-between px-4 py-3 md:px-8">
-  <a href={base} class="text-xl font-bold text-primary">Gift Shop Bjelovar</a>
+<nav class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3.5 md:px-8 lg:px-0">
+  <a href={base} class="font-display text-xl md:text-2xl font-semibold tracking-tight text-primary">Gift Shop Bjelovar</a>
 
   {/* Desktop nav */}
-  <ul class="hidden md:flex gap-6">
+  <ul class="hidden md:flex gap-8">
     {links.map(({ href, label }) => (
       <li>
         <a
           href={href}
           class:list={[
-            'text-sm font-medium transition-colors hover:text-primary',
-            currentPath === href ? 'text-primary' : 'text-foreground',
+            'text-[15px] font-medium transition-colors hover:text-primary',
+            isActive(href) ? 'text-primary' : 'text-foreground',
           ]}
         >
           {label}
@@ -49,8 +54,8 @@ const currentPath = Astro.url.pathname;
         <a
           href={href}
           class:list={[
-            'block py-2 text-sm font-medium transition-colors hover:text-primary',
-            currentPath === href ? 'text-primary' : 'text-foreground',
+            'block py-3 text-base font-medium transition-colors hover:text-primary',
+            isActive(href) ? 'text-primary' : 'text-foreground',
           ]}
         >
           {label}

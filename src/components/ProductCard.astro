@@ -8,37 +8,32 @@ interface Props {
   priceMax?: number;
   image: string;
   category: string;
-  categoryName?: string;
   hidden?: boolean;
 }
 
-const { name, slug, price, priceMax, image, category, categoryName, hidden = false } = Astro.props;
+const { name, slug, price, priceMax, image, category, hidden = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
 
 <a
   href={`${base}products/${slug}`}
-  class="group block bg-card rounded-lg border border-border overflow-hidden transition-shadow hover:shadow-md"
+  class="group flex flex-col bg-card rounded-xl overflow-hidden shadow-[0_1px_2px_rgb(42_33_29/0.06)] ring-1 ring-border/60 transition-shadow hover:shadow-lg hover:shadow-ink/5"
   data-category={category}
   data-batch-hidden={hidden ? 'true' : 'false'}
   style={hidden ? 'display:none' : ''}
 >
-  <div class="aspect-square overflow-hidden bg-muted">
+  {/* Whole product on white: photos come in every crop and background, contain keeps them uniform */}
+  <div class="aspect-square min-h-0 overflow-hidden bg-card p-3 md:p-4">
     <img
       src={image}
       alt={name}
-      class="w-full h-full object-cover transition-transform group-hover:scale-105"
+      class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-[1.04]"
       loading="lazy"
     />
   </div>
-  <div class="p-4">
-    {categoryName && (
-      <span class="text-xs font-medium text-primary bg-primary/10 px-2 py-0.5 rounded-sm">
-        {categoryName}
-      </span>
-    )}
-    <h3 class="mt-2 font-medium text-card-foreground line-clamp-2">{name}</h3>
-    <p class="mt-1 text-lg font-semibold text-primary">
+  <div class="flex flex-1 flex-col px-3 pb-3 pt-2 md:px-4 md:pb-4 border-t border-muted">
+    <h3 class="font-sans font-medium text-sm md:text-base text-card-foreground line-clamp-2 tracking-normal">{name}</h3>
+    <p class="mt-auto pt-1.5 font-semibold text-primary">
       {formatPriceFrom(price, priceMax)}
     </p>
   </div>

@@ -14,11 +14,10 @@ interface Product {
 
 interface Props {
   products: Product[];
-  categoryMap: Map<string, string>;
   batchSize?: number;
 }
 
-const { products, categoryMap, batchSize = 24 } = Astro.props;
+const { products, batchSize = 24 } = Astro.props;
 ---
 
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6" id="product-grid">
@@ -30,7 +29,6 @@ const { products, categoryMap, batchSize = 24 } = Astro.props;
       priceMax={product.data.priceMax}
       image={product.data.image}
       category={product.data.category}
-      categoryName={categoryMap.get(product.data.category)}
       hidden={i >= batchSize}
     />
   ))}
