@@ -1,10 +1,12 @@
 ---
-name: 'Pljoska 48oZ'
-price: 18.45
-image: '/gsbj/images/pljoska-48oz.jpg'
-category: 'ostalo'
+name: Pljoska 48oZ
+price: 19
+priceMax: null
+image: /gsbj/images/pljoska-48oz.jpg
+category: ostalo
 archive: false
 ---
+
 Opis
 Savršeni poklon za voljenu osobu.
 Pljoska u kožnoj futroli s remenom koja se može po potrebi skinuti.
