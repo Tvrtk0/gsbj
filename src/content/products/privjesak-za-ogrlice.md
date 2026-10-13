@@ -1,7 +1,7 @@
 ---
 name: Privjesak za ogrlice
-price: 6.5
-priceMax: null
+price: 3
+priceMax: 9
 image: /gsbj/images/privjesak-za-ogrlice.jpg
 category: satovi-i-nakit
 archive: false
