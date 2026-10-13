@@ -4,7 +4,7 @@ price: 4
 image: '/gsbj/images/innokin-klypse-pod-spremnik.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Spremnici za Innokin Klypse pod sistem s integriranim mesh grijačem od 0.8 ohm.
 Specifikacije:

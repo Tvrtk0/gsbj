@@ -4,7 +4,7 @@ price: 45
 image: '/gsbj/images/voopoo-drag-x-pod-mod-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Isprobajte Voopoo Drag X Pod Mod Kit kojeg odlikuje korištenje jedne izmjenjive 18650 high-amp baterije (nije uključena), kompatibilnost s PnP serijom grijača i RBA bazom, te korištenje GENE.TT chipseta za optimalnu regulaciju i funkcionalnost. Podržava korištenje u rasponu od 5 do 80W i kompatibilan je sa svim PnP grijačima.
 Nudi precizan sustav kontrole protoka zraka kako bi se mogao koristiti za MTL ili direct lung uvlačenje, što će odgovarati početnicima, kao i naprednijim korisnicima. Spremnik kapaciteta 4.5 ml puni se s donje strane i ostvaruje sigurnu i čvrstu vezu s kućištem putem magneta.

@@ -4,7 +4,7 @@ price: 16
 image: '/gsbj/images/wiip-magnetic-starter-kit-black.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Wiipodi Magnetic su još veće zapremnine, s još jednostavnijim načinom korištenja! Umetni svoj Wiipod još lakše uz privlačne sile Neodymium magneta uz pomoć kojih tvoj Wiipod Magnetic lakše klizi u utor Wiip Magnetic uređaja. Puni kraće, wiipaj dulje! Uz još jaču bateriju tvoj Wiip Magnetic, omogućava ti bezbrižno wiipanje i do 3 dana. Ako si u žurbi, ne brini, novi C utor uređaja osigurava ti kraće punjenje.
 

@@ -5,7 +5,7 @@ priceMax: null
 image: /gsbj/images/innokin-kroma-z-pod-mod-kit.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 
 Isprobajte novi Innokin Kroma-Z Pod Mod sustav koji sadrži integriranu snažnu bateriju od 3000mAh, nudi raspon snage od 6 do 40W i kompatibilan je sa svim grijačima iz Innokin Z serije. Spremnik se puni s gornje bočne strane te se povezuje s baterijom pomoću magneta, a zahvaljujući velikom kapacitetu od 4.5 ml neće ga biti potrebno često dopunjavati. Izrađen je od legure magnezija – laganog, izuzetno izdržljivog materijala koji se obično koristi u automobilskoj i zrakoplovnoj industriji. Pogodan je za mouth-to-lung, kao i restriktivnije direct-lung uvlačenje.

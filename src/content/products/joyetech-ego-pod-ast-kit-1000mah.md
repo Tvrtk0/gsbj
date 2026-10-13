@@ -4,7 +4,7 @@ price: 20
 image: '/gsbj/images/joyetech-ego-pod-ast-kit-1000mah.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Joyetech eGo Pod AST poboljšana je i optimizirana verzija Joyetech eGo Pod modela, koji koristi grijače od austenitnog nehrđajućeg čelika (Austenitic Stainless Steel – AST) kako bi postigao intenzivniji okus. Zadržava jednostavan i kompaktan dizajn, a zahvaljujući malim dimenzijama i duljini od samo 10 cm pogodan je za lako prenošenje.
 Spremnik se puni tekućinom s bočne strane i u njemu je ugrađen grijač, što ga čini praktičnijim za korištenje – kad je vrijeme za mijenjanje grijača (nakon cca. 2000 uvlačenja), jednostavno se zamijeni čitav spremnik. Baterija od 1000 mAh prosječnom će korisniku biti dovoljna za cjelodnevno korištenje, a potrebno je samo 1.5h kako bi se potpuno napunila.

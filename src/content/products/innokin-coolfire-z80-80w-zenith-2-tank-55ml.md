@@ -4,7 +4,7 @@ price: 69
 image: '/gsbj/images/innokin-coolfire-z80-80w-zenith-2-tank-55ml.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Novitet iz kuhinje Innokina nazvan je Coolfire Z80 80W Zenith 2.
 

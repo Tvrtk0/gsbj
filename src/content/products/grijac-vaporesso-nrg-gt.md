@@ -4,7 +4,7 @@ price: 4
 image: '/gsbj/images/grijac-vaporesso-nrg-gt.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Grijači za atomizer Vaporesso NRG Tank, kompatibilni sa Smok TFV8 grijačima: 30-35kn
 GT4 (0.15 Ω): 30 – 70W

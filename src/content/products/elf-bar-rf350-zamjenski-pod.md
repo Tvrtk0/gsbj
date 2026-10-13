@@ -4,7 +4,7 @@ price: 3.3
 image: '/gsbj/images/elf-bar-rf350-zamjenski-pod.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Kapacitet: 1.6ml
 Otpor: 1.2ohm

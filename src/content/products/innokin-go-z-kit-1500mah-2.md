@@ -5,7 +5,7 @@ priceMax: 29
 image: /gsbj/images/innokin-go-z-kit-1500mah-2.jpg
 category: elektronske-cigarete-i-tekucine
 archive: true
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 
 Innokin GO Z Kit je tanak all-in-one vape komplet u obliku olovke, izrađen od nehrđajućeg čelika i PCTG plastike lakih dimenzija sa matt teksturiranom površinom, otporan je na udarce i visoke temperature.

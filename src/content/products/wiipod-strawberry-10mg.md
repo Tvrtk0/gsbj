@@ -5,7 +5,7 @@ priceMax: 4.6
 image: '/gsbj/images/wiipod-strawberry-10mg.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 Vaš Wiip uređaj nije potpun bez čarobnih Wiipoda. Uparite vaš uređaj sa željenom Wiipod aromom i zaWiipajte. Sedam Wiipod aroma pažljivo su odabrane testiranjem i osluškivanjem potreba tržišta. S Wiip uređajem i Wiipod aromama, možete zaboraviti na cigarete koje uzrokuju loš zadah, kašalj i bol u vašem grlu. Ukoliko planirate prestanak pušenja, a ne želite iza sebe ostaviti iskustvo duhana, za vas smo pripremili dvije duhanske arome – Tobacco i USA Mix, a za ljubitelje voćnih aroma tri vrste Wiipoda – egzotična aroma jagode, tropskog voća i potpuna aroma manga. Ako ste ljetni tip osobe, za vas smo pripremili najhladniju mint aromu s punoćom okusa.
 

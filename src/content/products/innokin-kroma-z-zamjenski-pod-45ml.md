@@ -5,7 +5,7 @@ priceMax: null
 image: /gsbj/images/innokin-kroma-z-zamjenski-pod-45ml.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 
 Tehničke karakteristike

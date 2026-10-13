@@ -5,7 +5,7 @@ priceMax: 25
 image: /gsbj/images/atomizer-innokin-zlide.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
-date: 2026-04-05T17:56:43Z
+date: 2026-10-13T19:07:52Z
 ---
 
 Innokin Zlide D24 atomizer je namijenjen MTL uvlačenju (usta-pluća) i koristi sve grijače iz linije kompatibilne s grijačima za Zenith. Osim solidnog kapaciteta od 4 ml, karakterizira ga jednostavan klizni sistem punjenja koji se zaključava pomoću usnika. Pri dnu nalazi se prsten kojim je moguće precizno podesiti željeni protok zraka, a čitav atomizer jednostavno se rastavlja kako bi se mogao lako čistiti i održavati.
