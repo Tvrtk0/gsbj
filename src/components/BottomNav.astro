@@ -25,12 +25,12 @@ const icons: Record<(typeof navLinks)[number]['icon'], string> = {
           <a
             href={href}
             class:list={[
-              'relative flex flex-col items-center gap-1 pt-2.5 pb-2 text-xs font-medium transition-colors',
+              'press relative flex flex-col items-center gap-1 pt-2.5 pb-2 text-xs font-medium',
               active ? 'text-primary' : 'text-muted-foreground',
             ]}
             aria-current={active ? 'page' : undefined}
           >
-            {active && <span class="absolute top-0 h-0.5 w-10 rounded-full bg-primary" />}
+            {active && <span class="nav-marker-bottom absolute top-0 h-0.5 w-10 rounded-full bg-primary" />}
             <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d={icons[icon]} />
             </svg>

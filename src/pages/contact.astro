@@ -42,9 +42,9 @@ const actions = [
   {/* Header */}
   <section class="bg-gradient-to-br from-primary/10 via-accent/10 to-background py-14 md:py-20 px-4 md:px-8">
     <div class="max-w-3xl mx-auto text-center">
-      <span class="inline-block text-sm font-medium tracking-wider uppercase text-primary mb-3">Kontakt</span>
-      <h1 class="text-3xl md:text-5xl font-bold tracking-tight">Tu smo za vas</h1>
-      <p class="mt-4 text-lg text-muted-foreground leading-relaxed">
+      <span class="animate-enter inline-block text-sm font-medium tracking-wider uppercase text-primary mb-3" style="--i: 0">Kontakt</span>
+      <h1 class="animate-enter text-3xl md:text-5xl font-bold tracking-tight" style="--i: 1">Tu smo za vas</h1>
+      <p class="animate-enter mt-4 text-lg text-muted-foreground leading-relaxed" style="--i: 2">
         Imate pitanje o proizvodu ili tražite poklon? Nazovite, pišite nam ili svratite u dućan.
       </p>
     </div>
@@ -53,11 +53,12 @@ const actions = [
   {/* Quick actions */}
   <section class="px-4 md:px-8 -mt-8 md:-mt-10">
     <div class="max-w-6xl mx-auto grid sm:grid-cols-3 gap-4">
-      {actions.map((a) => (
+      {actions.map((a, i) => (
         <a
+          style={`--i: ${i + 3}`}
           href={a.href}
           {...(a.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
-          class="group flex items-center gap-4 bg-card border border-border rounded-xl p-5 shadow-sm hover:border-primary hover:shadow-md transition-all"
+          class="press animate-enter group flex items-center gap-4 bg-card border border-border rounded-xl p-5 shadow-sm hover:border-primary hover:shadow-md"
         >
           <div class="w-12 h-12 shrink-0 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary transition-colors">
             <svg class="w-6 h-6 text-primary group-hover:text-primary-foreground transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -77,7 +78,7 @@ const actions = [
   <section class="py-12 md:py-16 px-4 md:px-8">
     <div class="max-w-6xl mx-auto grid lg:grid-cols-3 gap-6">
       {/* Map card */}
-      <div class="lg:col-span-2 bg-card border border-border rounded-xl overflow-hidden">
+      <div data-reveal class="lg:col-span-2 bg-card border border-border rounded-xl overflow-hidden">
         <MapEmbed url={data.googleMapsEmbedUrl} />
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-5 md:p-6">
           <div>
@@ -98,7 +99,7 @@ const actions = [
 
       <div class="space-y-6">
         {/* Working hours card */}
-        <div class="bg-card border border-border rounded-xl p-6">
+        <div data-reveal class="bg-card border border-border rounded-xl p-6">
           <div class="flex items-center gap-3 mb-5">
             <div class="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
               <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
@@ -110,7 +111,7 @@ const actions = [
 
         {/* Social card */}
         {hasSocial && (
-          <div class="bg-card border border-border rounded-xl p-6">
+          <div data-reveal class="bg-card border border-border rounded-xl p-6">
             <h2 class="text-xl font-bold mb-1">Pratite nas</h2>
             <p class="text-sm text-muted-foreground mb-4">Novosti i nove proizvode objavljujemo na mrežama.</p>
             <SocialLinks facebook={data.social.facebook} instagram={data.social.instagram} />

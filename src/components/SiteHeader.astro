@@ -15,12 +15,15 @@ const pathname = Astro.url.pathname;
         <a
           href={href}
           class:list={[
-            'text-[15px] font-medium transition-colors hover:text-primary',
+            'relative text-[15px] font-medium transition-colors hover:text-primary',
             isActive(href, pathname) ? 'text-primary' : 'text-foreground',
           ]}
           aria-current={isActive(href, pathname) ? 'page' : undefined}
         >
           {label}
+          {isActive(href, pathname) && (
+            <span class="nav-marker-top absolute -bottom-1.5 inset-x-0 h-0.5 rounded-full bg-primary" />
+          )}
         </a>
       </li>
     ))}

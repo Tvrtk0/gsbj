@@ -48,9 +48,89 @@
   animation-timing-function: cubic-bezier(0.2, 0, 0, 1);
 }
 
+/* --- Motion -------------------------------------------------------------------------- */
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Page-load entrance, staggered by --i (set inline: style="--i: 2") */
+.animate-enter {
+  animation: fade-up 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i, 0) * 90ms + 60ms);
+}
+.animate-pop {
+  animation: pop-in 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i, 0) * 110ms + 300ms);
+}
+
+/* Fade up as it scrolls into view. Scroll-driven, so no JS and no flash on load: anything
+   already on screen is past the range and fully shown. Browsers without support just show it. */
+@supports (animation-timeline: view()) {
+  [data-reveal] {
+    animation: fade-up linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 55%;
+  }
+}
+
+/* Cards that appear after a filter or search change (src/scripts/catalog.ts); after
+   [data-reveal] so it wins while it runs */
+.card-in {
+  animation: pop-in 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i, 0) * 35ms);
+}
+
+/* Press feedback; `scale` is its own property, so it doesn't fight transform animations.
+   Lists the usual hover properties too, since this replaces transition-colors and friends. */
+.press {
+  transition:
+    scale 0.15s ease,
+    color 0.15s ease,
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.2s ease,
+    translate 0.2s ease;
+}
+.press:active {
+  scale: 0.97;
+}
+
+/* The active-page marker under the nav morphs to the new tab on navigation */
+.nav-marker-bottom {
+  view-transition-name: nav-marker-bottom;
+}
+.nav-marker-top {
+  view-transition-name: nav-marker-top;
+}
+
 @media (prefers-reduced-motion: reduce) {
   @view-transition {
     navigation: none;
+  }
+  *,
+  ::before,
+  ::after {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
   }
 }
 

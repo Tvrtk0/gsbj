@@ -37,15 +37,27 @@ function slugOf(path: string) {
 const fold = (s: string) =>
   s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd');
 
-function render() {
+/** `animate`: cards newly shown by this render cascade in (not on first load, which is SSR'd) */
+function render({ animate = true } = {}) {
   const searching = results !== null;
   const list = searching ? results! : cards.filter((c) => category === 'all' || c.dataset.category === category);
+  const wasVisible = new Set(cards.filter((c) => c.style.display !== 'none'));
+  // A whole new set (filter/search) restarts the cascade at the top; load-more continues it
+  const reorders = list.slice(0, limit).some((c, i) => grid.children[i] !== c);
 
   // Put the visible list first, in order; everything else stays in the DOM, hidden
   for (const card of cards) card.style.display = 'none';
+  let n = 0;
   list.forEach((card, i) => {
     grid.appendChild(card);
-    if (i < limit) card.style.display = '';
+    if (i >= limit) return;
+    card.style.display = '';
+    if (animate && (reorders || !wasVisible.has(card))) {
+      card.classList.remove('card-in');
+      void card.offsetWidth; // restart the animation if it was mid-run
+      card.style.setProperty('--i', String(Math.min(n++, 12)));
+      card.classList.add('card-in');
+    }
   });
 
   chips.hidden = searching;
@@ -163,12 +175,14 @@ chipButtons.forEach((btn) =>
   })
 );
 
+grid.addEventListener('animationend', (e) => (e.target as HTMLElement).classList.remove('card-in'));
+
 // --- Start ------------------------------------------------------------------------------
 
 if (query) {
   input.value = query;
   runSearch(query);
 } else {
-  render();
+  render({ animate: false });
   chipButtons.find((b) => b.classList.contains('active'))?.scrollIntoView({ block: 'nearest', inline: 'center' });
 }

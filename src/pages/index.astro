@@ -48,26 +48,26 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
   <section class="relative overflow-hidden bg-gradient-to-br from-tint/70 via-background to-background px-4 md:px-8">
     <div class="max-w-6xl mx-auto grid lg:grid-cols-[1.1fr_1fr] gap-12 lg:gap-16 items-center py-14 md:py-20">
       <div class="text-center lg:text-left">
-        <span class="inline-block text-xs font-semibold tracking-[0.16em] uppercase text-primary mb-4">
+        <span class="animate-enter inline-block text-xs font-semibold tracking-[0.16em] uppercase text-primary mb-4" style="--i: 0">
           Dobrodošli u
         </span>
-        <h1 class="text-5xl md:text-6xl lg:text-7xl leading-[1.02] text-foreground">
+        <h1 class="animate-enter text-5xl md:text-6xl lg:text-7xl leading-[1.02] text-foreground" style="--i: 1">
           Gift Shop <span class="text-primary">Bjelovar</span>
         </h1>
-        <p class="mt-6 text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 leading-relaxed">
+        <p class="animate-enter mt-6 text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 leading-relaxed" style="--i: 2">
           {info.data.aboutText}
         </p>
-        <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
+        <div class="animate-enter mt-8 flex flex-col sm:flex-row gap-3 justify-center lg:justify-start" style="--i: 3">
           <a
             href={`${base}products`}
-            class="inline-flex items-center justify-center px-7 py-3.5 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover transition-colors shadow-sm shadow-primary/20"
+            class="press inline-flex items-center justify-center px-7 py-3.5 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover shadow-sm shadow-primary/20"
           >
             Pogledaj proizvode
             <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
           </a>
           <a
             href={`${base}contact`}
-            class="inline-flex items-center justify-center px-7 py-3.5 bg-card border border-border text-foreground font-medium rounded-xl hover:border-primary hover:text-primary transition-colors"
+            class="press inline-flex items-center justify-center px-7 py-3.5 bg-card border border-border text-foreground font-medium rounded-xl hover:border-primary hover:text-primary"
           >
             Kontaktiraj nas
           </a>
@@ -79,8 +79,9 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
         {heroProducts.map((p, i) => (
           <a
             href={`${base}products/${p.id}`}
+            style={`--i: ${i}`}
             class:list={[
-              'group aspect-square rounded-2xl bg-card p-4 md:p-6 shadow-sm ring-1 ring-border/60 transition-transform hover:-translate-y-1',
+              'animate-pop group aspect-square rounded-2xl bg-card p-4 md:p-6 shadow-sm ring-1 ring-border/60 transition-[translate] hover:-translate-y-1',
               i % 2 === 1 && 'lg:translate-y-6',
             ]}
           >
@@ -127,7 +128,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
   {/* Browse by category */}
   <section class="py-14 md:py-20 px-4 md:px-8">
     <div class="max-w-6xl mx-auto">
-      <div class="mb-8 md:mb-10">
+      <div data-reveal class="mb-8 md:mb-10">
         <h2 class="text-3xl md:text-4xl">Pretraži po kategoriji</h2>
         <p class="text-muted-foreground mt-2">Pronađite upravo ono što tražite</p>
       </div>
@@ -135,7 +136,8 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
         {topCategories.map((cat) => (
           <a
             href={`${base}products?category=${cat.slug}`}
-            class="group flex items-center gap-3 p-4 md:p-5 bg-card rounded-xl ring-1 ring-border/60 hover:ring-primary hover:shadow-md transition-all"
+            data-reveal
+            class="press group flex items-center gap-3 p-4 md:p-5 bg-card rounded-xl ring-1 ring-border/60 hover:ring-primary hover:shadow-md"
           >
             <div class="flex-1 min-w-0">
               <h3 class="font-sans font-semibold text-card-foreground group-hover:text-primary transition-colors tracking-normal">{cat.name}</h3>
@@ -151,7 +153,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
   {/* Featured products: the most recently published */}
   <section class="pb-14 md:pb-20 px-4 md:px-8">
     <div class="max-w-6xl mx-auto">
-      <div class="flex items-end justify-between mb-8 md:mb-10">
+      <div data-reveal class="flex items-end justify-between mb-8 md:mb-10">
         <div>
           <h2 class="text-3xl md:text-4xl">Izdvojeni proizvodi</h2>
           <p class="text-muted-foreground mt-2">Iz naše ponude</p>
