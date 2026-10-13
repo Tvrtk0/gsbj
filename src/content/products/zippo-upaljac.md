@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 41.01
-image: '/gsbj/images/zippo-upaljac.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 42
+priceMax: null
+image: /gsbj/images/zippo-upaljac.jpg
+category: zippo-upaljaci
 archive: false
 ---
+
 Brushed Solid Brass upaljač je karakterističan po poliranoj završnoj obradi. Tradicionalna boja čini ovaj završni sloj jednom od najsvestranijih završnih obrada.
 
 Dolazi zapakiran u poklon kutiju.
