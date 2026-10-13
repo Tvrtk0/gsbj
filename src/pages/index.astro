@@ -73,8 +73,8 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
         </div>
       </div>
 
-      {/* Collage */}
-      <div class="grid grid-cols-2 gap-3 md:gap-4 max-w-md mx-auto lg:max-w-none w-full">
+      {/* Collage: desktop only, where it sits beside the text; stacked under it on phones it just pushes content down */}
+      <div class="hidden lg:grid grid-cols-2 gap-4 w-full">
         {heroProducts.map((p, i) => (
           <a
             href={`${base}products/${p.id}`}
