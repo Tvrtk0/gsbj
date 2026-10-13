@@ -1,10 +1,12 @@
 ---
-name: 'Eagle – polarizirane sunčane naočale'
-price: 19
-image: '/gsbj/images/eagle-polarizirane-suncane-naocale.jpg'
-category: 'suncane-naocale'
+name: Eagle – polarizirane sunčane naočale
+price: 12
+priceMax: 19
+image: /gsbj/images/eagle-polarizirane-suncane-naocale.jpg
+category: suncane-naocale
 archive: false
 ---
+
 VISOKA OTPORNOST NA UDARCE I SAVIJANJE
 Savitljive ručke okvira
 UV400 zaštita
