@@ -1,10 +1,12 @@
 ---
-name: 'Champ nargila color'
-price: 26.41
-image: '/gsbj/images/champ-nargila-color.jpg'
-category: 'ostalo'
+name: Champ nargila color
+price: 26
+priceMax: null
+image: /gsbj/images/champ-nargila-color.jpg
+category: ostalo
 archive: true
 ---
+
 MATERIJAL ZA DOBAR I IZDRŽAVAN: Sastoji se od stupa od nehrđajućeg čelika, staklene vaze,
 keramičkog vrha i plastičnog crijeva, kliješta za ugljen,
 ova shisha je izrađena od visokokvalitetnih materijala kako bi se osigurala dobra izdržljivost.
