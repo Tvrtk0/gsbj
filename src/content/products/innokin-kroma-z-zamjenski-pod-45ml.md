@@ -1,10 +1,12 @@
 ---
-name: 'Innokin Kroma Z zamjenski pod 4.5ml'
-price: 10.5
-image: '/gsbj/images/innokin-kroma-z-zamjenski-pod-45ml.jpg'
-category: 'elektronske-cigarete-i-tekucine'
+name: Innokin Kroma Z zamjenski pod 4.5ml
+price: 9.9
+priceMax: null
+image: /gsbj/images/innokin-kroma-z-zamjenski-pod-45ml.jpg
+category: elektronske-cigarete-i-tekucine
 archive: false
 ---
+
 Tehničke karakteristike
 
 Innokin Kroma Z zamjenski Pod
