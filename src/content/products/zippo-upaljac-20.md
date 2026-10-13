@@ -1,10 +1,12 @@
 ---
-name: 'Zippo upaljač'
-price: 37.03
-image: '/gsbj/images/zippo-upaljac-20.jpg'
-category: 'zippo-upaljaci'
+name: Zippo upaljač
+price: 39
+priceMax: null
+image: /gsbj/images/zippo-upaljac-20.jpg
+category: zippo-upaljaci
 archive: true
 ---
+
 Dodajte ovaj jednostavan, ali jedinstven vjetrootporni upaljač u svoju specijalnu Zippo kolekciju.
 Za ribiča SOM
 
