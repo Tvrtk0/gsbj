@@ -1,10 +1,12 @@
 ---
-name: 'Earbuds slušalice + mikrofon Sbox Bluetooth EB-TWS72 bijele'
-price: 17.12
-image: '/gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws72-bijele.jpg'
-category: 'slusalice-i-zvucnici'
+name: Earbuds slušalice + mikrofon Sbox Bluetooth EB-TWS72 bijele
+price: 12
+priceMax: 16
+image: /gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws72-bijele.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 EARBUDS SLUŠALICE + MIKROFON SBOX BLUETOOTH EB-TWS72 BIJELE
 Chipset: Bluetrum 5376A
 Bluetooth verzija: 5.1
