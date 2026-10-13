@@ -1,10 +1,12 @@
 ---
-name: 'White Shark headset GH-1947 Margay'
-price: 19.78
-image: '/gsbj/images/white-shark-headset-gh-1947-margay.jpg'
-category: 'slusalice-i-zvucnici'
+name: White Shark headset GH-1947 Margay
+price: 12
+priceMax: 19
+image: /gsbj/images/white-shark-headset-gh-1947-margay.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 Specifikacije:
 Mikrofon
 Dimenzije mikrofona: 4mm x 1,5mm
