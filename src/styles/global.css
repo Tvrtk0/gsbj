@@ -30,6 +30,30 @@
   --radius-lg: 0.75rem;
 }
 
+/* Cross-document view transitions: the browser animates between pages on its own, so the
+   page scripts (filter, search, age gate) keep working as plain page loads. Browsers without
+   support just navigate. Header and bottom nav are named so they hold still instead of fading;
+   product photos are named per product (src/lib/transition.ts) so they morph card <-> page. */
+@view-transition {
+  navigation: auto;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 220ms;
+}
+
+::view-transition-group(*) {
+  animation-duration: 320ms;
+  animation-timing-function: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
+}
+
 /* In the base layer so utilities like font-sans can still override it */
 @layer base {
   body {

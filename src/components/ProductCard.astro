@@ -1,5 +1,6 @@
 ---
 import { formatPriceFrom } from '../lib/price';
+import { productImageTransition } from '../lib/transition';
 
 interface Props {
   name: string;
@@ -28,6 +29,7 @@ const base = import.meta.env.BASE_URL;
       src={image}
       alt={name}
       class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-[1.04]"
+      style={productImageTransition(slug)}
       loading="lazy"
     />
   </div>

@@ -13,6 +13,7 @@ const icons: Record<(typeof navLinks)[number]['icon'], string> = {
 
 {/* Phone-only tab bar, fixed under the thumb. Desktop uses the header links. */}
 <nav
+  style="view-transition-name: bottom-nav"
   class="md:hidden fixed inset-x-0 bottom-0 z-40 bg-card/95 backdrop-blur border-t border-border pb-[env(safe-area-inset-bottom)]"
   aria-label="Glavna navigacija"
 >
