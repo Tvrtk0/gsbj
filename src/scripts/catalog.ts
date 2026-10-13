@@ -35,30 +35,42 @@ function slugOf(path: string) {
 
 /** Lowercase, no diacritics (č→c, đ→d), so "upaljac" finds "Upaljač" */
 const fold = (s: string) =>
-  s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd');
+  s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd');
+
+/** What the visible list is made of; when it changes, the whole list cascades in again */
+let lastView = '';
 
 /** `animate`: cards newly shown by this render cascade in (not on first load, which is SSR'd) */
 function render({ animate = true } = {}) {
   const searching = results !== null;
   const list = searching ? results! : cards.filter((c) => category === 'all' || c.dataset.category === category);
+  const view = searching ? `q:${query}` : `c:${category}`;
+  // A new filter or search restarts the cascade; load-more only animates the cards it adds
+  const newView = view !== lastView;
+  lastView = view;
   const wasVisible = new Set(cards.filter((c) => c.style.display !== 'none'));
-  // A whole new set (filter/search) restarts the cascade at the top; load-more continues it
-  const reorders = list.slice(0, limit).some((c, i) => grid.children[i] !== c);
 
-  // Put the visible list first, in order; everything else stays in the DOM, hidden
-  for (const card of cards) card.style.display = 'none';
+  // Keep the list's cards first, in order, without moving any that are already in place
+  // (moving a node restarts its animations and can make the page jump)
+  let slot = grid.firstElementChild;
+  for (const card of list) {
+    if (card === slot) slot = slot.nextElementSibling;
+    else grid.insertBefore(card, slot);
+  }
+
+  const position = new Map(list.map((card, i) => [card, i]));
   let n = 0;
-  list.forEach((card, i) => {
-    grid.appendChild(card);
-    if (i >= limit) return;
-    card.style.display = '';
-    if (animate && (reorders || !wasVisible.has(card))) {
+  for (const card of cards) {
+    const i = position.get(card);
+    const show = i !== undefined && i < limit;
+    card.style.display = show ? '' : 'none';
+    if (show && animate && (newView || !wasVisible.has(card))) {
       card.classList.remove('card-in');
       void card.offsetWidth; // restart the animation if it was mid-run
       card.style.setProperty('--i', String(Math.min(n++, 12)));
       card.classList.add('card-in');
     }
-  });
+  }
 
   chips.hidden = searching;
   grid.style.visibility = '';
