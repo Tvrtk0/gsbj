@@ -1,10 +1,12 @@
 ---
-name: 'WS-233 Benz Bluetooth zvučnik u obliku automobila'
-price: 22.43
-image: '/gsbj/images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg'
-category: 'slusalice-i-zvucnici'
+name: WS-233 Benz Bluetooth zvučnik u obliku automobila
+price: 17
+priceMax: null
+image: /gsbj/images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 Detalji o proizvodu
 • Kapacitet ugrađene 18650 baterije: 1200 mah
 • Napon napajanja: 5 volti
