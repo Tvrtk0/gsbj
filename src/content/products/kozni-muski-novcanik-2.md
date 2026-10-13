@@ -1,10 +1,12 @@
 ---
-name: 'Kožni muški novčanik'
-price: 14
-image: '/gsbj/images/kozni-muski-novcanik-2.jpg'
-category: 'novcanici-i-torbe'
+name: Kožni muški novčanik
+price: 19
+priceMax: null
+image: /gsbj/images/kozni-muski-novcanik-2.jpg
+category: novcanici-i-torbe
 archive: false
 ---
+
 Novčanik od 100% kože iz Italije.
 
 2 utora za gotovinu
