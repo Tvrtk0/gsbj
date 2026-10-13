@@ -1,10 +1,12 @@
 ---
-name: 'Ručna LED lampa'
-price: 19.78
-image: '/gsbj/images/rucna-led-lampa.jpg'
-category: 'lampe'
+name: Ručna LED lampa
+price: 16
+priceMax: null
+image: /gsbj/images/rucna-led-lampa.jpg
+category: lampe
 archive: true
 ---
+
 RUČNA LED LAMPA MIKRO USB 3u1 X8 14.5 cm
 Opis artikla:
 Naziv proizvoda: Tri-u-jednom odijelo
