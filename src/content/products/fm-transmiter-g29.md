@@ -1,10 +1,12 @@
 ---
-name: 'FM transmiter G29'
-price: 11.81
-image: '/gsbj/images/fm-transmiter-g29.jpg'
-category: 'tranzistori-fm-i-transmiteri'
+name: FM transmiter G29
+price: 11.8
+priceMax: null
+image: /gsbj/images/fm-transmiter-g29.jpg
+category: tranzistori-fm-i-transmiteri
 archive: false
 ---
+
 FM TRANSMITER G29
 Vrijeme punjenja: 1 sat
 Crna boja
