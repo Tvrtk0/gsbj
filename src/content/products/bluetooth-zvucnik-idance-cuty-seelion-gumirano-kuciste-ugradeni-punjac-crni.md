@@ -1,10 +1,12 @@
 ---
-name: 'iDance Cuty Seelion Bluetooth zvučnik, crni'
-price: 19.78
-image: '/gsbj/images/bluetooth-zvucnik-idance-cuty-seelion-gumirano-kuciste-ugradeni-punjac-crni.jpg'
-category: 'slusalice-i-zvucnici'
+name: iDance Cuty Seelion Bluetooth zvučnik, crni
+price: 16
+priceMax: null
+image: /gsbj/images/bluetooth-zvucnik-idance-cuty-seelion-gumirano-kuciste-ugradeni-punjac-crni.jpg
+category: slusalice-i-zvucnici
 archive: false
 ---
+
 iDance Cuty morski lav je super sladak, dragi portabilni Bluetooth zvucnik snage 10W i autonomije rada na punjivoj bateriji do 8 sati.
 Integrirani kabel ima USB konektor za punjenje i daljinski.
 
