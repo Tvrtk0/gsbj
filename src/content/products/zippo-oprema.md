@@ -1,7 +1,7 @@
 ---
 name: Zippo oprema
 price: 2.5
-priceMax: null
+priceMax: 4
 image: /gsbj/images/zippo-oprema.jpg
 category: pusacki-pribor
 archive: false
