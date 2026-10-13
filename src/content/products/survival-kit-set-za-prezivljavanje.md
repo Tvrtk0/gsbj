@@ -4,6 +4,7 @@ price: 33
 image: '/gsbj/images/survival-kit-set-za-prezivljavanje.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 SET ZA PREZIVLJAVANJE 12 U 1
 prakticna kutija za pohranu

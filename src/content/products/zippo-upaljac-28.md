@@ -4,6 +4,7 @@ price: 32
 image: '/gsbj/images/zippo-upaljac-28.jpg'
 category: 'zippo-upaljaci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Klasični vjetrootporni upaljač od brušenog kroma odlikuje se suptilnom vodoravnom teksturom na prednjoj i stražnjoj strani upaljača. Strane upaljača su visoko polirane radi stvaranja kontrasta.
 Zippo upaljač dolazi zapakiran u poklon kutiju.Za optimalne performanse koristite originalni Zippo benzin za upaljače.

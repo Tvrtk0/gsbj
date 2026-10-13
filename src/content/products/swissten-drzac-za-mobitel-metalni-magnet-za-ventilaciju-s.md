@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/swissten-drzac-za-mobitel-metalni-magnet-za-ventilaciju-s.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Metalni magnetni držač u elegantnom dizajnu.

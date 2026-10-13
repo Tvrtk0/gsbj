@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/ws-233-benz-bluetooth-zvucnik-u-obliku-automobila-s-tf-usb-fm-aux-handsfree-led-svjetlom.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Detalji o proizvodu

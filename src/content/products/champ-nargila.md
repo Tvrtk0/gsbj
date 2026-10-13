@@ -5,6 +5,7 @@ priceMax: 52
 image: '/gsbj/images/champ-nargila.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Aluminijska nargila duginih boja 35 cm.
 Uključuje keramički dimnjak plastično crijevo i pincetu za ugljen.

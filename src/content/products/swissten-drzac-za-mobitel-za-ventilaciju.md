@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/swissten-drzac-za-mobitel-za-ventilaciju.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 WISSTEN S-GRIP GRAVITY G1-AV3 držač za mobitel koji se postavlja na ventilaciju odlikuje se odličnim omjerom cijene i kvalitete.

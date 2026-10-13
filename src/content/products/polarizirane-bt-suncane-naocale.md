@@ -4,6 +4,7 @@ price: 29
 image: '/gsbj/images/polarizirane-bt-suncane-naocale.jpg'
 category: 'suncane-naocale'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Polarizirane BT pametne sunčane naočale, sportske bežične stereo audio slušalice ugrađene u okvire.
 Više slika na facebooku:https://www.facebook.com/dadoexpres.bj/

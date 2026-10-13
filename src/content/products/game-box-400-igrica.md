@@ -4,6 +4,7 @@ price: 18
 image: '/gsbj/images/game-box-400-igrica.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Igračka ručna konzola Game Boy Super GAME BOX 400 IGRICA
 Vratite se u djetinjstvo i uživajte u igri sa vašim mališanima uz SUPER GAME BOX 400 in 1

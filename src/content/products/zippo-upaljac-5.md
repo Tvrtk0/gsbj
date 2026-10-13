@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-5.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovaj Black Ice vjetrootporni upaljač koristi lasersku i metodu autograviranja čime se postiže prekrasan filigramski dizajn upaljača u obliku karte „pik as“.

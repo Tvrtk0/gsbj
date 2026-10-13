@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/punjive-baterije-aalr06-2700mah-4-kom-ansmann.jpg
 category: baterijski-ulosci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Punjive baterije AA/LR06 2700mAh / 4 kom. – Razne marke – visok kapacitet i maksimalna sigurnost. Do 1000 punjenja. Pogodne za brzo punjenje.

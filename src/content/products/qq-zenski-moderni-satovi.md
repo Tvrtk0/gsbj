@@ -5,6 +5,7 @@ priceMax: 39
 image: /gsbj/images/qq-zenski-moderni-satovi.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 AKCIJA sada 249kn

@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/strelice-za-pikado.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Mekani plastični vrhovi.
 Set za elektronički pikado.

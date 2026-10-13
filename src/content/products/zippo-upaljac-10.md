@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-10.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovaj upaljač iz visoko poliranog kroma ukrašen je na prednjoj i stražnjoj strani. Mogu se dodati inicijali kako bi ovaj klasični dizajn dobio osobnu notu. Prugasti dizajn je na prednjoj i stražnjoj strani.

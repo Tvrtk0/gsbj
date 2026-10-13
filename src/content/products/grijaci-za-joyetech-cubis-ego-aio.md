@@ -4,6 +4,7 @@ price: 3
 image: '/gsbj/images/grijaci-za-joyetech-cubis-ego-aio.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Grijači za popularni Joyetech Cubis atomizer, odgovaraju i za Joyetech eGo AIO e-cigarete, dostupni su u nekoliko varijanti:
 20-25 kn

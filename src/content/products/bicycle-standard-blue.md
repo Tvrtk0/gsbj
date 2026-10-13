@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/bicycle-standard-blue.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Bicycle Standard Deck je klasik među špilovima karata i idealan je izbor za igru i zabavu s prijateljima i obitelji. Ovaj špil karata je napravljen od visokokvalitetnog papira i premazan plastikom za bolju izdržljivost i brže miješanje.
 

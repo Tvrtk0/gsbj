@@ -4,6 +4,7 @@ price: 13
 image: '/gsbj/images/suncane-naocale-polarized-3.jpg'
 category: 'suncane-naocale'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 U ponudi imamo više od 100 modela poznatoga brenda Gecco
 Polarized

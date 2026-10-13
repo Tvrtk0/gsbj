@@ -5,6 +5,7 @@ priceMax: 20
 image: /gsbj/images/novcanik-kozni-lotto-2.jpg
 category: novcanici-i-torbe
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 • Sa prostorom za kartice, kovanice i papirnati novac.

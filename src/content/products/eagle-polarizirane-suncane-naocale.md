@@ -5,6 +5,7 @@ priceMax: 19
 image: /gsbj/images/eagle-polarizirane-suncane-naocale.jpg
 category: suncane-naocale
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 VISOKA OTPORNOST NA UDARCE I SAVIJANJE

@@ -4,6 +4,7 @@ price: 39
 image: '/gsbj/images/set-za-prezivljavanje-survival-kit-24u1.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Sadržaj paketa
 1 x kremen i strugač Fire Starter

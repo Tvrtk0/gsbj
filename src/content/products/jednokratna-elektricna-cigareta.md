@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/jednokratna-elektricna-cigareta.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Proizvođač: Micro Pod

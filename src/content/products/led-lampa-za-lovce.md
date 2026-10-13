@@ -4,6 +4,7 @@ price: 33
 image: '/gsbj/images/led-lampa-za-lovce.jpg'
 category: 'lampe'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 LED lampa visokih svjetlosnih performansi, sa XH-P 50 LED diodom, glavom i lećom dalekog dometa, fokus snopa se mijenja proširenjem glave svjetiljke.
 Leća za fokusiranje omogućuje promjenu kuta raspršivanja svjetlosti iz širokog mjesta u uski snop…zumiranje

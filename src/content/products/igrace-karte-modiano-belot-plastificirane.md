@@ -4,5 +4,6 @@ price: 3.5
 image: '/gsbj/images/igrace-karte-modiano-belot-plastificirane.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Modiano plastificirane karte za belu.

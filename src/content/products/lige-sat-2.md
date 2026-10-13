@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/lige-sat-2.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Materijal: Ovaj izvrstan i luksuzan muški sat izrađen je od nehrđajućeg čelika. Brojčanik je prekriven rudnim kristalnim staklom kako bi se povećala njegova robusnost i ne može se lako ogrebati kad se nosi. Kožni remen, mekan, otporan na znoj i udoban za nošenje.

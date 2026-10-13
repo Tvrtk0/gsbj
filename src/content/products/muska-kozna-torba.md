@@ -5,6 +5,7 @@ priceMax: 26
 image: /gsbj/images/muska-kozna-torba.jpg
 category: novcanici-i-torbe
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Bilo da se radi o slobodnom vremenu, poslovnoj večeri ili svakodnevnim poslovima; sa svojom torbom izgledat ćete moderno i elegantno u svakoj prigodi. Obogatite svoju garderobu odvažnom kožnom torbom i neka vam sve bitne sitnice budu pri ruci.

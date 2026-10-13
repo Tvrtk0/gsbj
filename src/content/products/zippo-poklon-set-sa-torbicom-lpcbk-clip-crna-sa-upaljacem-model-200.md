@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-poklon-set-sa-torbicom-lpcbk-clip-crna-sa-upaljacem-model-200.jpg
 category: zippo-upaljaci
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Poklon set za upaljač

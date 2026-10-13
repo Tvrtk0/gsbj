@@ -4,6 +4,7 @@ price: 5.5
 image: '/gsbj/images/voopoo-drag-xs-zamjenski-tank.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Zamjenski tank za Drag X i Drag S
 Kapacitet: 4.5ml

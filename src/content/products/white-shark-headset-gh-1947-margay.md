@@ -5,6 +5,7 @@ priceMax: 19
 image: /gsbj/images/white-shark-headset-gh-1947-margay.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Specifikacije:

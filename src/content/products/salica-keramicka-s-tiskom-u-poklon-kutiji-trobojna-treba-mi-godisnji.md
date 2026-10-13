@@ -4,6 +4,7 @@ price: 6
 image: '/gsbj/images/salica-keramicka-s-tiskom-u-poklon-kutiji-trobojna-treba-mi-godisnji.jpg'
 category: 'salice'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Znate li koga kome je potreban godišnji od 6 mjeseci 2 puta godišnje?
 

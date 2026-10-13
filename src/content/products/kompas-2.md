@@ -4,6 +4,7 @@ price: 4.65
 image: '/gsbj/images/kompas-2.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 • Izrađen od materijala visoke čvrstoće, otpornosti na koroziju, visoke žilavosti, male težine i prenosiv.
 • Dolazi s srednjom veličinom fonta, lako se čita i idealno je za lociranje položaja na karti ili na terenu.

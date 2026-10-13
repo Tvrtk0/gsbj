@@ -16,6 +16,8 @@ const products = defineCollection({
     image: z.string(),
     category: z.string(),
     archive: z.boolean().default(false),
+    // Publish date, set by the CMS on a product's first save (auto_now: [create])
+    date: z.coerce.date(),
   }),
 });
 

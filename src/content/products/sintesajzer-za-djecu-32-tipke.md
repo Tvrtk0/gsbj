@@ -5,6 +5,7 @@ priceMax: 12
 image: /gsbj/images/sintesajzer-za-djecu-32-tipke.jpg
 category: igracke
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 SD-332 Sintesajzer za djecu sa 32 tipke na baterije

@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/nargila-nador-20cm.jpg'
 category: 'pusacki-pribor'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Shisha with an elegant design.
 Smoking the shisha produces a significant amount of sweet and mouth-watering smoke.

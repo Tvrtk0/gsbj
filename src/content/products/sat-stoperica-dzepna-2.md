@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/sat-stoperica-dzepna-2.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Mala i lagana: džepna štoperica male je veličine i male težine, što je zgodno za nošenje.

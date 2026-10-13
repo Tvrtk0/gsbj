@@ -4,6 +4,7 @@ price: 6
 image: '/gsbj/images/salica-keramicka-s-tiskom-u-poklon-kutiji-narancasto-roza-sefica.jpg'
 category: 'salice'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Neke šefice jednostavno poboljšavaju radnu atmosferu, olakšavaju posao i pretvaraju ga u gušt.
 

@@ -4,6 +4,7 @@ price: 7.83
 image: '/gsbj/images/usb-auto-punjac-sbox-cc-095-2-ulaza-20-w.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Ulaz: DC 12-24 V
 

@@ -19,6 +19,9 @@ collections:
     create: true
     slug: '{{slug}}'
     extension: 'md'
+    sortable_fields:
+      fields: ['date', 'name', 'price']
+      default: { field: 'date', direction: descending }
     fields:
       - { label: 'Naziv', name: 'name', widget: 'string', required: true }
       - { label: 'Cijena (EUR)', name: 'price', widget: 'number', value_type: 'float', required: true }
@@ -33,6 +36,8 @@ collections:
         display_fields: ['name']
         required: true
       - { label: 'Arhivirano', name: 'archive', widget: 'boolean', default: false }
+      # Set once, on the first save; drives the newest-first order on the site
+      - { label: 'Datum objave', name: 'date', widget: 'datetime', auto_now: [create], output_utc: true }
       - { label: 'Opis', name: 'body', widget: 'text' }
 
   - name: 'categories'

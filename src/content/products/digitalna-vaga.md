@@ -4,6 +4,7 @@ price: 16
 image: '/gsbj/images/digitalna-vaga.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Digitalna viseća vaga za kućnu upotrebu do 200kg
 Vrlo precizna i pouzdana, jednostavna za uporabu.

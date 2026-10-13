@@ -4,6 +4,7 @@ price: 49
 image: '/gsbj/images/casio-muski-rucni-sat.jpg'
 category: 'satovi-i-nakit'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Vodootpornost 50 metara
 Prikaz datuma na 3 sata

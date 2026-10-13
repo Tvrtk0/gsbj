@@ -5,6 +5,7 @@ priceMax: 6.5
 image: /gsbj/images/samsung-tip-c-na-tip-c-podatkovni-kabel-za-punjac-1m.jpg
 category: punjaci-i-kablovi
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 USB Tip-C kabel (EP-DA705BWE)

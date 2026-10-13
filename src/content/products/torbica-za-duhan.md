@@ -5,6 +5,7 @@ priceMax: 12
 image: /gsbj/images/torbica-za-duhan.jpg
 category: pusacki-pribor
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Događa li se i tebi da sjedneš u kafić, izvadiš duhan, rizle, filtere, upaljač... konobar donosi piće a nema gdje odložiti na stol od tvog 'naoružanja'?

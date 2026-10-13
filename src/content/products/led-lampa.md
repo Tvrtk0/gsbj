@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/led-lampa.jpg'
 category: 'lampe'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Led radno svjetlo s visokokvalitetnim LED panelom.
 Ima ručku i vrlo je laka za nošenje.

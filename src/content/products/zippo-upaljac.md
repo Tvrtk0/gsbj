@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac.jpg
 category: zippo-upaljaci
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Brushed Solid Brass upaljač je karakterističan po poliranoj završnoj obradi. Tradicionalna boja čini ovaj završni sloj jednom od najsvestranijih završnih obrada.

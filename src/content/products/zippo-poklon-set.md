@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-poklon-set.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Poklon paket sa Zippo upaljačem je savršen način kako pokloniti Zippo upaljač. Ovaj poklon set uključuje gorivo za upaljač od 113 grama, dozator sa 6 kremena i Zippo upaljač model 200.

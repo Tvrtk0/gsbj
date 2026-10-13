@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/bluetooth-zvucnik-idance-cuty-seelion-gumirano-kuciste-ugradeni-punjac-crni.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 iDance Cuty morski lav je super sladak, dragi portabilni Bluetooth zvucnik snage 10W i autonomije rada na punjivoj bateriji do 8 sati.

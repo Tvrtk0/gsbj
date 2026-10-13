@@ -4,6 +4,7 @@ price: 8
 image: '/gsbj/images/zenski-dugi-cigarspic.jpg'
 category: 'pusacki-pribor'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Vintage Slim Lady
 Držač za cigarete.

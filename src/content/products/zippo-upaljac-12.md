@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-12.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Zippo Upaljač High Polish Black Ice High Polish Wolves Design

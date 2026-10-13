@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/manta-punjac-za-ac220-3xusb-31a.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 USB punjač visokih performansi za istovremeno punjenje do 4 USB uređaja.
 

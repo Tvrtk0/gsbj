@@ -4,6 +4,7 @@ price: 56
 image: '/gsbj/images/zippo-upaljac-6.jpg'
 category: 'zippo-upaljaci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Novi osnovni model Glow In The Dark unosi potpuno novu razinu kreativnosti u vaš omiljeni upaljač otporan na vjetar! Izložite upaljač svjetlu, a zatim isključite svjetlo da vidite kako vaš Zippo upaljač sjaji! Ludilo od boje. Ovaj sjajni novi osnovni model nužan je za svakog Zippo entuzijasta. Elegantan klasični Zippo logo otisnut je na poklopcu upaljača. Dolazi zapakiran u poklon kutiju.
 Model: 49193ZL

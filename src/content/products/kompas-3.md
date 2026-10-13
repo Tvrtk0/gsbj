@@ -4,6 +4,7 @@ price: 5
 image: '/gsbj/images/kompas-3.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Opis:
 Naziv proizvoda: kompas

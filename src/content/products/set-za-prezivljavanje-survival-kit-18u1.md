@@ -4,6 +4,7 @@ price: 37
 image: '/gsbj/images/set-za-prezivljavanje-survival-kit-18u1.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Izuzetan set za preživljavanje povećat će ti šanse izgubiš li se u prirodi ili se nađeš usred katastrofe u urbanom okruženju.
 Sadržaj paketa

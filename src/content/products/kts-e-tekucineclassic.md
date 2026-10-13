@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/kts-e-tekucineclassic.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 KTS Classic E-Tekućina TPD
 Sastav:

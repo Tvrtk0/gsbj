@@ -5,6 +5,7 @@ priceMax: 39
 image: /gsbj/images/muski-sat-qq-q894j202y.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 AKCIJA samo 219 kn

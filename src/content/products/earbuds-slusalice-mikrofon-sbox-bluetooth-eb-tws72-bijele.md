@@ -5,6 +5,7 @@ priceMax: 16
 image: /gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws72-bijele.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 EARBUDS SLUŠALICE + MIKROFON SBOX BLUETOOTH EB-TWS72 BIJELE

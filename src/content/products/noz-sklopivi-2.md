@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/noz-sklopivi-2.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Dužina noža s oštricom: 21 cm
 Probijač stakla na dnu drške

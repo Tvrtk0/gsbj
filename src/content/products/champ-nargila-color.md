@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/champ-nargila-color.jpg
 category: ostalo
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 MATERIJAL ZA DOBAR I IZDRŽAVAN: Sastoji se od stupa od nehrđajućeg čelika, staklene vaze,

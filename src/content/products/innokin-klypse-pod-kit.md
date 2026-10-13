@@ -5,6 +5,7 @@ priceMax: 25
 image: /gsbj/images/innokin-klypse-pod-kit.jpg
 category: elektronske-cigarete-i-tekucine
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Innokin Klypse pod sistem s baterijom od 700 mAh / 1000 mAh i automatskom aktivacijom prilikom uvlačenja, bez pritiskanja tipke.

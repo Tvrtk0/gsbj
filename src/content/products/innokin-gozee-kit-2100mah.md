@@ -4,6 +4,7 @@ price: 46
 image: '/gsbj/images/innokin-gozee-kit-2100mah.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Innokin GOZEE Kit GOZEE pruža beskompromisne performanse u malom, laganom pakiranju. Jednostavan čipset od 60 W, unutarnja baterija od 2100 mAh s cjelodnevnim trajanjem baterije. Uključeni Go Z+ spremnik omogućuje vam uživanje u cijelom asortimanu Z-grijača s odličnim okusom i zadovoljstvom.
 

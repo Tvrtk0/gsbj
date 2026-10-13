@@ -4,6 +4,7 @@ price: 12
 image: '/gsbj/images/elf-bar-rf350-pod.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Elf Bar RF350 Pod
 Elf Barov RF350 Pod kit ne može biti jednostavniji.

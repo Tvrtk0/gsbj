@@ -4,6 +4,7 @@ price: 26
 image: '/gsbj/images/noz-lovacki.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Nož model: COLUMBIA G61 sa futrolom
 Dužina noža s oštricom: 30 cm

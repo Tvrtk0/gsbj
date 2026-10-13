@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/manta-premium-power-bank-7000mah.jpg'
 category: 'baterijski-ulosci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Krećete na put?
 Namjeravate koristiti pametni telefon, tablet, digitalni foto aparat ili bilo koji uređaj koji koristi USB napajanje? Powerbank je dodatna baterija dizajnirana za punjenje upravo ovakvih prijenosnih uređaja, stvorena je za ljude koji često putuju i stoga nemaju pristup električnoj mreži za napajanje.

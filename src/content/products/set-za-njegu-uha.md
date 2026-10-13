@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/set-za-njegu-uha.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Set za zdrastvenu njegu ušiju.
 Set izrađen od visokokvalitetnog nehrđajućeg čelika. Kao rezultat toga, oni su izdržljivi i protiv hrđe.

@@ -4,6 +4,7 @@ price: 8.5
 image: '/gsbj/images/memorija-usb-gooddrive-piccolo-32gb.jpg'
 category: 'pc-oprema'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 • Kapacitet: 32 GB
 • Brzina čitanja: 20 Mb/s

@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/fm-transmiter-g29.jpg
 category: tranzistori-fm-i-transmiteri
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 FM TRANSMITER G29

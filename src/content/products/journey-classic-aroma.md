@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/journey-classic-aroma.jpg
 category: elektronske-cigarete-i-tekucine
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 ODLIČNA!!! za ljubitelje desertnih okusa...

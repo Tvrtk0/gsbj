@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-torbica.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Zippo crna torbica za upaljač s metalnom kopčom je izrađena od prave kože i moderno je dizajnirana. Metalna kopča kod ove torbice omogućava postavljanje na sve remene i džepove tei sigurno držanje Zippo vjetrootpornog upaljača. Dolazi pakirana u u crnu Zippo kutiju.

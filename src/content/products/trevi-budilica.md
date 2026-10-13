@@ -4,6 +4,7 @@ price: 14
 image: '/gsbj/images/trevi-budilica.jpg'
 category: 'satovi-i-nakit'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Budilica TREVI SL 3820 je vrhunski sat koji će vas probuditi svakog jutra na vrijeme.
 Ovu budilicu karakterizira elegantan kvadratni oblik, veliki brojčanik i jasno vidljivi brojevi.

@@ -5,6 +5,7 @@ priceMax: 85
 image: /gsbj/images/fitwatch-x-smart-watch-5.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Legura / Tehnologija Pametnog Sata Na Dodir / Zaobljeno Pravokutno Kućište / IP67 Vodootporan

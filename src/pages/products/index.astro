@@ -4,7 +4,10 @@ import CategoryFilter from '../../components/CategoryFilter.astro';
 import ProductGrid from '../../components/ProductGrid.astro';
 import { getCollection } from 'astro:content';
 
-const allProducts = await getCollection('products', ({ data }) => !data.archive);
+// Newest first; products published together keep their alphabetical order (the sort is stable).
+const allProducts = (await getCollection('products', ({ data }) => !data.archive)).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
 const categories = await getCollection('categories');
 
 const categoryMap = new Map(categories.map((c) => [c.data.slug, c.data.name]));

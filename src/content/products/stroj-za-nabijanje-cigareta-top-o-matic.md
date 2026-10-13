@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/stroj-za-nabijanje-cigareta-top-o-matic.jpg
 category: pusacki-pribor
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Napravite svoje cigarete brzo i jednostavno s profesionalnim strojem za nabijanje cigareta.

@@ -5,6 +5,7 @@ priceMax: 13
 image: /gsbj/images/precizna-vaga-za-nakit.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Precizna Vaga Za Nakit 0.1g - 500g i od 0,01-200g

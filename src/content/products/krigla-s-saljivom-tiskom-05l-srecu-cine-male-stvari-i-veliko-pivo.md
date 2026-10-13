@@ -4,6 +4,7 @@ price: 12
 image: '/gsbj/images/krigla-s-saljivom-tiskom-05l-srecu-cine-male-stvari-i-veliko-pivo.jpg'
 category: 'salice'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Krigla za vesele "pivopije" sa šaljivim natpisom.
 

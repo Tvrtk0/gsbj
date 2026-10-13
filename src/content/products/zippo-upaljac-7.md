@@ -4,6 +4,7 @@ price: 59
 image: '/gsbj/images/zippo-upaljac-7.jpg'
 category: 'zippo-upaljaci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Svi Venetian® upaljači imaju ukrasne dekoracije na obje strane upaljača. Ovaj visoko polirani mjedeni upaljač ima cvjetnu dekoraciju i prostor za inicijale.
 Model: 352B

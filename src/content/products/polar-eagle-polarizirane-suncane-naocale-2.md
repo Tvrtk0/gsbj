@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/polar-eagle-polarizirane-suncane-naocale-2.jpg'
 category: 'suncane-naocale'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 VISOKA OTPORNOST NA UDARCE I SAVIJANJE
 Savitljive ručke okvira

@@ -4,6 +4,7 @@ price: 8
 image: '/gsbj/images/igrace-karte-modiano-belot-100-plastica.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Karte za belu “Modiano” 100% PVC:
 

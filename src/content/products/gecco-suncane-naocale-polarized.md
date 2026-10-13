@@ -5,6 +5,7 @@ priceMax: 13
 image: /gsbj/images/gecco-suncane-naocale-polarized.jpg
 category: suncane-naocale
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 U ponudi imamo više od 100 modela

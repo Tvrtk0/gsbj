@@ -4,5 +4,6 @@ price: 2
 image: '/gsbj/images/alkalna-baterija-a23-12v-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Alkalna baterija A23 12V – ANSMANN – za daljinske upravljače, ključeve, kalkulatore, satove, kompjutere i razne druge uređaje.

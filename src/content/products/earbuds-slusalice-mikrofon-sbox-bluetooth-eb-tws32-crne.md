@@ -5,6 +5,7 @@ priceMax: 19
 image: /gsbj/images/earbuds-slusalice-mikrofon-sbox-bluetooth-eb-tws32-crne.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Chipset: Bluetrum 5376A

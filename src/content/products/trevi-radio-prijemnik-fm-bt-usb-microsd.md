@@ -5,6 +5,7 @@ priceMax: 19
 image: /gsbj/images/trevi-radio-prijemnik-fm-bt-usb-microsd.jpg
 category: tranzistori-fm-i-transmiteri
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Trevi RA 7F20 BT je višepojasni prijenosni radio prijemnik, idealan je za slušanje omiljenih radio stanica gdje god to poželite.

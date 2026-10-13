@@ -4,6 +4,7 @@ price: 13.14
 image: '/gsbj/images/swissten-zvucnik-bluetooth-fm-3w-microsd-crni-i-metal.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Kompaktan, metalik Bluetooth mini zvučnik Swissten i-METAL s utorom za microSD karticu.
 Baterija 300 mAh.

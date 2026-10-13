@@ -4,6 +4,7 @@ price: 17
 image: '/gsbj/images/car-fm-transmitter-bluetooth-50.jpg'
 category: 'tranzistori-fm-i-transmiteri'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Bluetooth FM odašiljač visokih performansi: Čvrste Bluetooth i FM veze prenose glazbu izravno s vašeg telefona na zvučni sustav vašeg automobila.
 Jednostavno uparivanje: jednostavno uparite svoj pametni telefon u nekoliko sekundi i puštajte glazbu izravno s telefona na zvučni sustav vašeg automobila. Automatski će se povezati sa uparenim Bluetooth uređajem kada se uključi.

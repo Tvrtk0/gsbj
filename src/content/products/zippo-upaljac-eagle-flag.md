@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-eagle-flag.jpg
 category: zippo-upaljaci
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovaj Street Chrome™ upaljač je u boji s domoljubnim dizajnom. Dolazi zapakirano u poklon kutiji. Za optimalne performanse napunite Zippo tekućinom za upaljač.

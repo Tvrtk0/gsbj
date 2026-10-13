@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-26.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Smeđe boje. Dolazi zapakiran u poklon kutiji. Za optimalne performanse napunite Zippo tekućinom za upaljač.

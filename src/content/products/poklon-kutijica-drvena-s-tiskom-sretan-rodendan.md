@@ -4,6 +4,7 @@ price: 4.65
 image: '/gsbj/images/poklon-kutijica-drvena-s-tiskom-sretan-rodendan.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Poklon kutijica s natpisom "Sretan rođendan".
 

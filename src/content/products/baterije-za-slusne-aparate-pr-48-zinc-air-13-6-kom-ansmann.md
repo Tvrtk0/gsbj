@@ -4,5 +4,6 @@ price: 6
 image: '/gsbj/images/baterije-za-slusne-aparate-pr-48-zinc-air-13-6-kom-ansmann.jpg'
 category: 'baterijski-ulosci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Baterije za slušne aparate PR 48, PR41, PR44, PR70 Zinc-Air 10, 13, 675, 312 /6 kom. – ANSMANN – za analogne i digitalne slušne aparate blister 1/6

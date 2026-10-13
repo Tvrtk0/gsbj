@@ -4,6 +4,7 @@ price: 15
 image: '/gsbj/images/memorija-usb-kioxia-toshiba-hayabusa-128gb-bijeli.jpg'
 category: 'pc-oprema'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Toshiba USB memorija TransMemory ™ Hayabusa U202 olakšava sigurno pohranjivanje vaših podataka.
 

@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/bezicno-zvono.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Povezivanje: bežično
 CE i ROHS certifikat

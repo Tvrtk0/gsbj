@@ -4,5 +4,6 @@ price: 13
 image: '/gsbj/images/set-za-poker.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Nakon kupnje ovog profesionalnog seta za poker sve što Vam preostaje je- zabaviti se. Paket se sastoji od: 100 profesionalnih čipova 2 kompleta karata 1 čip dealer.

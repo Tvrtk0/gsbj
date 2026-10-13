@@ -5,6 +5,7 @@ priceMax: 6
 image: /gsbj/images/swissten-selfie-drzac-za-mobitel-bluetooth.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Swissten teleskopski selfie štap s Bluetooth daljinskim upravljačem i silikonskim kućištem.

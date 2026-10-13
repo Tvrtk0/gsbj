@@ -4,6 +4,7 @@ price: 12
 image: '/gsbj/images/modiano-jumbo-index-black-100-pvc.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Dobrodošli u svijet vrhunske kvalitete i poker elegancije! Ovaj izvanredan špil igraćih karata oduševit će vas svojim performansama i dodatnim pogodnostima koje će poboljšati vaše poker igre.
 Karte su izrađene od najkvalitetnijeg 100% PVC materijala koji pruža izuzetnu izdržljivost i trajnost. Bez obzira koliko često igrate, ove karte će zadržati svoj originalni sjaj i izvrsno rukovanje kroz brojne partije pokera.

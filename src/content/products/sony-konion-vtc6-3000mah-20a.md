@@ -4,6 +4,7 @@ price: 7.9
 image: '/gsbj/images/sony-konion-vtc6-3000mah-20a.jpg'
 category: 'baterijski-ulosci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Specifikacije:
 

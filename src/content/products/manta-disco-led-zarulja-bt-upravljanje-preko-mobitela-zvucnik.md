@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik.jpg
 category: slusalice-i-zvucnici
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovaj proizvod ima jedinstveni ekskluzivni 2 u 1 dizajn. Pametnu LED lampu sa Bluetooth zvučnikom.

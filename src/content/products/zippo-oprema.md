@@ -5,6 +5,7 @@ priceMax: 4
 image: /gsbj/images/zippo-oprema.jpg
 category: pusacki-pribor
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Benzin 4,00€ / 125ml i 10,00€ / 355ml

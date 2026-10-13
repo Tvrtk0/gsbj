@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/suncane-naocale-rpn.jpg'
 category: 'suncane-naocale'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 U ponudi imamo više od 20 modela poznatoga brenda RPN polarized sunčanih naočala za žene i muškarce koje dolaze sa kutijom, krpicom za poliranje i uzorkom za provjeru polarizacije stakala.
 

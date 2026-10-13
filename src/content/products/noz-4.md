@@ -4,6 +4,7 @@ price: 19
 image: '/gsbj/images/noz-4.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Red Skull sklopivi taktički nož visoke tvrdoće oštra oštrica
 za kampiranje na otvorenom

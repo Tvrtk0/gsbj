@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/led-svijetlo-za-bic.jpg'
 category: 'lampe'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 LED Svijetlo sa ugrađenim zvonom za bicikl na USB punjač
 NOVO N O V O NOVO u Gift Shopu

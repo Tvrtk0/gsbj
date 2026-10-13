@@ -5,6 +5,7 @@ priceMax: 20
 image: /gsbj/images/noz-columbia.jpg
 category: nozevi
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Opis

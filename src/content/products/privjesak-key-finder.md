@@ -4,6 +4,7 @@ price: 2.65
 image: '/gsbj/images/privjesak-key-finder.jpg'
 category: 'privjesci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Jednostavno zviždite i ovaj će privjesak za ključeve treptati i piskati kako bi vam pomogao pronaći izgubljene ključeve. Pritisnite tipku da osvijetlite ključanicu.
 Jednostavan za korištenje i praktičan za nošenje, mini Cute.

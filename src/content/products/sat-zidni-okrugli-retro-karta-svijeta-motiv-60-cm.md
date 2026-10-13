@@ -4,6 +4,7 @@ price: 24
 image: '/gsbj/images/sat-zidni-okrugli-retro-karta-svijeta-motiv-60-cm.jpg'
 category: 'satovi-i-nakit'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Ovaj veličanstveni sat karta svijeta vintage estetike izgledat će fantastično u vašem domu ili uredu.
 

@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-8.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Fotografija mirne scene šume prikazana je na licu ovog upaljača Black Ice®. Dolazi zapakiran u poklon kutiju.

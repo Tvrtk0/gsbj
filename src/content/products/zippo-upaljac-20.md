@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-20.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Dodajte ovaj jednostavan, ali jedinstven vjetrootporni upaljač u svoju specijalnu Zippo kolekciju.

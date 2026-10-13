@@ -4,6 +4,7 @@ price: 18
 image: '/gsbj/images/swissten-punjac-za-auto-1xusb-c-55a-super-fast-pd30-45w-crni.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Minimalistički metalni auto punjač sa USB-C izlazom, totalne snage 45W i Power Delivery Technology.
 Pakirano u SWISSTEN maloprodajnom pakiranju.

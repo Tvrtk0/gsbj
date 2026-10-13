@@ -4,6 +4,7 @@ price: 26
 image: '/gsbj/images/joyetech-ego-aio-start-kit.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Novi Joyetech eGo AIO “All-in-One” komplet karakterizira jedinstveni dizajn isparivača spojenog s baterijom, mogućnost podešavanja protoka zraka, te punjenje s gornje strane tanka, a jedna od njegovih zanimljivih osobina također je mogućnost mijenjanja boje svjetla u unutrašnjosti tanka.
 

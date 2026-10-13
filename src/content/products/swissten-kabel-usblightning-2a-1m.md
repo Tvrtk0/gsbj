@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/swissten-kabel-usblightning-2a-1m.jpg'
 category: 'punjaci-i-kablovi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Swissten USB/Lightning podatkovni kabel s visokokvalitetnim omotom i metalnim nastavcima konektora.
 Kabel je pojačan i prenosi više struje (do 2A), te može obraditi brz prijenos podataka od 480 Mbps. Vijek trajanje kabela je više od 10000 savijanja.

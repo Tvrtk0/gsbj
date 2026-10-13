@@ -4,6 +4,7 @@ price: 26.41
 image: '/gsbj/images/poklon-set-2.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Set za svakoga muškarca
 Sat, privjesak, upaljač, nož za otvaranje pisma, kemijska olovka.

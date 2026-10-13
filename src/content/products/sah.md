@@ -5,6 +5,7 @@ priceMax: 36
 image: /gsbj/images/sah.jpg
 category: suveniri-i-pokloni
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Ručno izrezbarene figure za šah od grabovog drveta i šahovska ploča od bukve i breze.

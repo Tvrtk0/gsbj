@@ -4,6 +4,7 @@ price: 29
 image: '/gsbj/images/eonko-classic-benz-300sl-bluetooth-zvucnik.jpg'
 category: 'slusalice-i-zvucnici'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 EONKO Classic Benz 300SL Bluetooth zvučnik u obliku automobila s TF USB FM AUX Handsfree TWS LED svjetlom micro SD
 Bluetooth zvučnik s izgledom sportskog automobila, ima gotovo sve. Na primjer, kao zvučnik ima dobru kvalitetu zvuka, koja je puno bolja od običnih malih zvučnika; na primjer, kao kućni ukras, ima lijep oblik i malu veličinu; na primjer, kao igračka, njegove se gume mogu kotrljati i možete ga voziti po tlu. Ovo je naš višenamjenski proizvod, bežični zvučnik, isprobajte ga sada!

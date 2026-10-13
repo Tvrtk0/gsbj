@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/qq-sportski-sat.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Q&Q satovi su jedan od prepoznatljivih brendova u svijetu sa prodajom od preko 20 milijuna primjeraka satova godišnje. Brend je nastao još 1976. godine i u vlasništvu je CITIZEN WATCH CO. LTD Japan.

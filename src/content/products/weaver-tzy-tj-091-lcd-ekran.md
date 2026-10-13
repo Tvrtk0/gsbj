@@ -5,6 +5,7 @@ priceMax: 20
 image: /gsbj/images/weaver-tzy-tj-091-lcd-ekran.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Opis

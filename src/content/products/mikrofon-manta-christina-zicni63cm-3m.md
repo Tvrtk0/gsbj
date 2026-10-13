@@ -4,6 +4,7 @@ price: 9.5
 image: '/gsbj/images/mikrofon-manta-christina-zicni63cm-3m.jpg'
 category: 'pc-oprema'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Manta žicani mikrofon MIC005 CHRISTINA namijenjen je za karaoke i scenske nastupe.
 Poseban dizajn glave mikrofona ispunjen spužvom savršeno potiskuje neželjenu buku i utjecaj okoline, cineci Manta mikrofon MIC005 savršenim za prijenos zvuka, govora ili pjevanja bez nepotrebnih smetnji koje dolaze iz okoline.

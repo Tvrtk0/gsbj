@@ -4,6 +4,7 @@ price: 27
 image: '/gsbj/images/maketa-motora.jpg'
 category: 'suveniri-i-pokloni'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Opis
 Ukras, metalni motocikl

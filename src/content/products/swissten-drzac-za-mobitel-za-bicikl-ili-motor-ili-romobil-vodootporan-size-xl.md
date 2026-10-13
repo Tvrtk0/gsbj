@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/swissten-drzac-za-mobitel-za-bicikl-ili-motor-ili-romobil-vodootporan-size-xl.jpg
 category: novcanici-i-torbe
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Vodootporno kućište za pametni telefon kojeg možete koristiti na biciklu, motoru ili romobilu. Opremljen za sa zaštitnim poklopce i utorima za uključivanje slušalica.

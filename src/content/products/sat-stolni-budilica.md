@@ -5,6 +5,7 @@ priceMax: 10
 image: /gsbj/images/sat-stolni-budilica.jpg
 category: satovi-i-nakit
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Sat budilica model motocikla

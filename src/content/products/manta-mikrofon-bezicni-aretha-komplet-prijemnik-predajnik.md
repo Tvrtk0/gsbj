@@ -4,6 +4,7 @@ price: 16
 image: '/gsbj/images/manta-mikrofon-bezicni-aretha-komplet-prijemnik-predajnik.jpg'
 category: 'pc-oprema'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Manta bežični mikrofon MIC002 dizajniran je za karaoke uređaje i vrhunsko je rješenje za svaku pozornicu.
 U kompletu dolazi prijemnik koji se uključuje na utor mikrofona na audio uređaju (na primjer karaoke zvučnik) i mikrofon sa ugrađenim odašiljačem.

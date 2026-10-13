@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/lg-hg2-3000-mah-20a-li-ion-baterija.jpg'
 category: 'baterijski-ulosci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Visokokvalitetna LG baterija ravnog pola i velikog kapaciteta, posebno pogodna za sub-ohm setupe.
 Karakteristike:

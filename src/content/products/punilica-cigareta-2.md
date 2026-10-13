@@ -4,6 +4,7 @@ price: 55
 image: '/gsbj/images/punilica-cigareta-2.jpg'
 category: 'pusacki-pribor'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Trenutno naš najjači model punilice na struju
 Stroj za punjenje cigareta mora imati svaki pušač. Ovaj odlični stroj može pomoći uštedjeti znatan novac. Osim toga, možete uživati u procesu izrade cigareta kod kuće. Štoviše, cigareta koju ovaj stroj napravi ima bolji okus od kupljenih cigareta, bez dodanih kemikalija i manje katrana! Značajke: Jednostavan za korištenje

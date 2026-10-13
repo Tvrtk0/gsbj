@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/kozni-muski-novcanik-2.jpg
 category: novcanici-i-torbe
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Novčanik od 100% kože iz Italije.

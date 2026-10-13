@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-23.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Zippo Lighter Croatia Grb

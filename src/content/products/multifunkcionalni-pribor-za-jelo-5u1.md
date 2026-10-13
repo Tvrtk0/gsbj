@@ -4,6 +4,7 @@ price: 6.5
 image: '/gsbj/images/multifunkcionalni-pribor-za-jelo-5u1.jpg'
 category: 'ostalo'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 5 u 1 multifunkcionalni pribor za jelo je proizvod koji mora imati svaka osoba koja barem jednom godišnje dan provede u prirodi. Izrežite, otvorite piće ili konzervu, jedite i uživajte!
 Opis:Pribor za jelo koji u jednom proizvodu sadrži sve što vam je potrebno: žlicu, vilicu, nožić, otvarač za konzerve i otvarač za flaše.

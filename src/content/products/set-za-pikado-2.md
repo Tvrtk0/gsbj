@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/set-za-pikado-2.jpg'
 category: 'igracke'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Težina strelice: 14g
 Dužina strelica: 16 cm

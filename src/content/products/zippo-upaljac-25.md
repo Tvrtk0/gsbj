@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-25.jpg
 category: zippo-upaljaci
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 American Stamp on Flag

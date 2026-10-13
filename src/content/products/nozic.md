@@ -4,6 +4,7 @@ price: 9
 image: '/gsbj/images/nozic.jpg'
 category: 'nozevi'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Sklopivi džepni nožić
 Dužina sklopljenog noža: 8,5 cm

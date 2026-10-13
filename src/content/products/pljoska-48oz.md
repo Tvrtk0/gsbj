@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/pljoska-48oz.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Opis

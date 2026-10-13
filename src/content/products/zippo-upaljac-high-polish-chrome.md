@@ -4,6 +4,7 @@ price: 33.98
 image: '/gsbj/images/zippo-upaljac-high-polish-chrome.jpg'
 category: 'zippo-upaljaci'
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 Classic High Polish Chrome
 256,00 kn

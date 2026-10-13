@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/zippo-upaljac-13.jpg
 category: zippo-upaljaci
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovaj visoko polirani kromirani upaljač ima na sebi amblem Jack Daniel’s®.

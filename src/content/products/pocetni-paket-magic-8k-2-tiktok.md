@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/starter-kit-magic-8k-2-tick-tock.webp
 category: elektronske-cigarete-i-tekucine
 archive: false
+date: 2026-09-30T13:13:35Z
 ---
 
 Magic 8k  iz Tick Tocka , visokoučinkoviti model s intenzivnim i ukusnim okusima. Imamo 20 raznih vrsta okusa.

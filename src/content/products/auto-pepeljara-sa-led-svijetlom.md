@@ -5,6 +5,7 @@ priceMax: 6.5
 image: /gsbj/images/auto-pepeljara-sa-led-svijetlom.jpg
 category: pusacki-pribor
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 Ovo su prijenosne pepeljare koje su idealne za korištenje u automobilu. Zbog zatvaranja nema neugodnog mirisa cigareta. Pepeljara nudi 2 ubojice gluteusa. Integrirani LED svijetli čim se otvori poklopac.

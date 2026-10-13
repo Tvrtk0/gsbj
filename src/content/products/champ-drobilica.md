@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/champ-drobilica.jpg
 category: ostalo
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 
 C.HIGH BLING BLING LEAF DROBILICA 50MM

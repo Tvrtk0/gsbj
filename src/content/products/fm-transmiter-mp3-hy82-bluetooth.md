@@ -5,6 +5,7 @@ priceMax: null
 image: /gsbj/images/fm-transmiter-mp3-hy82-bluetooth.jpg
 category: tranzistori-fm-i-transmiteri
 archive: true
+date: 2026-04-05T17:56:43Z
 ---
 
 FM TRANSMITER MP3 Bluetooth Razni modeli u ponudi

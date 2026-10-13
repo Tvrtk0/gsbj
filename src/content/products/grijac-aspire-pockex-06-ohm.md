@@ -4,6 +4,7 @@ price: 4
 image: '/gsbj/images/grijac-aspire-pockex-06-ohm.jpg'
 category: 'elektronske-cigarete-i-tekucine'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Uz samu e-tekućinu upravo je grijač najvažniji dio Vaše e-cigarete. Ovisno o njegovom otporu, materijalu od kojeg je napravljena žica, kao i vrsti upijajućeg materijala (pamuk, mesh ili silica), uvelike će ovisiti aroma i kvaliteta Vašeg iskustva. Upravo zato u ponudi imamo različite vrste grijača, kako biste mogli personalizirati e-cigaretu prema svojim potrebama.
 Otpor grijača: 0,6 / 1.2 Ohma

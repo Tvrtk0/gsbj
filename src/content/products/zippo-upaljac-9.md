@@ -4,6 +4,7 @@ price: 56
 image: '/gsbj/images/zippo-upaljac-9.jpg'
 category: 'zippo-upaljaci'
 archive: false
+date: 2026-04-05T17:56:43Z
 ---
 Ovaj High Polish Chrome Venetian® upaljač ima ukrasne dekoracije na obje strane upaljača.
 Model: 352
