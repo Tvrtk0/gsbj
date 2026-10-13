@@ -1,10 +1,12 @@
 ---
-name: 'Precizna vaga za nakit'
-price: 13
-image: '/gsbj/images/precizna-vaga-za-nakit.jpg'
-category: 'ostalo'
+name: Precizna vaga za nakit
+price: 11
+priceMax: 13
+image: /gsbj/images/precizna-vaga-za-nakit.jpg
+category: ostalo
 archive: false
 ---
+
 Precizna Vaga Za Nakit 0.1g - 500g i od 0,01-200g
 Digitalna precizna džepna vagica
 Specifikacija:
