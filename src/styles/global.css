@@ -97,3 +97,9 @@
 #search .pagefind-ui__result-image {
   object-fit: contain;
 }
+#search mark {
+  background: var(--color-tint);
+  color: inherit;
+  border-radius: 0.2em;
+  padding: 0 0.1em;
+}
