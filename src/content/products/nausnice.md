@@ -1,7 +1,7 @@
 ---
 name: Naušnice
 price: 6.5
-priceMax: null
+priceMax: 10
 image: /gsbj/images/nausnice.jpg
 category: satovi-i-nakit
 archive: false
