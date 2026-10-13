@@ -52,6 +52,15 @@ const base = import.meta.env.BASE_URL;
 
       <CategoryFilter categories={categoryList} />
       <ProductGrid products={allProducts} />
+      <script is:inline>
+        // Opened with ?q= (e.g. from the 404 page): results arrive after Pagefind loads, so hide
+        // the filters and the default grid before first paint instead of swapping them under the
+        // reader (layout shift). catalog.ts shows the grid again once it has rendered.
+        if (new URLSearchParams(location.search).get('q')) {
+          document.getElementById('category-filter').hidden = true;
+          document.getElementById('product-grid').style.visibility = 'hidden';
+        }
+      </script>
 
       <div id="search-empty" hidden class="text-center py-16">
         <p class="text-lg font-medium">Nema rezultata za „<span data-term></span>“</p>

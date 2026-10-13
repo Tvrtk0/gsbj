@@ -6,6 +6,7 @@ import AgeGate from '../components/AgeGate.astro';
 import SEO from '../components/SEO.astro';
 import SocialLinks from '../components/SocialLinks.astro';
 import { getCollection } from 'astro:content';
+import { Font } from 'astro:assets';
 
 interface Props {
   title: string;
@@ -36,6 +37,8 @@ const footerLinks = [
     <link rel="icon" type="image/png" sizes="32x32" href={`${base}favicon-32.png`} />
     <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
     <meta name="theme-color" content="#a0443f" />
+    <Font cssVariable="--font-inter" preload />
+    <Font cssVariable="--font-fraunces" preload />
     <SEO title={title} description={description} image={image} type={type} jsonLd={jsonLd} />
   </head>
   <body class="min-h-screen flex flex-col bg-background text-foreground">

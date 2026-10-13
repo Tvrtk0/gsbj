@@ -1,10 +1,9 @@
 @import 'tailwindcss';
-@import '@fontsource-variable/fraunces';
-@import '@fontsource-variable/inter';
 
 @theme {
-  --font-sans: 'Inter Variable', system-ui, -apple-system, sans-serif;
-  --font-display: 'Fraunces Variable', Georgia, serif;
+  /* Faces and fallbacks come from the Astro fonts config (<Font> in BaseLayout) */
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-fraunces), Georgia, serif;
 
   /* Rosewood: a red-brown with no yellow in it. Every text pair here is at least 4.5:1 */
   --color-primary: #a0443f;

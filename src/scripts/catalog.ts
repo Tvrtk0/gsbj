@@ -61,6 +61,7 @@ function render({ animate = true } = {}) {
   });
 
   chips.hidden = searching;
+  grid.style.visibility = '';
   chipButtons.forEach((b) => {
     const active = b.dataset.category === category;
     b.classList.toggle('active', active);
