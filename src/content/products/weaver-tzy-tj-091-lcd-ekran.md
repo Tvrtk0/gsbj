@@ -1,10 +1,12 @@
 ---
-name: 'Weaver TZY TJ-091 + LCD ekran'
-price: 20
-image: '/gsbj/images/weaver-tzy-tj-091-lcd-ekran.jpg'
-category: 'ostalo'
+name: Weaver TZY TJ-091 + LCD ekran
+price: 12
+priceMax: 20
+image: /gsbj/images/weaver-tzy-tj-091-lcd-ekran.jpg
+category: ostalo
 archive: false
 ---
+
 Opis
 Način napajanja: USB punjenje
 Punjiva baterija: Litijeva baterija 18650 serije 1500mAh
