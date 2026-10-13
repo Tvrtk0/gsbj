@@ -1,10 +1,12 @@
 ---
-name: 'Q&Q sportski sat'
-price: 33
-image: '/gsbj/images/qq-sportski-sat.jpg'
-category: 'satovi-i-nakit'
+name: Q&Q sportski sat
+price: 39
+priceMax: null
+image: /gsbj/images/qq-sportski-sat.jpg
+category: satovi-i-nakit
 archive: false
 ---
+
 Q&Q satovi su jedan od prepoznatljivih brendova u svijetu sa prodajom od preko 20 milijuna primjeraka satova godišnje. Brend je nastao još 1976. godine i u vlasništvu je CITIZEN WATCH CO. LTD Japan.
 Poznati su po odličnoj kvaliteti i vrlo pristupačnoj cijeni, prodaju se u više od 150 zemalja diljem svijeta.
 Q&Q ima širok spektar satova za svačije potrebe i pokreću ih japanski MIYOTA mehanizmi.
