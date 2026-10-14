@@ -7,7 +7,11 @@ const pathname = Astro.url.pathname;
 
 {/* Phones navigate with BottomNav, so the header is just the logo there */}
 <nav class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3.5 md:px-8 lg:px-0">
-  <a href={base} class="font-display text-xl md:text-2xl font-semibold tracking-tight text-primary">Gift Shop Bjelovar</a>
+  <a href={base} class="press flex items-center gap-2.5 font-display text-xl md:text-2xl font-semibold tracking-tight text-primary">
+    {/* Same mark as the favicon; decorative, the name next to it is the link text */}
+    <img src={`${base}favicon.svg`} alt="" width="32" height="32" class="w-7 h-7 md:w-8 md:h-8 rounded-lg" />
+    Gift Shop Bjelovar
+  </a>
 
   <ul class="hidden md:flex gap-8">
     {navLinks.map(({ href, label }) => (
