@@ -20,8 +20,11 @@ const KEEP_DAYS = 30;
 const AS_OF = '03:00';
 const KASA = 'src/data/kasa.json';
 
-/** Identifies the shop in file names (točka VI.): type, address, internal code */
-const STORE = { kind: 'trgovina', address: 'Augusta Šenoe 25 Bjelovar', code: 'P01' };
+/**
+ * Identifies the shop in file names (točka VI.): type, address, and its code. The code is the
+ * business premises label from fiscalisation (receipts read "…/PJ1/1": premises PJ1, till 1).
+ */
+const STORE = { kind: 'trgovina', address: 'Augusta Šenoe 25 Bjelovar', code: 'PJ1' };
 
 export interface Article {
   code: string;
@@ -86,7 +89,7 @@ export function publishedDays(today = zagrebToday()): string[] {
 
 export const zagrebToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Zagreb' }).format(new Date());
 
-/** e.g. "trgovina_Augusta-Senoe-25-Bjelovar_P01_001_14.10.2026_03-00" (no extension) */
+/** e.g. "trgovina_Augusta-Senoe-25-Bjelovar_PJ1_001_14.10.2026_03-00" (no extension) */
 export function fileName(day: string): string {
   const seq = Math.round((Date.parse(day) - Date.parse(FIRST_DAY)) / 86_400_000) + 1;
   const [y, m, d] = day.split('-');
