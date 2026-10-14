@@ -33,7 +33,7 @@ const HEADER = [
   'Maloprodajna cijena',
   'Poseban oblik prodaje',
   'Naziv posebnog oblika prodaje',
-  `Dodatna cijena ${formatDateHr(ANCHOR_DATE).replace(/ /g, '')}`,
+  `Dodatna cijena ${formatDateHr(ANCHOR_DATE)}`,
   'Barkod',
   'Dostupnost',
   'Datum dodatne cijene',
@@ -64,7 +64,7 @@ export function csv(products: ListedProduct[]): string {
         amount(anchor),
         '',
         'DA',
-        formatDateHr(anchor.date).replace(/ /g, ''),
+        formatDateHr(anchor.date),
       ];
     });
   return [HEADER, ...rows].map((r) => r.map(cell).join(';')).join('\r\n') + '\r\n';

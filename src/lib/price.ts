@@ -18,9 +18,9 @@ export function formatPriceFrom(price: number, priceMax?: number): string {
   return priceMax === undefined ? `${price.toFixed(2)} €` : `od ${price.toFixed(2)} €`;
 }
 
-/** "2026-09-10" → "10. 9. 2026." */
+/** "2026-09-10" → "10.9.2026." (the compact form; preferred over the spaced pravopis one) */
 export function formatDateHr(isoDay: string): string {
   const [y, m, d] = isoDay.split('-').map(Number);
-  return `${d}. ${m}. ${y}.`;
+  return `${d}.${m}.${y}.`;
 }
 
