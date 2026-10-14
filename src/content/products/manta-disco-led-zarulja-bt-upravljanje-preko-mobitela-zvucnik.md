@@ -1,6 +1,6 @@
 ---
 name: Manta disco LED žarulja sa zvučnikom
-price: 15.8
+price: 19.78
 priceMax: null
 image: /gsbj/images/manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik.jpg
 category: slusalice-i-zvucnici

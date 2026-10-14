@@ -74,7 +74,7 @@ export const ANCHORS: Record<string, Anchor> = {
   'grijaci-za-joyetech-cubis-ego-aio': { price: 3, date: '2026-09-10' },
   'igrace-karte-modiano-belot-100-plastica': { price: 8, date: '2026-09-10' },
   'igrace-karte-modiano-belot-plastificirane': { price: 3.5, date: '2026-09-10' },
-  'innokin-coolfire-z80-80w-zenith-2-tank-55ml': { price: 69, date: '2026-09-10' },
+  'innokin-coolfire-z80-80w-zenith-2-tank-55ml': { price: 69, date: '2026-09-10' }, // kasa 6754 INNOKIN COLLFIRE Z80: 69,00
   'innokin-go-z-kit-1500mah-2': { price: 26, priceMax: 29, date: '2026-09-10' },
   'innokin-gozee-kit-2100mah': { price: 46, date: '2026-09-10' },
   'innokin-klypse-pod-kit': { price: 18, priceMax: 25, date: '2026-09-10' },
@@ -117,14 +117,14 @@ export const ANCHORS: Record<string, Anchor> = {
   'lule': { price: 21.9, date: '2026-09-10' },
   'maketa-motora': { price: 27, date: '2026-09-10' },
   'manikir-set': { price: 9, date: '2026-09-10' },
-  'manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik': { price: 15.8, date: '2026-09-10' },
+  'manta-disco-led-zarulja-bt-upravljanje-preko-mobitela-zvucnik': { price: 19.78, date: '2026-09-10' }, // kasa 8095: 19,78 (web was 15.80)
   'manta-mikrofon-bezicni-aretha-komplet-prijemnik-predajnik': { price: 16, date: '2026-09-10' },
   'manta-premium-power-bank-7000mah': { price: 19, date: '2026-09-10' },
   'manta-punjac-za-ac220-3xusb-31a': { price: 6.5, date: '2026-09-10' },
   'memorija-usb-gooddrive-piccolo-32gb': { price: 8.5, date: '2026-09-10' },
   'memorija-usb-kioxia-toshiba-hayabusa-128gb-bijeli': { price: 15, date: '2026-09-10' },
   'memorija-usb-kioxia-toshiba-hayabusa-32gb': { price: 8.5, date: '2026-09-10' },
-  'mikrofon-manta-christina-zicni63cm-3m': { price: 9.5, date: '2026-09-10' },
+  'mikrofon-manta-christina-zicni63cm-3m': { price: 10.49, date: '2026-09-10' }, // kasa 7026 MIKROFON ŽIČANI: 10,49 (web was 9.50)
   'modiano-jumbo-index-black-100-pvc': { price: 12, date: '2026-09-10' },
   'multifunkcionalni-pribor-za-jelo-5u1': { price: 6.5, date: '2026-09-10' },
   'muska-kozna-torba': { price: 22, priceMax: 26, date: '2026-09-10' },
