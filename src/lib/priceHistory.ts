@@ -4,18 +4,20 @@
  *
  * Used for the "sidrena cijena" (Odluka o isticanju dodatne cijene, NN 101/2026): alongside
  * every price we show what it was on ANCHOR_DATE, or on the day the product was introduced if
- * that came later; and for the daily machine-readable price list (Odluka o objavi cjenika),
- * whose last 30 days must stay downloadable.
+ * that came later. Products that existed when the anchors were frozen come from
+ * src/data/anchors.ts (taken from the shop's own price list); later additions are read from
+ * git. Also used for the daily machine-readable price list (Odluka o objavi cjenika), whose
+ * last 30 days must stay downloadable.
  *
  * Needs the full history: a shallow clone fails the build rather than publish wrong prices.
  */
 import { execFileSync } from 'node:child_process';
+import { ANCHORS, FROZEN_AT } from '../data/anchors';
 
 const PRODUCTS_DIR = 'src/content/products';
 
-/** Reference date for the anchor price, end of day in Zagreb */
+/** Reference date for the anchor price */
 export const ANCHOR_DATE = '2026-09-10';
-const ANCHOR_CUTOFF = '2026-09-10T23:59:59+02:00';
 
 export interface PricePoint {
   price: number;
@@ -118,18 +120,16 @@ export function snapshotAt(cutoff: string): Map<string, ProductSnapshot> {
 let anchors: Map<string, Anchor> | undefined;
 
 /**
- * Anchor price per product slug. Products that existed on ANCHOR_DATE keep that day's price;
- * products added later get their price on the day they were added. Renames carry the anchor.
+ * Anchor price per product slug: the frozen list, plus products added since, at their price on
+ * the day they were added. Renames carry the anchor to the new slug.
  */
 export function anchorPrices(): Map<string, Anchor> {
   if (anchors) return anchors;
-  const result = new Map<string, Anchor>();
-  for (const [slug, p] of snapshotAt(ANCHOR_CUTOFF)) {
-    result.set(slug, { price: p.price, priceMax: p.priceMax, date: ANCHOR_DATE });
-  }
+  assertFullHistory();
+  const result = new Map<string, Anchor>(Object.entries(ANCHORS));
 
   // Walk later commits oldest-first for additions and renames
-  const log = git('log', '--reverse', '-M', '--name-status', '--format=@%H %cI', `--since=${ANCHOR_CUTOFF}`, '--', PRODUCTS_DIR);
+  const log = git('log', '--reverse', '-M', '--name-status', '--format=@%H %cI', `--since=${FROZEN_AT}`, '--', PRODUCTS_DIR);
   const added: { commit: string; date: string; path: string }[] = [];
   let commit = '';
   let date = '';
