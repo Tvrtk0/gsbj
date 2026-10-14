@@ -1,7 +1,6 @@
 ---
 import { formatPriceFrom } from '../lib/price';
 import AnchorPrice from './AnchorPrice.astro';
-import { productImageTransition } from '../lib/transition';
 import { responsiveImage, SIZES } from '../lib/images';
 
 interface Props {
@@ -34,7 +33,7 @@ const img = responsiveImage(image);
       sizes={SIZES.card}
       alt={name}
       class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-[1.04]"
-      style={productImageTransition(slug)}
+      data-product-image={slug}
       loading="lazy"
       decoding="async"
     />

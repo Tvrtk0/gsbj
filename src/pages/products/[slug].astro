@@ -2,7 +2,6 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProductCard from '../../components/ProductCard.astro';
 import { getCollection, render } from 'astro:content';
-import { productImageTransition } from '../../lib/transition';
 import { responsiveImage, SIZES } from '../../lib/images';
 import { formatPrice } from '../../lib/price';
 import AnchorPrice from '../../components/AnchorPrice.astro';
@@ -80,7 +79,8 @@ const jsonLd = {
             alt={data.name}
             fetchpriority="high"
             class="w-full h-full object-contain"
-            style={productImageTransition(product.id)}
+            data-product-image={product.id}
+            data-product-image-main
             data-pagefind-meta="image[src], image_alt[alt]"
           />
         </div>

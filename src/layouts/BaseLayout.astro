@@ -38,6 +38,36 @@ const footerLinks = [
     <link rel="icon" type="image/png" sizes="32x32" href={`${base}favicon-32.png`} />
     <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
     <meta name="theme-color" content="#a0443f" />
+    <script is:inline>
+      // Product photo morph across page loads (view transitions). Only one image may carry the
+      // name, picked at the moment of navigation: naming every card made products visible on
+      // both pages (list and "Možda vas zanima") fly around too. Inline in <head> because
+      // pagereveal fires before the first frame.
+      (() => {
+        const NAME = 'product-image';
+        const slugOf = (url) => (new URL(url).pathname.match(/\/products\/([^/]+)\/?$/) || [])[1];
+        const imgFor = (slug) => slug && document.querySelector('img[data-product-image="' + CSS.escape(slug) + '"]');
+        const main = () => document.querySelector('img[data-product-image-main]');
+        const only = (img) => {
+          document.querySelectorAll('img[data-product-image]').forEach((i) => (i.style.viewTransitionName = ''));
+          if (img) img.style.viewTransitionName = NAME;
+        };
+        // Leaving: the card of the product we're opening, else this page's own product photo
+        addEventListener('pageswap', (e) => {
+          if (!e.viewTransition) return;
+          const to = e.activation && e.activation.entry && slugOf(e.activation.entry.url);
+          only(imgFor(to) || main());
+        });
+        // Arriving: this page's product photo, or on a list, the card of the product we came from
+        addEventListener('pagereveal', (e) => {
+          if (!e.viewTransition) return;
+          const from = window.navigation && navigation.activation && navigation.activation.from;
+          const img = main() || (from && imgFor(slugOf(from.url)));
+          only(img);
+          if (img) e.viewTransition.finished.finally(() => (img.style.viewTransitionName = ''));
+        });
+      })();
+    </script>
     <Font cssVariable="--font-inter" preload />
     <Font cssVariable="--font-fraunces" preload />
     <SEO title={title} description={description} image={image} type={type} jsonLd={jsonLd} />
