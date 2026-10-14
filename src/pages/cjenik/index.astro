@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { fileName, publishedDays } from '../../lib/cjenik';
+import { formatDateHr } from '../../lib/price';
+
+const base = import.meta.env.BASE_URL;
+const days = publishedDays().reverse();
+---
+
+<BaseLayout title="Cjenik" description="Strojno čitljiv cjenik proizvoda Gift Shop Bjelovar.">
+  <section class="px-4 md:px-8 py-14 md:py-20">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="animate-enter text-4xl md:text-5xl">Cjenik</h1>
+      <p class="animate-enter mt-4 text-muted-foreground leading-relaxed" style="--i: 1">
+        Cjenik svih proizvoda u prodaji u strojno čitljivom obliku (CSV), sukladno Odluci o objavi cjenika
+        proizvoda i usluga (NN 101/2026). Objavljuje se svaki dan do 8 sati, a cjenici iz prethodnih 30 dana
+        dostupni su u nastavku. Uz maloprodajnu cijenu naveden je i dodatna cijena na dan 10. 9. 2026., odnosno
+        na dan uvođenja proizvoda u prodaju.
+      </p>
+
+      <a
+        href={`${base}cjenik.csv`}
+        class="press animate-enter mt-8 inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover"
+        style="--i: 2"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v12m0 0-4-4m4 4 4-4M5 20h14"/></svg>
+        Današnji cjenik (CSV)
+      </a>
+
+      <h2 class="mt-12 text-2xl">Arhiva</h2>
+      <ul class="mt-4 divide-y divide-border rounded-xl bg-card ring-1 ring-border/60">
+        {days.map((day) => (
+          <li>
+            <a href={`${base}cjenik/${fileName(day)}.csv`} class="flex items-center justify-between gap-4 px-5 py-3 hover:text-primary transition-colors">
+              <span>{formatDateHr(day)}</span>
+              <span class="text-sm text-muted-foreground truncate">{fileName(day)}.csv</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

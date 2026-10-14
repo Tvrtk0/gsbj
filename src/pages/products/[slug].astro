@@ -4,7 +4,8 @@ import ProductCard from '../../components/ProductCard.astro';
 import { getCollection, render } from 'astro:content';
 import { productImageTransition } from '../../lib/transition';
 import { responsiveImage, SIZES } from '../../lib/images';
-import { formatPrice } from '../../lib/price';
+import { formatPrice, formatAnchor } from '../../lib/price';
+import { anchorFor } from '../../lib/priceHistory';
 
 export async function getStaticPaths() {
   const products = await getCollection('products', ({ data }) => !data.archive);
@@ -19,6 +20,7 @@ const { data } = product;
 const { Content } = await render(product);
 const base = import.meta.env.BASE_URL;
 const img = responsiveImage(data.image);
+const anchor = anchorFor(product.id, { price: data.price, priceMax: data.priceMax });
 
 const allProducts = await getCollection('products', ({ data: d }) => !d.archive);
 const categories = await getCollection('categories');
@@ -99,6 +101,10 @@ const jsonLd = {
 
           <p class="animate-enter text-2xl font-semibold text-primary mt-4" style="--i: 2">
             {formatPrice(data.price, data.priceMax)}
+          </p>
+          {/* Anchor price (NN 101/2026); kept out of the search index */}
+          <p class="animate-enter mt-1 text-sm text-muted-foreground" style="--i: 2" data-pagefind-ignore>
+            {formatAnchor(anchor)}
           </p>
 
           <div class="animate-enter mt-6 text-[15px] md:text-base leading-7 text-foreground/80 whitespace-pre-line" style="--i: 3">

@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Daily rebuild so the price list (/cjenik) is republished every morning before 8:00 Zagreb
+  # time, as NN 101/2026 requires even when nothing changed. 02:30 UTC (03:30 or 04:30 in
+  # Zagreb) leaves room for GitHub's scheduling delays; each list is as of 03:00.
+  schedule:
+    - cron: '30 2 * * *'
 
 permissions:
   contents: read
@@ -19,6 +24,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Anchor prices and past price lists are read from git history (src/lib/priceHistory.ts)
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
