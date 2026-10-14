@@ -1,6 +1,6 @@
 ---
-import { formatPriceFrom, formatAnchor } from '../lib/price';
-import { anchorFor } from '../lib/priceHistory';
+import { formatPriceFrom } from '../lib/price';
+import AnchorPrice from './AnchorPrice.astro';
 import { productImageTransition } from '../lib/transition';
 import { responsiveImage, SIZES } from '../lib/images';
 
@@ -17,7 +17,6 @@ interface Props {
 const { name, slug, price, priceMax, image, category, hidden = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const img = responsiveImage(image);
-const anchor = anchorFor(slug, { price, priceMax });
 ---
 
 <a
@@ -45,6 +44,6 @@ const anchor = anchorFor(slug, { price, priceMax });
     <p class="mt-auto pt-1.5 font-semibold text-primary">
       {formatPriceFrom(price, priceMax)}
     </p>
-    <p class="mt-0.5 text-xs text-muted-foreground">{formatAnchor(anchor, true)}</p>
+    <AnchorPrice slug={slug} price={price} priceMax={priceMax} class="mt-1" />
   </div>
 </a>
