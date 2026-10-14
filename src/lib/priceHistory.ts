@@ -6,8 +6,7 @@
  * every price we show what it was on ANCHOR_DATE, or on the day the product was introduced if
  * that came later. Products that existed when the anchors were frozen come from
  * src/data/anchors.ts (taken from the shop's own price list); later additions are read from
- * git. Also used for the daily machine-readable price list (Odluka o objavi cjenika), whose
- * last 30 days must stay downloadable.
+ * git. (The daily machine-readable price list is separate: src/lib/cjenik.ts.)
  *
  * Needs the full history: a shallow clone fails the build rather than publish wrong prices.
  */
@@ -29,11 +28,9 @@ export interface Anchor extends PricePoint {
   date: string;
 }
 
-export interface ProductSnapshot extends PricePoint {
+interface ProductSnapshot extends PricePoint {
   slug: string;
   name: string;
-  category: string;
-  archive: boolean;
 }
 
 const git = (...args: string[]) =>
@@ -89,32 +86,9 @@ function parseProduct(slug: string, source: string): ProductSnapshot | null {
   return {
     slug,
     name: field('name') ?? slug,
-    category: field('category') ?? '',
-    archive: field('archive') === 'true',
     price,
     priceMax: num(field('priceMax')),
   };
-}
-
-/** Every product as it stood in the last commit at or before `cutoff` (ISO date-time) */
-export function snapshotAt(cutoff: string): Map<string, ProductSnapshot> {
-  assertFullHistory();
-  const commit = git('rev-list', '-1', `--before=${cutoff}`, 'HEAD').trim();
-  const products = new Map<string, ProductSnapshot>();
-  if (!commit) return products;
-  const entries = git('ls-tree', '-r', commit, '--', PRODUCTS_DIR)
-    .split('\n')
-    .filter(Boolean)
-    .map((line) => {
-      const [meta, path] = line.split('\t');
-      return { blob: meta.split(' ')[2], path };
-    })
-    .filter((e) => isProduct(e.path));
-  readBlobs(entries.map((e) => e.blob)).forEach((source, i) => {
-    const product = parseProduct(slugOf(entries[i].path), source);
-    if (product) products.set(product.slug, product);
-  });
-  return products;
 }
 
 let anchors: Map<string, Anchor> | undefined;

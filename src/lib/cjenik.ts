@@ -1,13 +1,16 @@
 /**
  * The machine-readable price list (Odluka o objavi cjenika proizvoda i usluga, NN 101/2026):
- * a CSV of every product on sale, published daily by 8:00, with each day's file kept online
- * for 30 days. Columns follow the Ministry's proposed template, plus the anchor's date for
- * products introduced after the reference date.
+ * a CSV of every article the shop sells, published daily by 8:00, with each day's file kept
+ * online for 30 days. Columns follow the Ministry's proposed template, plus the anchor's date
+ * for articles introduced after the reference date.
  *
- * Past days are rebuilt from git history (src/lib/priceHistory.ts), so a rebuild always
- * reproduces exactly what each day's list said.
+ * The articles come from the till's export (src/data/kasa.json, see scripts/import-kasa.py),
+ * which is re-imported when prices change; until then every day republishes the same list.
+ * Past days are read from git history, so a rebuild reproduces exactly what each day said.
  */
-import { ANCHOR_DATE, anchorFor, snapshotAt, zagrebDate, zagrebOffset, type PricePoint } from './priceHistory';
+import { readFileSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
+import { ANCHOR_DATE, zagrebOffset } from './priceHistory';
 import { formatDateHr } from './price';
 
 /** First day this site published a price list; no earlier files are generated */
@@ -15,13 +18,19 @@ const FIRST_DAY = '2026-10-14';
 const KEEP_DAYS = 30;
 /** Time each day's list reflects (the daily build runs before it) */
 const AS_OF = '03:00';
+const KASA = 'src/data/kasa.json';
 
 /** Identifies the shop in file names (točka VI.): type, address, internal code */
 const STORE = { kind: 'trgovina', address: 'Augusta Šenoe 25 Bjelovar', code: 'P01' };
 
-export interface ListedProduct extends PricePoint {
-  slug: string;
+export interface Article {
+  code: string;
   name: string;
+  unit: string;
+  price: number;
+  anchor: number;
+  /** YYYY-MM-DD */
+  anchorDate: string;
 }
 
 const HEADER = [
@@ -39,39 +48,31 @@ const HEADER = [
   'Datum dodatne cijene',
 ];
 
-/** Decimal comma, no currency sign; an assortment sold at a range of prices as "1,00-4,00" */
-const amount = ({ price, priceMax }: PricePoint) => {
-  const fmt = (n: number) => n.toFixed(2).replace('.', ',');
-  return priceMax === undefined ? fmt(price) : `${fmt(price)}-${fmt(priceMax)}`;
-};
+/** Decimal comma, no currency sign */
+const amount = (n: number) => n.toFixed(2).replace('.', ',');
 
 const cell = (value: string) => (/[;"\n\r]/.test(value) ? `"${value.replace(/"/g, '""')}"` : value);
 
-export function csv(products: ListedProduct[]): string {
-  const rows = [...products]
-    .sort((a, b) => a.name.localeCompare(b.name, 'hr'))
-    .map((p) => {
-      const anchor = anchorFor(p.slug, p);
-      return [
-        p.name,
-        p.slug,
-        '',
-        'kom',
-        '',
-        amount(p),
-        'NE',
-        '',
-        amount(anchor),
-        '',
-        'DA',
-        formatDateHr(anchor.date),
-      ];
-    });
+export function csv(articles: Article[]): string {
+  const rows = articles.map((a) => [
+    a.name,
+    a.code,
+    '',
+    a.unit,
+    '',
+    amount(a.price),
+    'NE',
+    '',
+    amount(a.anchor),
+    '',
+    'DA',
+    formatDateHr(a.anchorDate),
+  ]);
   return [HEADER, ...rows].map((r) => r.map(cell).join(';')).join('\r\n') + '\r\n';
 }
 
 /** Days with a published list, oldest first: the last KEEP_DAYS days, not before FIRST_DAY */
-export function publishedDays(today = zagrebDate(new Date())): string[] {
+export function publishedDays(today = zagrebToday()): string[] {
   const days: string[] = [];
   const d = new Date(`${today}T12:00:00Z`);
   for (let i = 0; i < KEEP_DAYS; i++) {
@@ -83,7 +84,9 @@ export function publishedDays(today = zagrebDate(new Date())): string[] {
   return days;
 }
 
-/** e.g. "trgovina_Augusta-Senoe-25-Bjelovar_P01_001_14.10.2026_06-00" (no extension) */
+export const zagrebToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Zagreb' }).format(new Date());
+
+/** e.g. "trgovina_Augusta-Senoe-25-Bjelovar_P01_001_14.10.2026_03-00" (no extension) */
 export function fileName(day: string): string {
   const seq = Math.round((Date.parse(day) - Date.parse(FIRST_DAY)) / 86_400_000) + 1;
   const [y, m, d] = day.split('-');
@@ -95,16 +98,17 @@ export function fileName(day: string): string {
   return [STORE.kind, address, STORE.code, String(seq).padStart(3, '0'), `${d}.${m}.${y}`, AS_OF.replace(':', '-')].join('_');
 }
 
-/** Products on sale on a past `day`, as of AS_OF that morning */
-export function productsOn(day: string): ListedProduct[] {
-  return [...snapshotAt(`${day}T${AS_OF}:00${zagrebOffset(day)}`).values()].filter((p) => !p.archive);
-}
+const parse = (json: string): Article[] => JSON.parse(json).articles;
 
-/** Today's list is the site as built (the content collection), not a git snapshot */
-export async function currentProducts(): Promise<ListedProduct[]> {
-  const { getCollection } = await import('astro:content');
-  const products = await getCollection('products', ({ data }) => !data.archive);
-  return products.map((p) => ({ slug: p.id, name: p.data.name, price: p.data.price, priceMax: p.data.priceMax }));
+/** Today's list: the till export as built */
+export const currentArticles = (): Article[] => parse(readFileSync(KASA, 'utf8'));
+
+/** The list on a past `day`, as of AS_OF that morning, from git history */
+export function articlesOn(day: string): Article[] {
+  const git = (...args: string[]) => execFileSync('git', args, { encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
+  const commit = git('rev-list', '-1', `--before=${day}T${AS_OF}:00${zagrebOffset(day)}`, 'HEAD', '--', KASA).trim();
+  // Before the first import was committed there's nothing older to show; use the current one
+  return commit ? parse(git('show', `${commit}:${KASA}`)) : currentArticles();
 }
 
 export const csvResponse = (body: string) =>
