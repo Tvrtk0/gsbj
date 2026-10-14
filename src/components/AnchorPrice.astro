@@ -20,29 +20,26 @@ const { slug, price, priceMax, variant = 'card', class: className, style } = Ast
 const anchor = anchorFor(slug, { price, priceMax });
 const date = formatDateHr(anchor.date);
 const amount = variant === 'card' ? formatPriceFrom(anchor.price, anchor.priceMax) : formatPrice(anchor.price, anchor.priceMax);
-const label = `Cijena na dan ${date}: ${amount}`;
+const label = `Cijena na dan ${date} iznosila je ${amount}`;
 const calendar =
   'M8 3v3m8-3v3M4.5 9h15M6 5h12a1.5 1.5 0 0 1 1.5 1.5V19a1.5 1.5 0 0 1-1.5 1.5H6A1.5 1.5 0 0 1 4.5 19V6.5A1.5 1.5 0 0 1 6 5Z';
 ---
 
 {
   variant === 'detail' ? (
-    <div
-      class:list={['inline-flex items-center gap-3 rounded-xl bg-card ring-1 ring-border/70 pl-3 pr-4 py-2.5', className]}
+    // Secondary to the current price above it: one muted line, no box, no bold
+    <p
+      class:list={['flex flex-wrap items-center gap-x-1.5 text-sm text-muted-foreground', className]}
       style={style}
       title={label}
       data-pagefind-ignore
     >
-      <span class="grid place-items-center w-8 h-8 rounded-lg bg-tint text-primary shrink-0" aria-hidden="true">
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" d={calendar} />
-        </svg>
-      </span>
-      <span class="leading-tight">
-        <span class="block text-xs text-muted-foreground">Cijena na dan {date}</span>
-        <span class="block font-semibold tabular-nums">{amount}</span>
-      </span>
-    </div>
+      <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d={calendar} />
+      </svg>
+      <span class="whitespace-nowrap">Cijena na dan {date}</span>
+      <span class="whitespace-nowrap tabular-nums">{amount}</span>
+    </p>
   ) : (
     <p
       class:list={['flex flex-wrap items-center gap-x-1 text-xs text-muted-foreground', className]}

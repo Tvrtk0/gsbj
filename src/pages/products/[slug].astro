@@ -98,11 +98,11 @@ const jsonLd = {
 
           <h1 class="animate-enter text-[1.75rem] md:text-3xl lg:text-[2.25rem] leading-tight mt-3" style="--i: 1">{data.name}</h1>
 
-          <p class="animate-enter text-2xl font-semibold text-primary mt-4" style="--i: 2">
+          <p class="animate-enter text-3xl font-semibold text-primary tabular-nums mt-4" style="--i: 2">
             {formatPrice(data.price, data.priceMax)}
           </p>
           {/* Anchor price (NN 101/2026); the component keeps it out of the search index */}
-          <AnchorPrice slug={product.id} price={data.price} priceMax={data.priceMax} variant="detail" class="animate-enter mt-3" style="--i: 2" />
+          <AnchorPrice slug={product.id} price={data.price} priceMax={data.priceMax} variant="detail" class="animate-enter mt-1.5" style="--i: 2" />
 
           <div class="animate-enter mt-6 text-[15px] md:text-base leading-7 text-foreground/80 whitespace-pre-line" style="--i: 3">
             <Content />
