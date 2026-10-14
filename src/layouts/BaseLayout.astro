@@ -22,10 +22,10 @@ const [{ data: info }] = await getCollection('info');
 const phoneHref = `tel:+385${info.phone.replace(/\s+/g, '').replace(/^0/, '')}`;
 const footerLinks = [
   { href: base, label: 'Početna' },
-  { href: `${base}products`, label: 'Proizvodi' },
-  { href: `${base}contact`, label: 'Kontakt' },
-  { href: `${base}policy`, label: 'Pravila' },
-  { href: `${base}cjenik`, label: 'Cjenik' },
+  { href: `${base}products/`, label: 'Proizvodi' },
+  { href: `${base}contact/`, label: 'Kontakt' },
+  { href: `${base}policy/`, label: 'Pravila' },
+  { href: `${base}cjenik/`, label: 'Cjenik' },
 ];
 ---
 
@@ -38,6 +38,14 @@ const footerLinks = [
     <link rel="icon" type="image/png" sizes="32x32" href={`${base}favicon-32.png`} />
     <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
     <meta name="theme-color" content="#a0443f" />
+    {/* Prefetch a page when the pointer rests on (or a finger touches) a link to it, so it's
+        already here on click: faster, and the page transition never risks timing out */}
+    <script
+      type="speculationrules"
+      set:html={JSON.stringify({
+        prefetch: [{ where: { and: [{ href_matches: `${base}*` }, { not: { href_matches: '*.csv' } }] }, eagerness: 'moderate' }],
+      })}
+    />
     <script is:inline>
       // Product photo morph across page loads (view transitions). Only one image may carry the
       // name, picked at the moment of navigation: naming every card made products visible on

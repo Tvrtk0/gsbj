@@ -59,14 +59,14 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
         </p>
         <div class="animate-enter mt-8 flex flex-col sm:flex-row gap-3 justify-center lg:justify-start" style="--i: 3">
           <a
-            href={`${base}products`}
+            href={`${base}products/`}
             class="press inline-flex items-center justify-center px-7 py-3.5 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover shadow-sm shadow-primary/20"
           >
             Pogledaj proizvode
             <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
           </a>
           <a
-            href={`${base}contact`}
+            href={`${base}contact/`}
             class="press inline-flex items-center justify-center px-7 py-3.5 bg-card border border-border text-foreground font-medium rounded-xl hover:border-primary hover:text-primary"
           >
             Kontaktiraj nas
@@ -78,7 +78,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
       <div class="hidden lg:grid grid-cols-2 gap-4 w-full">
         {heroProducts.map((p, i) => (
           <a
-            href={`${base}products/${p.id}`}
+            href={`${base}products/${p.id}/`}
             style={`--i: ${i}`}
             class:list={[
               'animate-pop group aspect-square rounded-2xl bg-card p-4 md:p-6 shadow-sm ring-1 ring-border/60 transition-[translate] hover:-translate-y-1',
@@ -105,7 +105,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
         <svg class="w-5 h-5 text-primary shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
         <p class="text-sm">
           <span id="today-hours" data-hours={JSON.stringify(info.data.workingHours)} class="font-medium">Radno vrijeme</span>
-          <a href={`${base}contact`} class="block text-muted-foreground hover:text-primary transition-colors">Cijeli raspored</a>
+          <a href={`${base}contact/`} class="block text-muted-foreground hover:text-primary transition-colors">Cijeli raspored</a>
         </p>
       </div>
       <a href={directionsHref} target="_blank" rel="noopener noreferrer" class="group flex items-center gap-3 py-5 sm:px-6">
@@ -135,7 +135,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
       <div class="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
         {topCategories.map((cat) => (
           <a
-            href={`${base}products?category=${cat.slug}`}
+            href={`${base}products/?category=${cat.slug}`}
             data-reveal
             class="press group flex items-center gap-3 p-4 md:p-5 bg-card rounded-xl ring-1 ring-border/60 hover:ring-primary hover:shadow-md"
           >
@@ -159,7 +159,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
           <p class="text-muted-foreground mt-2">Iz naše ponude</p>
         </div>
         <a
-          href={`${base}products`}
+          href={`${base}products/`}
           class="hidden md:inline-flex items-center text-sm font-medium text-primary hover:text-primary-hover"
         >
           Pogledaj sve
@@ -180,7 +180,7 @@ const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${enc
       </div>
       <div class="text-center mt-8 md:hidden">
         <a
-          href={`${base}products`}
+          href={`${base}products/`}
           class="inline-flex items-center justify-center w-full px-6 py-3 bg-card border border-border rounded-xl text-sm font-medium text-primary"
         >
           Pogledaj sve proizvode

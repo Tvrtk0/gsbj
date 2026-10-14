@@ -15,7 +15,7 @@ const base = import.meta.env.BASE_URL;
       </p>
 
       {/* Lands on the listing with ?q=, which runs the search there */}
-      <form action={`${base}products`} method="get" role="search" class="relative mt-8 text-left">
+      <form action={`${base}products/`} method="get" role="search" class="relative mt-8 text-left">
         <svg class="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z"/></svg>
         <input
           type="search"
@@ -31,7 +31,7 @@ const base = import.meta.env.BASE_URL;
       </form>
 
       <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
-        <a href={`${base}products`} class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover transition-colors">
+        <a href={`${base}products/`} class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary-hover transition-colors">
           Svi proizvodi
         </a>
         <a href={base} class="inline-flex items-center justify-center px-6 py-3 bg-card ring-1 ring-border font-medium rounded-xl hover:ring-primary hover:text-primary transition-colors">
